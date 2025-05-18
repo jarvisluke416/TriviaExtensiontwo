@@ -1,0 +1,3485 @@
+[
+  {
+    "id": 1,
+    "facts": "This gemstone is known for its deep green color, often found in metamorphic rocks like schist and gneiss.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Actinolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Actinolite_Portugal.jpg/330px-Actinolite_Portugal.jpg",
+    "points": 10
+  },
+  {
+    "id": 2,
+    "facts": "This gemstone is often associated with jade and has a smooth, glossy texture, found in metamorphic rocks.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Nephrite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Nephrite_jordanow_slaski.jpg/330px-Nephrite_jordanow_slaski.jpg",
+    "points": 10
+  },
+  {
+    "id": 3,
+    "facts": "A rare mineral that forms in highly oxidized zones of ore deposits, usually green or yellow in color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Adamite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Adamite-179841.jpg/330px-Adamite-179841.jpg",
+    "points": 10
+  },
+  {
+    "id": 4,
+    "facts": "This gemstone forms in igneous rocks and has a distinctive needle-like crystal habit, often black or dark green.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Aegirine",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Aegirine_-_Mt_Malosa%2C_Zomba%2C_Malawi_%28alt%29.jpg/330px-Aegirine_-_Mt_Malosa%2C_Zomba%2C_Malawi_%28alt%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 5,
+    "facts": "A sodium-rich mineral that forms in igneous rocks, often associated with hydrothermal environments.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Afghanite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Afghanite_%28Afghanistan%29_1.jpg/330px-Afghanite_%28Afghanistan%29_1.jpg",
+    "points": 10
+  },
+  {
+    "id": 6,
+    "facts": "This gemstone is known for its fluorescent properties, often appearing orange or red when exposed to ultraviolet light.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Agrellite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Museo_di_mineralogia%2C_pietre_fluorescenti%2C_agrellite_3.JPG/330px-Museo_di_mineralogia%2C_pietre_fluorescenti%2C_agrellite_3.JPG",
+    "points": 10
+  },
+  {
+    "id": 7,
+    "facts": "This gemstone is a rare copper arsenate mineral often found in the United States, particularly in Michigan.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Algodonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Algodonite-540264.jpg",
+    "points": 10
+  },
+  {
+    "id": 8,
+    "facts": "A mineral that often occurs as a secondary mineral in rocks with a high sulfate content.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Alunite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Alunite_-_USGS_Mineral_Specimens_015.jpg/330px-Alunite_-_USGS_Mineral_Specimens_015.jpg",
+    "points": 10
+  },
+  {
+    "id": 9,
+    "facts": "This gemstone is known for its high level of transparency and is often used as a gemstone in jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Amblygonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mineral_Ambligonita_GDFL032.jpg/330px-Mineral_Ambligonita_GDFL032.jpg",
+    "points": 10
+  },
+  {
+    "id": 10,
+    "facts": "This mineral is typically found in volcanic rocks and is characterized by its cubic crystal structure.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Analcime",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Analcime_-_Kahwan_Mountain%2C_Semnan%2C_Iran.jpg/330px-Analcime_-_Kahwan_Mountain%2C_Semnan%2C_Iran.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 11,
+    "facts": "This gemstone is known for its deep green color, often found in metamorphic rocks like schist and gneiss.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Actinolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Actinolite_Portugal.jpg/330px-Actinolite_Portugal.jpg",
+    "points": 10
+  },
+  {
+    "id": 12,
+    "facts": "This gemstone is often associated with jade and has a smooth, glossy texture, found in metamorphic rocks.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Nephrite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Nephrite_jordanow_slaski.jpg/330px-Nephrite_jordanow_slaski.jpg",
+    "points": 10
+  },
+  {
+    "id": 13,
+    "facts": "A rare mineral that forms in highly oxidized zones of ore deposits, usually green or yellow in color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Adamite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Adamite-179841.jpg/330px-Adamite-179841.jpg",
+    "points": 10
+  },
+  {
+    "id": 14,
+    "facts": "This gemstone forms in igneous rocks and has a distinctive needle-like crystal habit, often black or dark green.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Aegirine",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Aegirine_-_Mt_Malosa%2C_Zomba%2C_Malawi_%28alt%29.jpg/330px-Aegirine_-_Mt_Malosa%2C_Zomba%2C_Malawi_%28alt%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 15,
+    "facts": "A sodium-rich mineral that forms in igneous rocks, often associated with hydrothermal environments.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Afghanite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Afghanite_%28Afghanistan%29_1.jpg/330px-Afghanite_%28Afghanistan%29_1.jpg",
+    "points": 10
+  },
+  {
+    "id": 16,
+    "facts": "This gemstone is known for its fluorescent properties, often appearing orange or red when exposed to ultraviolet light.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Agrellite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Museo_di_mineralogia%2C_pietre_fluorescenti%2C_agrellite_3.JPG/330px-Museo_di_mineralogia%2C_pietre_fluorescenti%2C_agrellite_3.JPG",
+    "points": 10
+  },
+  {
+    "id": 17,
+    "facts": "This gemstone is a rare copper arsenate mineral often found in the United States, particularly in Michigan.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Algodonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Algodonit_-_Houghton_County%2C_Michigan%2C_USA.jpg/330px-Algodonit_-_Houghton_County%2C_Michigan%2C_USA.jpg",
+    "points": 10
+  },
+  {
+    "id": 18,
+    "facts": "A mineral that often occurs as a secondary mineral in rocks with a high sulfate content.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Alunite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Alunite_-_USGS_Mineral_Specimens_015.jpg/330px-Alunite_-_USGS_Mineral_Specimens_015.jpg",
+    "points": 10
+  },
+  {
+    "id": 19,
+    "facts": "This gemstone is known for its high level of transparency and is often used as a gemstone in jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Amblygonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mineral_Ambligonita_GDFL032.jpg/330px-Mineral_Ambligonita_GDFL032.jpg",
+    "points": 10
+  },
+  {
+    "id": 20,
+    "facts": "This mineral is typically found in volcanic rocks and is characterized by its cubic crystal structure.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Analcime",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Analcime_-_Kahwan_Mountain%2C_Semnan%2C_Iran.jpg/330px-Analcime_-_Kahwan_Mountain%2C_Semnan%2C_Iran.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 21,
+    "facts": "Aragonite forms in a variety of environments, including caves, hot springs, and arid regions, and is often mistaken for other minerals like calcite.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Aragonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Aragonite_crystal_-_Los_Molinillos%2C_Ceunca%2C_Spain_-_4x3.6x3.5cm_100g.jpg/330px-Aragonite_crystal_-_Los_Molinillos%2C_Ceunca%2C_Spain_-_4x3.6x3.5cm_100g.jpg",
+    "points": 10
+  },
+  {
+    "id": 22,
+    "facts": "This gemstone is typically found in alkaline igneous rocks and is a member of the amphibole group, known for its striking dark color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Arfvedsonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Arfvedsonit-167989.jpg/330px-Arfvedsonit-167989.jpg",
+    "points": 10
+  },
+  {
+    "id": 23,
+    "facts": "A fibrous mineral that forms in metamorphic rocks, asbestos has historically been used for insulation but is now recognized for its health risks.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Asbestos",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Asbestos_with_muscovite.png/330px-Asbestos_with_muscovite.png",
+    "points": 10
+  },
+  {
+    "id": 24,
+    "facts": "Astrophyllite is a rare gemstone with a unique radiated structure, typically found in high-temperature metamorphic environments.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Astrophyllite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Astrophyllite-168179.jpg/330px-Astrophyllite-168179.jpg",
+    "points": 10
+  },
+  {
+    "id": 25,
+    "facts": "This copper chloride mineral is often associated with the oxidation of copper-bearing ores and is noted for its bright green color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Atacamite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Atacamite_on_malachite_-_Mt_Gunson_mines%2C_South_Australia.jpg/330px-Atacamite_on_malachite_-_Mt_Gunson_mines%2C_South_Australia.jpg",
+    "points": 10
+  },
+  {
+    "id": 26,
+    "facts": "This phosphate mineral is typically found in granite pegmatites and is often used as a specimen for collectors due to its unique appearance.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Augelite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Augelite-78938.jpg/320px-Augelite-78938.jpg",
+    "points": 10
+  },
+  {
+    "id": 27,
+    "facts": "A rare and striking green mineral, Austinite is often found in oxidized copper deposits, forming crystals with a pearly or vitreous luster.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Austinite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Austinite-177832.jpg/330px-Austinite-177832.jpg",
+    "points": 10
+  },
+  {
+    "id": 28,
+    "facts": "Axinite is known for its wide range of colors, including shades of brown, purple, and green. It forms in contact metamorphic rocks and is highly prized by collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Axinite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Axinite-Mn_-_Canta%2C_Lima%2C_Peru.jpg/330px-Axinite-Mn_-_Canta%2C_Lima%2C_Peru.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 30,
+    "facts": "This gemstone often forms in metamorphic rocks, with colors ranging from brown to purple, and its acicular crystals are particularly prized in mineral collections.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Axinite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Axinite-Mn_-_Canta%2C_Lima%2C_Peru.jpg/330px-Axinite-Mn_-_Canta%2C_Lima%2C_Peru.jpg",
+    "points": 10
+  },
+  {
+    "id": 33,
+    "facts": "This deep blue mineral is often found in oxidized zones of copper deposits. It has a long history, having been used as a pigment in ancient art and is prized for its striking and vibrant blue color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Azurite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Azurite_-_New_Nevada_Lode%2C_La_Sal%2C_Utah%2C_USA.jpg/330px-Azurite_-_New_Nevada_Lode%2C_La_Sal%2C_Utah%2C_USA.jpg",
+    "points": 10
+  },
+  {
+    "id": 34,
+    "facts": "This mineral is a sulfate of barium, often appearing in various colors such as white, yellow, blue, and red. It has practical uses in industries such as oil and gas, where it is used to help weigh down drilling fluids.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Baryte",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Barite_-_Cerro_Warihuyn%2C_Miraflores%2C_Huamalies%2C_Huanuco%2C_Peru.jpg/330px-Barite_-_Cerro_Warihuyn%2C_Miraflores%2C_Huamalies%2C_Huanuco%2C_Peru.jpg",
+    "points": 10
+  },
+  {
+    "id": 35,
+    "facts": "This rare earth mineral contains elements such as cerium, lanthanum, and ytterbium. It is commonly found in carbonatite deposits and is an important source of elements used in modern technology and electronics.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Bastnäsite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bastnaesit_Burundi.jpg/330px-Bastnaesit_Burundi.jpg",
+    "points": 10
+  },
+  {
+    "id": 36,
+    "facts": "A copper-bearing mineral known for its vibrant green color, this gemstone is typically found in arid regions and is rare due to its scarcity in nature.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Bayldonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Bayldonite-Malachite-160206.jpg/330px-Bayldonite-Malachite-160206.jpg",
+    "points": 10
+  },
+  {
+    "id": 37,
+    "facts": "This gemstone, discovered in California, is composed of barium titanium silicate. Its blue color is brilliant and is considered to rival that of sapphire, making it highly prized among collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Benitoite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Benitoite_HD.jpg/330px-Benitoite_HD.jpg",
+    "points": 10
+  },
+  {
+    "id": 38,
+    "facts": "This mineral group includes a range of well-known gemstones. It forms large crystals, often with a hexagonal structure, and is famous for its use in several varieties such as emerald and aquamarine.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Beryl",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Beryl09.jpg/330px-Beryl09.jpg",
+    "points": 10
+  },
+  {
+    "id": 39,
+    "facts": "This variety of a well-known mineral is famous for its calming blue to greenish-blue color. Its name is derived from Latin, meaning 'seawater', and it has long been associated with tranquility and peacefulness.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Aquamarine (gem)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Aquamarine_P1000141.JPG/330px-Aquamarine_P1000141.JPG",
+    "points": 10
+  },
+  
+  {
+    "id": 40,
+    "facts": "This gemstone is known for its rich green color and is a variety of beryl. It is considered one of the most valuable and precious gemstones, often found in Colombia and Zambia. The name comes from the Latin word for 'green'.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Emerald",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/B%C3%A9ryl_var._%C3%A9meraude_sur_gangue_%28Muzo_Mine_Boyaca_-_Colombie%29_2.jpg/330px-B%C3%A9ryl_var._%C3%A9meraude_sur_gangue_%28Muzo_Mine_Boyaca_-_Colombie%29_2.jpg",
+    "points": 10
+  },
+  {
+    "id": 41,
+    "facts": "This rare and striking variety of emerald is distinguished by its unique star-like inclusions that form a six-pointed structure. These inclusions are known as 'trapiche' and occur due to the gem's growth conditions.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Trapiche emerald",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Trapiche_emerald_%28cropped%29.jpg/330px-Trapiche_emerald_%28cropped%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 42,
+    "facts": "This gem is a colorless variety of beryl and is often used in industrial applications due to its clarity and high transparency. It is sometimes confused with quartz due to its appearance, but its chemical composition is quite different.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Goshenite (gem)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gosh%C3%A9nite.jpg/330px-Gosh%C3%A9nite.jpg",
+    "points": 10
+  },
+  {
+    "id": 43,
+    "facts": "This is a group of minerals that includes several well-known gemstones, including aquamarine and emerald. The crystals are often large, and the mineral group is sought after for its beautiful transparency and hexagonal crystal structure.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Beryl",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Beryl09.jpg/330px-Beryl09.jpg",
+    "points": 10
+  },
+  {
+    "id": 44,
+    "facts": "A mineral that comes in many colors, this variety of beryl is a light pink to peach color and is often used in fine jewelry. It is sometimes referred to as 'pink emerald' and is highly prized for its delicate hue.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Morganite (gem)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Beryl-178682.jpg/330px-Beryl-178682.jpg",
+    "points": 10
+  },
+  {
+    "id": 45,
+    "facts": "This bright red gemstone is a variety of beryl and is one of the rarest gemstones in the world. It is often referred to as 'red emerald' due to its brilliant red color, and it is found in very limited locations.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Red beryl",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Beryl-23651.jpg/330px-Beryl-23651.jpg",
+    "points": 10
+  },
+  {
+    "id": 46,
+    "facts": "This rare and unusual gemstone is a sodium beryllium phosphate mineral that has a similar appearance to beryl, but is much rarer. It forms in pegmatitic deposits and is often colorless or pale in appearance.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Beryllonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Beryllonite.jpg/330px-Beryllonite.jpg",
+    "points": 10
+  },
+  {
+    "id": 47,
+    "facts": "This mineral is a rare lead and iron phosphate that forms in a wide range of colors, including brown and yellow. It is often found in the oxidized zones of ore deposits and is prized by collectors for its unique crystal forms.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Beudantite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Beudantite-ea12a.jpg/330px-Beudantite-ea12a.jpg",
+    "points": 10
+  },
+  {
+    "id": 48,
+    "facts": "This dark-colored mineral is part of the mica group and is often found in granite and other igneous rocks. It is commonly used in industrial applications due to its heat-resistant properties and is also a popular collector's item.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Biotite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Biotite_aggregate_-_Ochtendung%2C_Eifel%2C_Germany.jpg/330px-Biotite_aggregate_-_Ochtendung%2C_Eifel%2C_Germany.jpg",
+    "points": 10
+  },
+  {
+    "id": 49,
+    "facts": "This rare mineral has a vibrant blue color and forms in the oxidation zones of lead and copper deposits. It was discovered in 1869 and is highly prized by mineral collectors for its striking appearance.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Boleite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Boleite-rom51c.jpg/330px-Boleite-rom51c.jpg",
+    "points": 10
+  },
+  {
+    "id": 50,
+    "facts": "This borate mineral is known for its unique crystalline structure and striking appearance. It typically forms in colorless or pale shades and is valued for its high clarity and brilliance in gemstones.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Boracite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Boracite-169813.jpg/330px-Boracite-169813.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 51,
+    "facts": "This mineral is often referred to as 'peacock ore' due to its vibrant iridescent colors, ranging from purple to blue to gold. It is commonly found in copper-rich deposits and is a sought-after specimen for mineral collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Bornite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bornite-Quartz-135210.jpg/330px-Bornite-Quartz-135210.jpg",
+    "points": 10
+  },
+  {
+    "id": 52,
+    "facts": "A rare phosphate mineral that typically occurs in shades of yellow to greenish-yellow. This mineral is often found in pegmatitic deposits and is highly valued by collectors due to its distinctive color and transparency.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Brazilianite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Brazilianite-4jg60a.jpg/330px-Brazilianite-4jg60a.jpg",
+    "points": 10
+  },
+  {
+    "id": 53,
+    "facts": "This rare mineral forms cubic crystals with a metallic luster. It is often found in deposits rich in arsenic and is known for its unique and striking appearance, making it highly desirable for mineral collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Breithauptite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Breithauptite-229669.jpg/330px-Breithauptite-229669.jpg",
+    "points": 10
+  },
+  {
+    "id": 54,
+    "facts": "This mineral is a titanium oxide and typically forms thin, tabular crystals. It is often found in metamorphic rocks and is notable for its rare occurrence in clear, well-formed crystals, which makes it a desirable specimen.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Brookite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Brookite-gem7-07a.jpg/330px-Brookite-gem7-07a.jpg",
+    "points": 10
+  },
+  {
+    "id": 55,
+    "facts": "This mineral is a magnesium hydroxide that forms in fibrous, massive, or crystalline structures. It is typically found in metamorphic rocks and can range in color from colorless to light green or blue.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Brucite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Brucite-231242.jpg/330px-Brucite-231242.jpg",
+    "points": 10
+  },
+  {
+    "id": 56,
+    "facts": "A rare silicate mineral found in shades of white, yellow, or brown. It forms in carbonate-rich rock formations and is often associated with other rare minerals, making it an important specimen for mineral collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Bustamite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bustamite.jpg/330px-Bustamite.jpg",
+    "points": 10
+  },
+  {
+    "id": 57,
+    "facts": "This mineral variety belongs to the plagioclase feldspar group and is typically found in igneous rocks. It exhibits a wide range of colors from white to yellowish-green and is known for its hardness and crystalline properties.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Bytownite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bytownite-mrz296a.jpg/330px-Bytownite-mrz296a.jpg",
+    "points": 10
+  },
+  {
+    "id": 58,
+    "facts": "This carbonate mineral is one of the most abundant in the Earth's crust. It occurs in various colors, including colorless, white, and pastel hues, and is commonly used in construction and industrial applications.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Calcite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Calcite_Variation.png/330px-Calcite_Variation.png",
+    "points": 10
+  },
+  
+  
+  {
+    "id": 59,
+    "facts": "This mineral is a variety of calcite that contains manganese. It is typically pink in color and often forms translucent crystals, which are highly prized for their beauty and rarity in the mineral world.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Manganoan calcite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Calcite-60733.jpg/330px-Calcite-60733.jpg",
+    "points": 10
+  },
+  {
+    "id": 60,
+    "facts": "A rare lead copper sulfate mineral that forms bright green crystals. It is commonly found in oxidized zones of lead-copper deposits and is considered a significant mineral specimen for collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Caledonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Caledonit_auf_Cerussit_-_Mineralogisches_Museum_Bonn_%287354%29.jpg/330px-Caledonit_auf_Cerussit_-_Mineralogisches_Museum_Bonn_%287354%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 61,
+    "facts": "This rare mineral is found in basaltic volcanic rocks and typically forms pale blue to greenish crystals. It is a rare find, often associated with copper deposits, and is a sought-after specimen for mineral enthusiasts.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Canasite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Canasite-122713.jpg/330px-Canasite-122713.jpg",
+    "points": 10
+  },
+  {
+    "id": 62,
+    "facts": "A sodium-rich mineral that can be found in metamorphic rocks, it typically appears as translucent yellow crystals. This mineral is valued by collectors due to its scarcity and distinct crystallization.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Cancrinite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cancrinite_3166.jpg/330px-Cancrinite_3166.jpg",
+    "points": 10
+  },
+  {
+    "id": 63,
+    "facts": "This mineral is known for its striking yellow to orange hues and typically occurs in granular or fibrous formations. It is a rare specimen often found in saline environments, prized for its aesthetic qualities.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Vishnevite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vishnevite_-_sulfate_cancrinite_w-_orthoclase_and_melanite_Hydrous_sodium_calcium_potassium_aluminum_silicate_sulfate_and_carbonate_Loch_Borrolan_Sutherland_Scotland_1650.jpg/330px-thumbnail.jpg",
+    "points": 10
+  },
+  {
+    "id": 64,
+    "facts": "This rare mineral is a sodium carbonate compound that occurs in granular aggregates and is primarily found in evaporite deposits. Its striking color and rarity make it a unique specimen for collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Carletonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Carletonite-20263.jpg/330px-Carletonite-20263.jpg",
+    "points": 10
+  },
+  {
+    "id": 65,
+    "facts": "A mineral composed of hydrated potassium magnesium chloride, often found in salt deposits. It typically appears in white or colorless crystals, with some varieties showing a pale yellow hue.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Carnallite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Carnallit_cristalls.jpg/330px-Carnallit_cristalls.jpg",
+    "points": 10
+  },
+  {
+    "id": 66,
+    "facts": "This mineral is an important tin ore, appearing in shades of brown to black. It is often found in granite and pegmatite deposits and is widely used in the production of tin and other alloys.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Cassiterite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/4447M-cassiterite.jpg/330px-4447M-cassiterite.jpg",
+    "points": 10
+  },
+  {
+    "id": 67,
+    "facts": "A rare sodium mineral typically occurring in granite pegmatites. It forms prismatic crystals that are often clear to pale yellow and is prized by collectors for its unique crystal structure.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Catapleiite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Catapleiite-169450.jpg/330px-Catapleiite-169450.jpg",
+    "points": 10
+  },
+  {
+    "id": 68,
+    "facts": "This hydrated mineral is known for its vibrant blue color and typically forms radiating clusters of small crystals. It is often found in volcanic rocks and is sought after by mineral collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Cavansite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Cavansite-121680.jpg/330px-Cavansite-121680.jpg",
+    "points": 10
+  },
+  {
+    "id": 69,
+    "facts": "A strontium sulfate mineral that is often pale blue or colorless. It typically forms as delicate, elongated crystals and is known for its ethereal appearance. It is commonly found in sedimentary deposits.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Celestine (mineral)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Celestine_-_Sakoany_deposit%2C_Katsepy%2C_Mitsinjo%2C_Boeny%2C_Madagascar.jpg/330px-Celestine_-_Sakoany_deposit%2C_Katsepy%2C_Mitsinjo%2C_Boeny%2C_Madagascar.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 70,
+    "facts": "This mineral is a lead carbonate that commonly forms in transparent, colorless crystals. It is often found in oxidized zones of lead deposits and is known for its high refractive index and brilliant luster, making it a desirable specimen for collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Cerussite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cerussite_-_Nakhlak_mine%2C_Anarak%2C_Esfahan%2C_Iran.jpg/330px-Cerussite_-_Nakhlak_mine%2C_Anarak%2C_Esfahan%2C_Iran.jpg",
+    "points": 10
+  },
+  {
+    "id": 71,
+    "facts": "A zeolite mineral that typically forms as clear, colorless to white crystals. It is found in volcanic rocks and is valued for its ability to absorb water and other compounds. Its formation often occurs in cavities within basaltic rocks.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Chabazite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Chabazite-Ca-Heulandite-Ca-225190.jpg/330px-Chabazite-Ca-Heulandite-Ca-225190.jpg",
+    "points": 10
+  },
+  {
+    "id": 72,
+    "facts": "This mineral is a copper iron sulfide with a brassy yellow color. It often forms in massive or granular aggregates and is commonly found in copper ore deposits, often associated with other copper minerals.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Chalcopyrite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Chalcopyrite-199453.jpg/330px-Chalcopyrite-199453.jpg",
+    "points": 10
+  },
+  {
+    "id": 73,
+    "facts": "A rare phosphate mineral that typically forms in small, sharp crystals. It is often found in secondary mineral deposits and is known for its distinctive blue color, which can vary in shade depending on the specific conditions in which it formed.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Chambersite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Chambersite-133772.jpg/330px-Chambersite-133772.jpg",
+    "points": 10
+  },
+  {
+    "id": 74,
+    "facts": "This mineral is a rare member of the silicate family, typically occurring in a white to colorless form. It is found in high-pressure metamorphic rocks and is often associated with rare mineral deposits.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Charlesite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Charlesite3.jpg/330px-Charlesite3.jpg",
+    "points": 10
+  },
+  {
+    "id": 75,
+    "facts": "This violet-colored mineral is a silicate with a unique fibrous structure. It is most commonly found in Russia and is highly prized for its striking color and appearance, which makes it popular for use in cabochons and ornamental stones.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Charoite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Czaroit1.jpg/330px-Czaroit1.jpg",
+    "points": 10
+  },
+  {
+    "id": 76,
+    "facts": "This rare mineral forms in colors ranging from colorless to yellow and often occurs as small, glassy crystals. It is primarily found in pegmatitic rocks and is valued for its unique crystal structure and rarity.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Childrenite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Childrenite.jpg/330px-Childrenite.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 77,
+    "facts": "This rare mineral forms in orthorhombic crystals and is usually green or brown. It is found in some specific volcanic environments and is often associated with other rare minerals, making it a prized specimen for collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Chiolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Chiolite-59229.jpg",
+    "points": 10
+  },
+  {
+    "id": 78,
+    "facts": "A magnesium silicate mineral that forms in compact masses and can appear yellow, brown, or red. This mineral is typically found in high-temperature metamorphic rocks and is known for its toughness and crystal structure.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Chondrodite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Chondrodite-225224.jpg/330px-Chondrodite-225224.jpg",
+    "points": 10
+  },
+  {
+    "id": 79,
+    "facts": "A beryllium aluminum oxide mineral that often appears in a range of colors, including green, yellow, and brown. It is a common gemstone used in jewelry, with some varieties known for their ability to change color depending on the light.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Chrysoberyl",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Chrysoberyl-282796.jpg/330px-Chrysoberyl-282796.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 81,
+    "facts": "This gemstone is prized for its brilliant green to golden yellow color. It is an aluminum oxide mineral often found in pegmatitic and metamorphic environments and is used for both industrial purposes and as a gemstone.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Chrysoberyl",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Chrysoberyl-282796.jpg/330px-Chrysoberyl-282796.jpg",
+    "points": 10
+  },
+  {
+    "id": 82,
+    "facts": "A spinel group mineral that forms black to brownish crystals, often associated with high-temperature environments. It is a valuable mineral for industrial applications and a rare find for collectors of metallic minerals.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Chromite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Chromite-201529.jpg/330px-Chromite-201529.jpg",
+    "points": 10
+  },
+  {
+    "id": 83,
+    "facts": "This copper silicate mineral is often found in greenish hues and is typically associated with the oxidation of copper-bearing minerals. It has a smooth, glossy surface and can form in masses or botryoidal shapes.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Chrysocolla",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Chrysocolla-230109.jpg/330px-Chrysocolla-230109.jpg",
+    "points": 10
+  },
+  {
+    "id": 84,
+    "facts": "A mineral made up of magnesium silicate, chrysotile occurs in fibrous masses and is commonly found in serpentine rocks. It is widely known for its use in asbestos and its ability to form long, flexible fibers.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Chrysotile",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Chrysotile_1.jpg/330px-Chrysotile_1.jpg",
+    "points": 10
+  },
+  {
+    "id": 85,
+    "facts": "A mercury sulfide mineral, cinnabar is known for its vivid red to orange color. It is commonly found in volcanic regions and has historically been used as a pigment, although it is toxic and must be handled with care.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Cinnabar",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Cinnabar-1cm-_xl-Almaden.jpg/330px-Cinnabar-1cm-_xl-Almaden.jpg",
+    "points": 10
+  },
+  {
+    "id": 86,
+    "facts": "This mineral group is primarily composed of iron magnesium silicate minerals that form in foliated and compact masses. It is found in a wide range of metamorphic rocks and is characterized by its green to brownish color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Chlorite group",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/ChloriteUSGOV.jpg/330px-ChloriteUSGOV.jpg",
+    "points": 10
+  },
+  {
+    "id": 87,
+    "facts": "A rare and precious silicate mineral that typically forms in small, yellow to brown crystals. It is primarily found in metamorphic rocks and is often associated with other rare minerals in such environments.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Clinohumite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Clinohumite.jpg/330px-Clinohumite.jpg",
+    "points": 10
+  },
+  {
+    "id": 88,
+    "facts": "A member of the epidote group, this mineral is typically found in metamorphic rocks and is known for its unique greenish color. It is commonly found in the presence of other minerals, such as amphiboles and garnets.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Clinozoisite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Clinozoisite%2C_Amphibole_Group_-_Mount_Belvidere_Quarries%2C_Vermont%2C_USA.jpg/330px-Clinozoisite%2C_Amphibole_Group_-_Mount_Belvidere_Quarries%2C_Vermont%2C_USA.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 89,
+    "facts": "This mineral has a Mohs hardness of 6.5 and a specific gravity ranging from 3.0 to 3.1. It typically occurs as colorless, green, yellow, red, or reddish-brown masses and radial clusters. First described in 1843, it forms in serpentinized dolomitic limestone and contact metamorphosed skarns, often found with talc, spinel, and chlorite.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Clintonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Clintonite-Spinel-235093.jpg/330px-Clintonite-Spinel-235093.jpg",
+    "points": 10
+  },
+  {
+    "id": 90,
+    "facts": "This metallic mineral is a cobalt arsenic sulfide commonly found in hydrothermal veins. It is associated with pyrite and chalcopyrite and serves as an important cobalt ore. Historically mined in regions like Morocco and the Democratic Republic of Congo.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Cobaltite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Koboltglans.jpg/330px-Koboltglans.jpg",
+    "points": 10
+  },
+  {
+    "id": 91,
+    "facts": "This hydrated calcium borate mineral is typically found in evaporite deposits. It appears in massive, granular, or fibrous forms and is a significant boron source used in glass and ceramic industries. Named after an American geologist in the 19th century.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Colemanite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Colemanite_-_USGS_Mineral_Specimens_096.jpg/330px-Colemanite_-_USGS_Mineral_Specimens_096.jpg",
+    "points": 10
+  },
+  {
+    "id": 92,
+    "facts": "This mineral exhibits strong pleochroism, changing colors depending on viewing angle. Found in metamorphic rocks, it is valued both as a gemstone and in catalytic converter manufacturing for its thermal stability. First described in 1813.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Cordierite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Cordierite-den07-06aa.jpg/330px-Cordierite-den07-06aa.jpg",
+    "points": 10
+  },
+  {
+    "id": 93,
+    "facts": "A copper arsenate mineral, it occurs in green to blue-green shades and is found in oxidized zones of copper deposits. Frequently associated with malachite and azurite, it was named after a county in England where it was first discovered.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Cornwallite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Cornwallite-178955.jpg/330px-Cornwallite-178955.jpg",
+    "points": 10
+  },
+  {
+    "id": 94,
+    "facts": "Composed of aluminum oxide, this mineral ranks 9 on the Mohs hardness scale. It crystallizes in a trigonal system and appears in various colors depending on impurities. It is commonly used in both industrial abrasives and fine jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Corundum",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Several_corundum_crystals.jpg/330px-Several_corundum_crystals.jpg",
+    "points": 10
+  },
+  {
+    "id": 95,
+    "facts": "This red gemstone is a variety of a mineral known for its high hardness and durability. Its color is due to trace chromium. Historically linked with protection and wealth, it is especially prized in its finest form from Myanmar.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Ruby",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Corundum-215330.jpg/330px-Corundum-215330.jpg",
+    "points": 10
+  },
+  {
+    "id": 96,
+    "facts": "This gemstone is usually blue, but can appear in many other colors. It has been associated with wisdom and good fortune throughout history. It is sourced from regions like Sri Lanka and Kashmir and shares a mineral family with rubies.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Sapphire",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Szafir_-_Ratnapura%2C_Sri_Lanka.jpg/330px-Szafir_-_Ratnapura%2C_Sri_Lanka.jpg",
+    "points": 10
+  },
+  {
+    "id": 97,
+    "facts": "This unique gem variety shows a golden sheen caused by hematite inclusions. With high durability and brilliance, it is sourced almost exclusively from northeastern Kenya and is considered one of the rarest stones of its type.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Golden sheen sapphire",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Goldsheen_cushion_1.jpg/330px-Goldsheen_cushion_1.jpg",
+    "points": 10
+  },
+  {
+    "id": 98,
+    "facts": "This deep blue metallic mineral is composed of copper sulfide. It often forms as a secondary mineral in copper deposits and displays strong iridescence. Commonly found with minerals like chalcopyrite and bornite.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Covellite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Covellite-252597.jpg/330px-Covellite-252597.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 99,
+    "facts": "This mineral forms as prismatic or acicular crystals and can occur in colors like orange, purple, or colorless. It is typically found in hydrothermal veins and is known for its beautiful radiating crystal sprays. Often associated with fluorite and gypsum.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Creedite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Creedite_3_photo_fond.jpg/330px-Creedite_3_photo_fond.jpg",
+    "points": 10
+  },
+  {
+    "id": 100,
+    "facts": "This vibrant orange-red mineral is composed of lead chromate and is typically found in oxidized lead deposits. Notably sourced from Tasmania, it is prized by collectors for its striking, elongated crystal formations.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Crocoite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Crocoite_from_the_Dundas_extended_mine%2C_Dundas%2C_Tasmania%2C_Australia.jpg/330px-Crocoite_from_the_Dundas_extended_mine%2C_Dundas%2C_Tasmania%2C_Australia.jpg",
+    "points": 10
+  },
+  {
+    "id": 101,
+    "facts": "This rare mineral was historically important as a flux in aluminum smelting. It has a low melting point and appears as colorless to white, often with a waxy or greasy luster. Once mined extensively in Greenland.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Cryolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/816-_Ivigtut_-_cryolite.jpg/330px-816-_Ivigtut_-_cryolite.jpg",
+    "points": 10
+  },
+  {
+    "id": 102,
+    "facts": "This rock is an iron-rich igneous type with a dark coloration and a high concentration of magnetite. It is the official state rock of Rhode Island and contains a mixture of minerals, making it unique in appearance and magnetic properties.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Cumberlandite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Cumberlandite.JPG/330px-Cumberlandite.JPG",
+    "points": 10
+  },
+  {
+    "id": 103,
+    "facts": "This copper oxide mineral appears deep red to reddish-brown and can form cubic or octahedral crystals. It is a minor ore of copper and often found in oxidized zones of copper deposits. Known for its high luster and density.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Cuprite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CupriteUSGOV.jpg/330px-CupriteUSGOV.jpg",
+    "points": 10
+  },
+  {
+    "id": 104,
+    "facts": "This mineral is a calcium boron silicate often found in contact metamorphic rocks. It has a hardness of 7 and may occur in colors ranging from colorless to yellow or pink. It is sometimes used as a gemstone due to its brilliance.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Danburite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Danburite-162634.jpg/330px-Danburite-162634.jpg",
+    "points": 10
+  },
+  {
+    "id": 105,
+    "facts": "This borosilicate mineral is typically pale green or white and is found in hydrothermal veins and basalt cavities. It often forms nodular or botryoidal masses and is a source of boron and calcium.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Datolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Datolite-rom25c.jpg/330px-Datolite-rom25c.jpg",
+    "points": 10
+  },
+  {
+    "id": 106,
+    "facts": "This rare lead-zinc vanadate mineral typically appears dark red to brown and forms prismatic to tabular crystals. Found in oxidized zones of lead ore deposits, it's mainly sought after by collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Descloizite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Descloizite-162484.jpg/330px-Descloizite-162484.jpg",
+    "points": 10
+  },
+  {
+    "id": 107,
+    "facts": "This transparent to translucent carbon crystal is the hardest known natural material with a Mohs hardness of 10. It has high thermal conductivity and is prized both as a gemstone and in industrial applications.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Diamond",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rough_Diamond.jpg/330px-Rough_Diamond.jpg",
+    "points": 10
+  },
+  {
+    "id": 108,
+    "facts": "This industrial-grade variety of diamond is used mainly in cutting and drilling tools. It is typically gray, black, or brown, and lacks the clarity of gem-quality stones but shares the same hardness.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Bort",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Diamond-270244.jpg/330px-Diamond-270244.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 109,
+    "facts": "This type of diamond aggregate is composed of numerous diamond crystals in a spherical or radiating form. It is used primarily in industrial applications rather than jewelry due to its coarse texture and lower transparency.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Ballas",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Diamond-33187.jpg/330px-Diamond-33187.jpg",
+    "points": 10
+  },
+  {
+    "id": 110,
+    "facts": "This natural polycrystalline diamond is opaque and typically black or dark gray. It is one of the toughest forms of natural diamond, found primarily in Brazil and the Central African Republic, and is used for industrial cutting and drilling.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Carbonado",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Carbonado_diamondites_Bangui_region%2C_Central_African_Republic.jpg/330px-Carbonado_diamondites_Bangui_region%2C_Central_African_Republic.jpg",
+    "points": 10
+  },
+  {
+    "id": 111,
+    "facts": "This aluminum oxide hydroxide mineral is known for its color-changing properties, shifting hues under different lighting. It is transparent to translucent and often used as a collector's gemstone or in jewelry marketed as 'Zultanite'.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Diaspore",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Diaspore-Margarite-rare-09-05b.jpg/330px-Diaspore-Margarite-rare-09-05b.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 112,
+    "facts": "This gemstone is a variety of a mineral group that is often found in metamorphic rocks. It has a metallic luster and can appear bronze-like in color due to its iron-rich composition.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Bronzite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Enstatite-pas-146b.jpg/330px-Enstatite-pas-146b.jpg",
+    "points": 10
+  },
+  {
+    "id": 113,
+    "facts": "This gemstone is a member of the pyroxene group, commonly found in dark shades such as green and brown. It is valued for its distinctive sheen, often used in jewelry, especially in cabochon form.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Hypersthene",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Hypersthene_-_USGS_Mineral_Specimens_657.jpg/330px-Hypersthene_-_USGS_Mineral_Specimens_657.jpg",
+    "points": 10
+  },
+  {
+    "id": 114,
+    "facts": "This gemstone is a rare phosphate mineral that typically forms as small, colorless to yellow-green crystals. It is often found in granite pegmatites and is a source of phosphorus.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Eosphorite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%C3%89osphorite%2C_quartz.jpeg/330px-%C3%89osphorite%2C_quartz.jpeg",
+    "points": 10
+  },
+  {
+    "id": 115,
+    "facts": "This gemstone appears in various shades of green and is often found in metamorphic rocks. It forms distinct, elongated crystals and is a common mineral in many geological environments.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Epidote",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/%D0%AD%D0%BF%D0%B8%D0%B4%D0%BE%D1%82%28%D0%BF%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B8%D1%82%29.jpg/330px-%D0%AD%D0%BF%D0%B8%D0%B4%D0%BE%D1%82%28%D0%BF%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B8%D1%82%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 116,
+    "facts": "This gemstone is a reddish-brown variety of a mineral group that forms in metamorphic environments. It has a striking color and is sometimes cut and polished for use in jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Piemontite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pi%C3%A9montite.jpg/330px-Pi%C3%A9montite.jpg",
+    "points": 10
+  },
+  {
+    "id": 117,
+    "facts": "This gemstone is often known for its vibrant pink to red color, resulting from the presence of cobalt. It is typically found as a secondary mineral in oxidized zones of cobalt-bearing ores.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Erythrite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%C3%89rythrite_%28Maroc%29.jpg/330px-%C3%89rythrite_%28Maroc%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 118,
+    "facts": "This gemstone is a rare mineral that exhibits a unique fluorescence under ultraviolet light. It is usually found in uranium-rich deposits and glows a bright yellow-green when exposed to UV light.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Esperite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Esperite_under_UV_light.jpg",
+    "points": 10
+  },
+  {
+    "id": 119,
+    "facts": "This gemstone is a calcium-aluminum-sulfate mineral, often forming in evaporite deposits. It is characterized by elongated crystals and is sometimes found in association with gypsum deposits.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Ettringite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ettringite-Oyelite-Ettringite-Kalahari-Namibia-136mm_0762closeup.jpg/330px-Ettringite-Oyelite-Ettringite-Kalahari-Namibia-136mm_0762closeup.jpg",
+    "points": 10
+  },
+  {
+    "id": 120,
+    "facts": "This gemstone is a beryllium aluminum silicate mineral known for its striking blue to greenish-blue hues. It is a rare and valuable stone often used in fine jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Euclase",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Euclase-denv08-26a.jpg/330px-Euclase-denv08-26a.jpg",
+    "points": 10
+  },
+  {
+    "id": 121,
+    "facts": "This gemstone is a rare silicate mineral typically found in alkaline igneous rocks. It is known for its red and pink coloration and is sometimes used as a decorative stone in various applications.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Eudialyte",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Eudialyte-163974.jpg/330px-Eudialyte-163974.jpg",
+    "points": 10
+  },
+  {
+    "id": 122,
+    "facts": "This gemstone contains rare earth elements and uranium, which contribute to its distinct brown to black color. It is typically found in pegmatites and is associated with other exotic minerals.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Euxenite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Euxenite_-_Vegusdal%2C_Norvegia_01.jpg/330px-Euxenite_-_Vegusdal%2C_Norvegia_01.jpg",
+    "points": 10
+  },
+  {
+    "id": 123,
+    "facts": "This gemstone is rich in iron and is a member of the olivine group. It is typically green to brown in color and can be found in volcanic rocks as well as meteorites.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Fayalite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Fayalite_crystal_group_-_Ochtendung%2C_Eifel%2C_Germany.jpg/330px-Fayalite_crystal_group_-_Ochtendung%2C_Eifel%2C_Germany.jpg",
+    "points": 10
+  },
+  {
+    "id": 124,
+    "facts": "This gemstone is a group of minerals that make up a significant portion of the Earth's crust. These minerals can vary in color from clear to pink, white, green, and even purple, and are widely used in both industrial and ornamental applications.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Feldspar",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Feldspar_diversity.png/330px-Feldspar_diversity.png",
+    "points": 10
+  },
+  {
+    "id": 125,
+    "facts": "This gemstone is a type of feldspar known for its variety of colors, ranging from red to green and even blue. It is commonly found in volcanic rocks and is often used in jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Andesine",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Andesine-251551.jpg/330px-Andesine-251551.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 126,
+    "facts": "This gemstone is a member of the feldspar group and can range in color from white to translucent. It is commonly found in igneous rocks and is used in the manufacture of ceramics and glass.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Albite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albite_-_Crete_%28Kriti%29_Island%2C_Greece.jpg/330px-Albite_-_Crete_%28Kriti%29_Island%2C_Greece.jpg",
+    "points": 10
+  },
+  {
+    "id": 127,
+    "facts": "This gemstone is a variety of plagioclase feldspar, and is typically found in igneous rocks such as granite and gabbro. It is known for its pearly luster and can be a source of important industrial minerals.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Anorthite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Anorthite-rare08-38b.jpg/330px-Anorthite-rare08-38b.jpg",
+    "points": 10
+  },
+  {
+    "id": 128,
+    "facts": "This gemstone is a type of feldspar and is often found in lunar rocks and meteorites. It has a distinctive sheen, often blue, and can be cut into cabochons for use in fine jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Anorthoclase",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Anorthoclase-tn23a.jpg/330px-Anorthoclase-tn23a.jpg",
+    "points": 10
+  },
+  {
+    "id": 129,
+    "facts": "This gemstone is prized for its beautiful green color, often associated with its mineral group, and is frequently used in jewelry. It has a distinctive turquoise-like hue and is found in igneous rocks.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Amazonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Amazonita1.jpeg/330px-Amazonita1.jpeg",
+    "points": 10
+  },
+  {
+    "id": 130,
+    "facts": "This gemstone is a rare member of the plagioclase feldspar group, and its color ranges from pale yellow to dark brown. It forms in high-temperature igneous rocks and is often associated with other feldspar minerals.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Bytownite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bytownite-mrz296a.jpg/330px-Bytownite-mrz296a.jpg",
+    "points": 10
+  },
+  {
+    "id": 131,
+    "facts": "This gemstone is a barium-rich feldspar and is often found in igneous rocks. It has a distinctive appearance and is typically used for industrial purposes as well as in fine jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Celsian",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Celsian_in_sanbornite004.jpg/330px-Celsian_in_sanbornite004.jpg",
+    "points": 10
+  },
+  {
+    "id": 132,
+    "facts": "This gemstone is a variety of feldspar known for its pale green color. It is most commonly found in metamorphic rocks and is highly valued for its distinctive appearance, often displaying a shimmering play of color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Microcline",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Microcline-199473.jpg/330px-Microcline-199473.jpg",
+    "points": 10
+  },
+  {
+    "id": 133,
+    "facts": "This gemstone is a variety of feldspar known for its unique optical properties, including a glowing or milky sheen. It is widely used in jewelry, especially for its aesthetic appeal.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Moonstone (gemstone)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/AdulaireSuisse2.jpg/330px-AdulaireSuisse2.jpg",
+    "points": 10
+  },
+  {
+    "id": 134,
+    "facts": "This gemstone is commonly found in granite and is known for its excellent cleavage and use in decorative and functional stone applications. Its color ranges from white to reddish hues.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Orthoclase",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/OrthoclaseBresil.jpg/330px-OrthoclaseBresil.jpg",
+    "points": 10
+  },
+  {
+    "id": 135,
+    "facts": "This gemstone is known for its moon-like glow and is part of the feldspar mineral group. It is often used in rings, earrings, and pendants, appreciated for its iridescent sheen.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Moonstone (gemstone)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/AdulaireSuisse2.jpg/330px-AdulaireSuisse2.jpg",
+    "points": 10
+  },
+  {
+    "id": 136,
+    "facts": "This gemstone is a member of the feldspar group, and it is typically found in igneous rocks. It is known for its striking colors, including shades of white, yellow, and pink.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Orthoclase",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/OrthoclaseBresil.jpg/330px-OrthoclaseBresil.jpg",
+    "points": 10
+  },
+  {
+    "id": 137,
+    "facts": "This gemstone is known for its blend of green and pink hues, often used as a decorative stone in jewelry. It is a type of granite and is frequently used in landscaping and ornamental stonework.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Unakite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Colored_minerals_closeup.jpg/330px-Colored_minerals_closeup.jpg",
+    "points": 10
+  },
+  {
+    "id": 138,
+    "facts": "This gemstone is a type of feldspar and is typically found as small crystals in granitic rocks. It is a popular ornamental stone and is used in the production of various decorative objects.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Plagioclase",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Plagioklas1.jpg/330px-Plagioklas1.jpg",
+    "points": 10
+  },
+  {
+    "id": 139,
+    "facts": "This gemstone is a member of the feldspar family and is often white or transparent. It is commonly used in the making of porcelain and glass, as well as in various other industrial applications.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Albite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albite_-_Crete_%28Kriti%29_Island%2C_Greece.jpg/330px-Albite_-_Crete_%28Kriti%29_Island%2C_Greece.jpg",
+    "points": 10
+  },
+  {
+    "id": 140,
+    "facts": "This gemstone is a variety of feldspar with a unique iridescent quality, often displaying flashes of blue or green. It is highly prized in jewelry for its aesthetic beauty.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Labradorite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Labradorite_polie_3%28Madagascar%29.jpg/330px-Labradorite_polie_3%28Madagascar%29.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 141,
+    "facts": "This gemstone is a type of feldspar, typically found in granitic and volcanic rocks. It is known for its rich colors and can vary from pale yellow to a light reddish hue.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Oligoclase",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Oligoclase-4jg47a.jpg/330px-Oligoclase-4jg47a.jpg",
+    "points": 10
+  },
+  {
+    "id": 142,
+    "facts": "This gemstone is a type of alkali feldspar that is typically found in volcanic rocks. It has a distinct translucent to transparent appearance, often used in jewelry for its brightness and clarity.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Sanidine",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sanidine.jpg/330px-Sanidine.jpg",
+    "points": 10
+  },
+  {
+    "id": 143,
+    "facts": "This gemstone is a variety of feldspar, known for its golden and orange hues. It is often used as a decorative stone due to its striking color and appearance, which is enhanced by internal reflections.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Sunstone",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Sunstone1.jpg",
+    "points": 10
+  },
+  {
+    "id": 144,
+    "facts": "This gemstone, a variety of feldspar, is celebrated for its striking iridescent orange and red hues. It is often cut into cabochons and used in high-quality jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Sunstone",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Sunstone1.jpg",
+    "points": 10
+  },
+  {
+    "id": 145,
+    "facts": "This variety of sunstone displays a unique lattice-like structure that gives it an incredible visual effect. It is a rare gemstone, primarily found in igneous rocks, and prized for its radiant color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Rainbow lattice sunstone",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/NT41.jpg/330px-NT41.jpg",
+    "points": 10
+  },
+  {
+    "id": 146,
+    "facts": "This gemstone is a rare mineral, typically found in granitic rocks. It is known for its dark brown to black coloration and is primarily used in research and as a collector’s item.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Fergusonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Fergusonit.jpg/330px-Fergusonit.jpg",
+    "points": 10
+  },
+  {
+    "id": 147,
+    "facts": "This gemstone is a member of the inosilicate group, known for its unique rhombohedral crystal structure. It is often found in metamorphic rocks and is valued in the mineral collection community.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Axinite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Axinite-Mn_-_Canta%2C_Lima%2C_Peru.jpg/330px-Axinite-Mn_-_Canta%2C_Lima%2C_Peru.jpg",
+    "points": 10
+  },
+  {
+    "id": 148,
+    "facts": "This gemstone is a type of apatite and is known for its attractive blue or green colors. It is commonly found in pegmatites and is sometimes used in gemstone jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Fluorapatite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fluorapatite-Muscovite-tuc8-098a.jpg/330px-Fluorapatite-Muscovite-tuc8-098a.jpg",
+    "points": 10
+  },
+  {
+    "id": 149,
+    "facts": "This gemstone is a hydrous phosphate mineral often found in cavities of volcanic rocks. It is appreciated for its crystal structure and can appear in colors like white, green, and purple.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Apophyllite-(KF)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Apophyllite-%28KF%29-Gyrolite-145017.jpg/330px-Apophyllite-%28KF%29-Gyrolite-145017.jpg",
+    "points": 10
+  },
+  {
+    "id": 150,
+    "facts": "This gemstone is a mineral that forms in a variety of colors, often including shades of purple, green, blue, and yellow. It is highly sought after by mineral collectors and is frequently used in gem cutting.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Fluorite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/3192M-fluorite1.jpg/330px-3192M-fluorite1.jpg",
+    "points": 10
+  },
+  {
+    "id": 151,
+    "facts": "This gemstone is a magnesium-rich silicate mineral. It is often found in metamorphic rocks and is used both for ornamental purposes and as an industrial material.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Forsterite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Forsterite_on_Sanidine_-_Ochtendung%2C_Eifel%2C_Germany.jpg/330px-Forsterite_on_Sanidine_-_Ochtendung%2C_Eifel%2C_Germany.jpg",
+    "points": 10
+  },
+  {
+    "id": 152,
+    "facts": "This rare gemstone is a member of the silicate mineral group and can be found in igneous rocks. It is often prized for its rich color and is used in specialized jewelry and mineral collections.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Friedelite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Friedelite-284836.jpg/330px-Friedelite-284836.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 153,
+    "facts": "This rare mineral contains yttrium and iron and is typically found in granite pegmatites. Its black color and hardness make it a sought-after gemstone for collectors and researchers.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Gadolinite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gadolinitas.jpg/330px-Gadolinitas.jpg",
+    "points": 10
+  },
+  {
+    "id": 154,
+    "facts": "This mineral is a member of the spinel group, and it typically appears in shades of green to brown. It is used as a gemstone for its hardness and vibrant colors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Gahnite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Gahnite.jpg/330px-Gahnite.jpg",
+    "points": 10
+  },
+  {
+    "id": 155,
+    "facts": "This gemstone is part of the silicate mineral group and is known for its hardness and variety of colors. It is commonly used in jewelry and is highly valued for its beauty.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Garnet",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Garnet_Andradite20.jpg/330px-Garnet_Andradite20.jpg",
+    "points": 10
+  },
+  {
+    "id": 156,
+    "facts": "This variety of garnet is known for its deep red color and is commonly found in metamorphic rocks. It is a popular gemstone in jewelry due to its rich hue and durability.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Almandine",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Almandin.jpg/330px-Almandin.jpg",
+    "points": 10
+  },
+  {
+    "id": 157,
+    "facts": "This garnet variety is recognized for its bright red color and high refractive index, making it a highly prized gemstone in fine jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Pyrope",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Pyrope-260132.jpg/330px-Pyrope-260132.jpg",
+    "points": 10
+  },
+  {
+    "id": 158,
+    "facts": "This garnet is found in a variety of colors and is particularly known for its orange-red hues. It is often found in granite and is a favorite in gemstone collections.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Spessartine",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Garnet%2C_quartz%2C_feldspar_5.jpg/330px-Garnet%2C_quartz%2C_feldspar_5.jpg",
+    "points": 10
+  },
+  {
+    "id": 159,
+    "facts": "This gemstone is a variety of andradite garnet, known for its bright yellow-green to green colors. It is often used in fine jewelry for its fire and brilliance.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Andradite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Andradite-Mali.jpg/330px-Andradite-Mali.jpg",
+    "points": 10
+  },
+  {
+    "id": 160,
+    "facts": "This gemstone is a rare green variety of andradite garnet. It is highly valued in jewelry, particularly for its brilliant green color and rarity.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Demantoid",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Andradite-Stilbite-Ca-dem05a.jpg/330px-Andradite-Stilbite-Ca-dem05a.jpg",
+    "points": 10
+  },
+  {
+    "id": 161,
+    "facts": "This gemstone is a variety of andradite garnet that ranges in color from yellow to green. It is highly prized for its brilliance and fire.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Andradite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Andradite-Mali.jpg/330px-Andradite-Mali.jpg",
+    "points": 10
+  },
+  {
+    "id": 162,
+    "facts": "This garnet is often found in metamorphic rocks and is known for its vibrant green color. It is a relatively common variety of garnet, used extensively in jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Grossular",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Grossular-ww51a.jpg/330px-Grossular-ww51a.jpg",
+    "points": 10
+  },
+  {
+    "id": 163,
+    "facts": "This garnet is known for its pale green to yellow-green color. It is often used as a gemstone and is highly sought after by collectors for its clarity and color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Grossular",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Grossular-ww51a.jpg/330px-Grossular-ww51a.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 164,
+    "facts": "This green garnet variety is known for its bright, vibrant hue and is a relatively rare gemstone. It is often found in metamorphic rocks and is prized for its brilliance.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Hydrogrossular",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hydrogrossulaar.jpg/330px-Hydrogrossulaar.jpg",
+    "points": 10
+  },
+  {
+    "id": 165,
+    "facts": "This rare green gemstone is a variety of grossular garnet, found primarily in Tanzania. It is known for its brilliant color and exceptional clarity.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Tsavorite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Graphite-Grossular-Strontiumapatite-d06-195a.jpg/330px-Graphite-Grossular-Strontiumapatite-d06-195a.jpg",
+    "points": 10
+  },
+  {
+    "id": 166,
+    "facts": "This rare green garnet variety is found in metamorphic rocks, particularly in Russia. It is highly valued for its deep emerald green color and brilliance.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Uvarovite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Shuiskite%2C_uvarovite_1100.FS2015_1.jpg/330px-Shuiskite%2C_uvarovite_1100.FS2015_1.jpg",
+    "points": 10
+  },
+  {
+    "id": 167,
+    "facts": "This variety of garnet is known for its pink to red hues and is commonly found in various metamorphic rocks. It is often used in fine jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Rhodolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Rhodolite_in_Matrix-Garnet_Group_Magnesium_iron_aluminum_silicate_Macon_County_North_Carolina_2904.jpg/330px-Rhodolite_in_Matrix-Garnet_Group_Magnesium_iron_aluminum_silicate_Macon_County_North_Carolina_2904.jpg",
+    "points": 10
+  },
+  {
+    "id": 168,
+    "facts": "This unique gemstone is a variety of garnet, known for its bright orange-red color. It is often used in both jewelry and gemstone collections.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Malaia garnet",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Malaya-garnet-Lizunova-Fine-Jewels-Sydney-jeweller-Chifley-Square.jpg",
+    "points": 10
+  },
+  {
+    "id": 169,
+    "facts": "This rare green gemstone is found primarily in Canada and is prized for its striking appearance and vivid color. It is often used in fine jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Gaspéite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gaspeite-235283.jpg/330px-Gaspeite-235283.jpg",
+    "points": 10
+  },
+  {
+    "id": 170,
+    "facts": "This rare gemstone is a sodium carbonate mineral, primarily found in arid regions. It is used in some specialty applications but is more well-known to collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Gaylussite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Gaylussite-304155.jpg/330px-Gaylussite-304155.jpg",
+    "points": 10
+  },
+  {
+    "id": 171,
+    "facts": "This white or colorless mineral is often used as a source of aluminum. While it is not commonly used in jewelry, it has applications in industry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Gibbsite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Gibbsite-fiu14a.jpg/330px-Gibbsite-fiu14a.jpg",
+    "points": 10
+  },
+  {
+    "id": 172,
+    "facts": "This mineral, often blue in color, is a type of amphibole and is prized for its rarity and unique appearance. It is typically found in metamorphic rocks.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Glaucophane",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Glaucophane_bleu_de_Groix.jpg/330px-Glaucophane_bleu_de_Groix.jpg",
+    "points": 10
+  },
+  {
+    "id": 173,
+    "facts": "This iron-rich mineral is commonly found in sedimentary rocks. It is often used in industrial applications, but its yellow to brown hues are also of interest to collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Goethite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Goethite-169735.jpg/330px-Goethite-169735.jpg",
+    "points": 10
+  },
+  {
+    "id": 174,
+    "facts": "This rare gemstone is known for its striking blue-green color and is highly valued by collectors. It was first discovered in Madagascar and is extremely rare.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Grandidierite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Grandidierite-169886.jpg/330px-Grandidierite-169886.jpg",
+    "points": 10
+  },
+  {
+    "id": 175,
+    "facts": "This mineral is a common and soft gemstone, often found in the form of large crystals. It is primarily used in decorative applications and carvings.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Gypsum",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gypse_Caresse.jpg/330px-Gypse_Caresse.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 176,
+    "facts": "This rare mineral is often found in basaltic rocks. It is known for its unique crystalline structure and is typically a light or colorless gemstone.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Gyrolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Gyrolite_-_Malad_quarry%2C_Mumbai%2C_Maharashtra%2C_India.jpg/330px-Gyrolite_-_Malad_quarry%2C_Mumbai%2C_Maharashtra%2C_India.jpg",
+    "points": 10
+  },
+  {
+    "id": 177,
+    "facts": "This mineral is commonly known as rock salt and is made up of sodium chloride. It is often used for industrial purposes and is found in large deposits worldwide.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Halite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Halit_%28NaCl%29_-_Kopalnia_soli_Wieliczka%2C_Polska.jpg/330px-Halit_%28NaCl%29_-_Kopalnia_soli_Wieliczka%2C_Polska.jpg",
+    "points": 10
+  },
+  {
+    "id": 178,
+    "facts": "This rare mineral is found in granitic rocks and is prized for its transparent appearance. It is an uncommon mineral used in fine jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Hambergite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hambergite-rare-09-15a.jpg/330px-Hambergite-rare-09-15a.jpg",
+    "points": 10
+  },
+  {
+    "id": 179,
+    "facts": "This mineral is a sodium carbonate salt that forms in arid regions. It is valued for its striking yellow-green color and is often found in evaporite deposits.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Hanksite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hanksite-27109.jpg/330px-Hanksite-27109.jpg",
+    "points": 10
+  },
+  {
+    "id": 180,
+    "facts": "This calcium zinc silicate mineral is found in metamorphic rocks. It often forms in association with other minerals like calcite and is known for its bluish color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Hardystonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Hardystonite-Clinohedrite-Calcite-170573.jpg/330px-Hardystonite-Clinohedrite-Calcite-170573.jpg",
+    "points": 10
+  },
+  {
+    "id": 181,
+    "facts": "This mineral, a sodium calcium aluminosilicate, is known for its bright blue color and is often found in volcanic rocks. It has been used in fine jewelry and gemstones.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Hauyne",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Hauyne-169903.jpg/330px-Hauyne-169903.jpg",
+    "points": 10
+  },
+  {
+    "id": 182,
+    "facts": "This gemstone is a variety of obsidian created through volcanic processes. Known for its vibrant green hue, it is often used in jewelry and decorative items.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Helenite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Emerald_Obsidianite_Jewelry_600px.jpg/330px-Emerald_Obsidianite_Jewelry_600px.jpg",
+    "points": 10
+  },
+  {
+    "id": 183,
+    "facts": "This mineral is often used as a gemstone and has a metallic luster. It is commonly found in iron-rich deposits and is valued for its dark, shiny appearance.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Hematite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WLA_hmns_Hematite.jpg/330px-WLA_hmns_Hematite.jpg",
+    "points": 10
+  },
+  {
+    "id": 184,
+    "facts": "This mineral is known for its transparent crystals and is often found in zinc-rich environments. It is used in various industrial applications as well as in gemstone collections.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Hemimorphite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hemimorphite_-_Mapimi%2C_Durango%2C_Mexico.jpg/330px-Hemimorphite_-_Mapimi%2C_Durango%2C_Mexico.jpg",
+    "points": 10
+  },
+  {
+    "id": 185,
+    "facts": "This phosphate mineral is found in granite pegmatites and is prized for its delicate, crystal-clear appearance. It is often found in the same regions as beryl and spodumene.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Herderite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Herderite-gem7-08a.jpg/330px-Herderite-gem7-08a.jpg",
+    "points": 10
+  },
+  {
+    "id": 186,
+    "facts": "This mineral, often found in metamorphic rocks, is known for its distinctive crystal form and is sometimes mistaken for tremolite. It has a range of colors from white to green.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Hexagonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Tremolite-172420.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 187,
+    "facts": "This rare mineral is primarily found in Madagascar and is known for its unique, high-temperature crystalline structure, which makes it a valuable gemstone.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Hibonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hibonite_-_Esiva_eluvials%2C_Tulear_Province%2C_Madagascar.jpg/330px-Hibonite_-_Esiva_eluvials%2C_Tulear_Province%2C_Madagascar.jpg",
+    "points": 10
+  },
+  {
+    "id": 188,
+    "facts": "This gem is a transparent green variety of spodumene, primarily found in the United States, and is often used in high-quality jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Hiddenite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hiddenite%2C_cleavelandite%2C_quartz_1.jpeg/330px-Hiddenite%2C_cleavelandite%2C_quartz_1.jpeg",
+    "points": 10
+  },
+  {
+    "id": 189,
+    "facts": "This rare mineral is known for its distinct orange-red color, and it forms as a result of the oxidation of certain iron-rich minerals.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Hodgkinsonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hodgkinsonite-256921.jpg/330px-Hodgkinsonite-256921.jpg",
+    "points": 10
+  },
+  {
+    "id": 190,
+    "facts": "This borate mineral is found in evaporite deposits and has a white or colorless appearance. It is often used in decorative carvings and beads.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Howlite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Howlite.jpg/330px-Howlite.jpg",
+    "points": 10
+  },
+  {
+    "id": 191,
+    "facts": "This mineral is a manganese tungstate, typically found in Peru and often used as a gemstone due to its attractive reddish-brown color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Hübnerite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/H%C3%BCbnerite_-_Pasto_Bueno%2C_Ancash%2C_Peru.jpg/330px-H%C3%BCbnerite_-_Pasto_Bueno%2C_Ancash%2C_Peru.jpg",
+    "points": 10
+  },
+  {
+    "id": 192,
+    "facts": "This magnesium-rich mineral is found in metamorphic rocks and is often recognized for its brownish-red color and glassy luster.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Humite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Humite-155029.jpg/330px-Humite-155029.jpg",
+    "points": 10
+  },
+  {
+    "id": 193,
+    "facts": "This mineral is often found in phosphate-rich deposits and is valued for its striking pink to purple hues, frequently used in fine jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Hureaulite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hureaulite_01.jpg/330px-Hureaulite_01.jpg",
+    "points": 10
+  },
+  {
+    "id": 194,
+    "facts": "This iron titanium oxide mineral is primarily found in igneous rocks and is used in the production of pigments and high-quality jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Ilmenite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ilmenite-155036.jpg/330px-Ilmenite-155036.jpg",
+    "points": 10
+  },
+  {
+    "id": 195,
+    "facts": "This mineral, found in volcanic rocks, has a distinct metallic luster and is often sought after for its gray to black color and high density.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Inderite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Inderite-352353.jpg/330px-Inderite-352353.jpg",
+    "points": 10
+  },
+  {
+    "id": 196,
+    "facts": "This gemstone is known for its deep green color and is one of the most historically significant and highly prized gemstones in the world, often used in traditional jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Jade",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Jadestein.jpg/330px-Jadestein.jpg",
+    "points": 10
+  },
+  {
+    "id": 197,
+    "facts": "This variety of jade is a sodium aluminum silicate, typically found in Burma and used in high-quality jewelry for its vibrant green hues.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Jadeite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jadeite_Sodium_aluminum_silicate_Burma_3025.jpg/330px-Jadeite_Sodium_aluminum_silicate_Burma_3025.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 198,
+    "facts": "This mineral is a type of jade and is considered one of the most valuable varieties. It is prized for its bright green color and is primarily found in Burma.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Jadeite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Jadeite_Sodium_aluminum_silicate_Burma_3025.jpg/330px-Jadeite_Sodium_aluminum_silicate_Burma_3025.jpg",
+    "points": 10
+  },
+  {
+    "id": 199,
+    "facts": "This is a variety of jade that is often found in deposits in China and New Zealand. It is typically more opaque and less vivid than jadeite, but still highly prized.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Nephrite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Nephrite_jordanow_slaski.jpg/330px-Nephrite_jordanow_slaski.jpg",
+    "points": 10
+  },
+  {
+    "id": 200,
+    "facts": "A type of chalcedony, this gemstone comes in many colors and patterns, often used for making ornamental objects like beads and carvings.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Jasper",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Jasper_outcrop_in_the_Bucegi_Mountains.jpg/330px-Jasper_outcrop_in_the_Bucegi_Mountains.jpg",
+    "points": 10
+  },
+  {
+    "id": 201,
+    "facts": "This is a rare and prized gemstone, often colorless or pale blue. It forms in volcanic rocks and is found in places like Africa and Myanmar.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Jeremejevite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Jeremejevite-273103.jpg/330px-Jeremejevite-273103.jpg",
+    "points": 10
+  },
+  {
+    "id": 202,
+    "facts": "This mineral, often found in salt deposits, is valued for its use in fertilizers and as an ornamental gem, primarily found in areas like Germany.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Kainite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kainite_-_Grube_Brefeld%2C_Tarthun%2C_Sta%C3%9Ffurt%2C_Sachsen-Anhalt.jpg/330px-Kainite_-_Grube_Brefeld%2C_Tarthun%2C_Sta%C3%9Ffurt%2C_Sachsen-Anhalt.jpg",
+    "points": 10
+  },
+  {
+    "id": 203,
+    "facts": "A clay mineral commonly found in soils, it has a fine texture and is often used in the manufacture of porcelain and ceramics.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Kaolinite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kaolinite_from_Twiggs_County_in_Georgia_in_USA.jpg/330px-Kaolinite_from_Twiggs_County_in_Georgia_in_USA.jpg",
+    "points": 10
+  },
+  {
+    "id": 204,
+    "facts": "This borosilicate mineral forms in granite and other high-temperature rocks and is often used in gemstone jewelry for its striking green to yellow-green color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Kornerupine",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Kornerupine-162065.jpg/330px-Kornerupine-162065.jpg",
+    "points": 10
+  },
+  {
+    "id": 205,
+    "facts": "This mineral, a calcium magnesium carbonate, is found in sedimentary deposits and has a rich pink to red color. It is often used for carvings and beads.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Kutnohorite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Kutnohorite-120661.jpg/330px-Kutnohorite-120661.jpg",
+    "points": 10
+  },
+  {
+    "id": 206,
+    "facts": "This rare mineral is found in certain igneous rocks and has a distinctive reddish-brown color with a crystalline structure. It is used as an ornamental stone.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Kurnakovite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kurnakovite-mrz200a.jpg/330px-Kurnakovite-mrz200a.jpg",
+    "points": 10
+  },
+  {
+    "id": 207,
+    "facts": "A popular gem known for its striking blue color, it is a common mineral in metamorphic rocks and is frequently used in jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Kyanite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Kyanite_crystals.jpg/330px-Kyanite_crystals.jpg",
+    "points": 10
+  },
+  {
+    "id": 208,
+    "facts": "A potassium magnesium sulfate, this mineral is known for its vibrant green color and is found in evaporite deposits, often used in industrial applications.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Langbeinite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Langbeinite-553833.jpg/330px-Langbeinite-553833.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 209,
+    "facts": "This gemstone is a blue silicate mineral commonly found in high-pressure metamorphic rocks. It's known for its striking blue appearance and can be used in jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Lawsonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Lawsonite-169898.jpg/330px-Lawsonite-169898.jpg",
+    "points": 10
+  },
+  {
+    "id": 210,
+    "facts": "A blue mineral in the phosphate group, this gemstone is valued for its deep blue color and is sometimes used in fine jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Lazulite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lazulite-tmix07-168a.jpg/330px-Lazulite-tmix07-168a.jpg",
+    "points": 10
+  },
+  {
+    "id": 211,
+    "facts": "This is a blue gemstone in the feldspathoid group, often found in lapis lazuli, and has been used in ornamental art and jewelry for thousands of years.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Lazurite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Lazurite.jpg/330px-Lazurite.jpg",
+    "points": 10
+  },
+  {
+    "id": 212,
+    "facts": "A rare mineral known for its bright yellow color, Legrandite is found in oxidized zinc ore deposits and is prized for its intense hue.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Legrandite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Legrandite%2C_limonite_1100.1.2839.jpg/330px-Legrandite%2C_limonite_1100.1.2839.jpg",
+    "points": 10
+  },
+  {
+    "id": 213,
+    "facts": "A lithium-bearing mineral, Lepidolite is a source of lithium and is often found in granite pegmatites. It is commonly purple to lilac in color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Lepidolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Boromuscovite-Lepidolite-ch38a.jpg/330px-Boromuscovite-Lepidolite-ch38a.jpg",
+    "points": 10
+  },
+  {
+    "id": 214,
+    "facts": "A potassium aluminum silicate mineral, Leucite is found in volcanic rocks and often forms as white or pale-colored crystals.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Leucite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Leucite_in_rock_w-_nepheline_Potassium_aluminum_silicate_Albano_Hills_Italy_1927.jpg/330px-Leucite_in_rock_w-_nepheline_Potassium_aluminum_silicate_Albano_Hills_Italy_1927.jpg",
+    "points": 10
+  },
+  {
+    "id": 215,
+    "facts": "This rare mineral is a member of the feldspathoid group, typically found in alkaline rocks, and is often yellow or white.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Leucophanite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Leucophanite%2C_Aegirine-175723.jpg/330px-Leucophanite%2C_Aegirine-175723.jpg",
+    "points": 10
+  },
+  {
+    "id": 216,
+    "facts": "Linarite is a bright blue copper mineral found in oxidized copper deposits, often admired for its vibrant color and crystalline structure.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Linarite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Linarite-162465.jpg/330px-Linarite-162465.jpg",
+    "points": 10
+  },
+  {
+    "id": 217,
+    "facts": "This rare magnesium silicate mineral is often found in serpentinite and has a bright green color. It is commonly used as an ornamental stone.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Lizardite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lizardit.jpg/330px-Lizardit.jpg",
+    "points": 10
+  },
+  {
+    "id": 218,
+    "facts": "Londonite is a rare borate mineral, often found in association with tourmaline, and is prized for its distinct color and appearance.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Londonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Londonite-Tourmaline-120977.jpg/330px-Londonite-Tourmaline-120977.jpg",
+    "points": 10
+  },
+  {
+    "id": 219,
+    "facts": "This iron phosphate mineral is prized for its vibrant green color and is typically found in phosphate deposits, often in association with other minerals.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Ludlamite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Ludlamite-md87a.jpg",
+    "points": 10
+  },
+  {
+    "id": 220,
+    "facts": "A borate mineral, Ludwigite is known for its deep red to brown color and is commonly found in metamorphic rocks.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Ludwigite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ludwigite-242641.jpg/330px-Ludwigite-242641.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 221,
+    "facts": "This mineral is commonly found in magnesium-rich deposits and is often used in industrial applications like refractory materials.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Magnesite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Magnesite-121892.jpg/330px-Magnesite-121892.jpg",
+    "points": 10
+  },
+  {
+    "id": 222,
+    "facts": "A green copper carbonate mineral, known for its vibrant color, is often used for ornamental purposes and has been used in jewelry for centuries.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Malachite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Malachite%2C_Zaire.jpg/330px-Malachite%2C_Zaire.jpg",
+    "points": 10
+  },
+  {
+    "id": 223,
+    "facts": "This mineral is often found in metamorphic rocks and is a member of the scapolite group, characterized by its clear to white crystalline structure.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Marialite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Marialite-169082.jpg/330px-Marialite-169082.jpg",
+    "points": 10
+  },
+  {
+    "id": 224,
+    "facts": "This rare mineral is often found in skarns and can range in color from white to yellow. It is a part of the silicate mineral group.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Meionite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Meionite-Quartz-53866.jpg",
+    "points": 10
+  },
+  {
+    "id": 225,
+    "facts": "Found in metamorphic rocks, this mineral is known for its rich color variations and is commonly used in jewelry and ornamental carvings.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Scapolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Scapolite%2C_elba%C3%AFte%2C_cleavelandite_7100.1.2830.jpg/330px-Scapolite%2C_elba%C3%AFte%2C_cleavelandite_7100.1.2830.jpg",
+    "points": 10
+  },
+  {
+    "id": 226,
+    "facts": "This mineral, often found in coal deposits, has a metallic luster and is sometimes used in jewelry and as an ornamental stone.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Marcasite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/MarcassiteII.jpg/330px-MarcassiteII.jpg",
+    "points": 10
+  },
+  {
+    "id": 227,
+    "facts": "A mineral found in sedimentary rocks, it is often yellow or amber in color and is considered rare. It is sometimes referred to as 'the honey stone'.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Mellite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mellite-177555.jpg/330px-Mellite-177555.jpg",
+    "points": 10
+  },
+  {
+    "id": 228,
+    "facts": "This zeolite mineral is known for its needle-like crystal formations, often found in volcanic rocks and prized by collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Mesolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Mesolite_from_Bombay%2C_Hunterian_Museum%2C_Glasgow.jpg/330px-Mesolite_from_Bombay%2C_Hunterian_Museum%2C_Glasgow.jpg",
+    "points": 10
+  },
+  {
+    "id": 229,
+    "facts": "A potassium feldspar mineral, often found as green crystals in igneous rocks, it is also known for its use as a gemstone, especially in the form of amazonite.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Microcline",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Microcline-199473.jpg/330px-Microcline-199473.jpg",
+    "points": 10
+  },
+  {
+    "id": 230,
+    "facts": "This rare mineral is found in granitic rocks and is typically yellow to brown. It is occasionally used in mineral collections due to its unusual characteristics.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Microlite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Microlite-bem-42a.jpg",
+    "points": 10
+  },
+  {
+    "id": 231,
+    "facts": "A rare phosphate mineral often found in crystalline form, it is typically yellow in color and has been a subject of interest for collectors due to its unique structure.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Milarite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Milarite-21349.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 232,
+    "facts": "This mineral is a nickel sulfide that often forms in elongated, needle-like crystals. It is commonly found in geodes and has a yellow or golden color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Millerite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Millerite_in_geode_%28Hall%27s_Gap%2C_Kentucky%2C_USA%29.jpg/330px-Millerite_in_geode_%28Hall%27s_Gap%2C_Kentucky%2C_USA%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 233,
+    "facts": "This mineral is often yellow or brown in color and is a secondary mineral found in the oxidation zones of lead deposits.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Mimetite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mimetite_-_Congreso-Le%C3%B3n_mines%2C_San_Pedro_Corralitos%2C_Chihuahua%2C_Mexico.jpg/330px-Mimetite_-_Congreso-Le%C3%B3n_mines%2C_San_Pedro_Corralitos%2C_Chihuahua%2C_Mexico.jpg",
+    "points": 10
+  },
+  {
+    "id": 234,
+    "facts": "This mineral is a rare source of the element cerium and is often found as a reddish-brown to yellow mineral in granite pegmatites.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Monazite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Monazite-%28Ce%29-164025.jpg/330px-Monazite-%28Ce%29-164025.jpg",
+    "points": 10
+  },
+  {
+    "id": 235,
+    "facts": "A zeolite mineral commonly found in volcanic rocks, known for its ability to absorb water and form clear crystals.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Mordenite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Mordenite-178958.jpg/330px-Mordenite-178958.jpg",
+    "points": 10
+  },
+  {
+    "id": 236,
+    "facts": "This mineral often appears in earthy or moss-like green masses and is a source of copper and zinc in many mining regions.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Mottramite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mottramite-174237.jpg/330px-Mottramite-174237.jpg",
+    "points": 10
+  },
+  {
+    "id": 237,
+    "facts": "A mineral in the mica group, commonly found as thin, flexible, and transparent sheets with a shiny appearance.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Muscovite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Muscovite-Albite-122887.jpg/330px-Muscovite-Albite-122887.jpg",
+    "points": 10
+  },
+  {
+    "id": 238,
+    "facts": "This mineral is a green variety of muscovite and is often used as an ornamental stone due to its sparkling appearance.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Fuchsite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Verdite_%28microcrystalline_fuchsite_metamorphite%29_South_Africa.jpg/330px-Verdite_%28microcrystalline_fuchsite_metamorphite%29_South_Africa.jpg",
+    "points": 10
+  },
+  {
+    "id": 239,
+    "facts": "This rare gemstone is considered one of the rarest minerals in the world and is valued for its extreme hardness and scarcity.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Musgravite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Musgravit-G-EmpireTheWorldOfGems.jpg/320px-Musgravit-G-EmpireTheWorldOfGems.jpg",
+    "points": 10
+  },
+  {
+    "id": 240,
+    "facts": "This mineral is typically found in pegmatite deposits and has a striking color that ranges from deep brown to reddish hues.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Nambulite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Nambulite-136231.jpg",
+    "points": 10
+  },
+  {
+    "id": 241,
+    "facts": "A rare mineral found in alkaline rocks, characterized by its deep purple color and crystal formations.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Narsarsukite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Narsarsukite-20220.jpg/330px-Narsarsukite-20220.jpg",
+    "points": 10
+  },
+  {
+    "id": 242,
+    "facts": "This mineral belongs to the zeolite family and is often found in volcanic rocks and used as a source of aluminum in industrial processes.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Natrolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Natroliteinde1.jpg/330px-Natroliteinde1.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 243,
+    "facts": "This mineral is a silicate often found in alkaline igneous rocks and has a distinct greenish-yellow color. It forms in crystals and is used in the manufacture of various industrial materials.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Nepheline",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Nepheline3.jpg/330px-Nepheline3.jpg",
+    "points": 10
+  },
+  {
+    "id": 244,
+    "facts": "This mineral typically forms in metamorphic rocks and often has a reddish to brown color. It is known for its unique crystal shapes and associations with rare minerals.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Neptunite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Neptunite%2C_b%C3%A9nito%C3%AFte%2C_joaquinite-%28Ce%29_sur_natrolite_et_serpentine_%28USA%29_2.jpg/330px-Neptunite%2C_b%C3%A9nito%C3%AFte%2C_joaquinite-%28Ce%29_sur_natrolite_et_serpentine_%28USA%29_2.jpg",
+    "points": 10
+  },
+  {
+    "id": 245,
+    "facts": "This mineral is a source of nickel and arsenic. It forms in a metallic luster and typically appears as a yellow, gold, or reddish mineral.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Nickeline",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Nickeline.jpg/330px-Nickeline.jpg",
+    "points": 10
+  },
+  {
+    "id": 246,
+    "facts": "This mineral is found in volcanic rocks and often appears as dark blue or purple crystals. It is often associated with other sulfur-bearing minerals.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Nosean",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Nosean_crystal_group_-_Ochtendung%2C_Eifel%2C_Germany.jpg/330px-Nosean_crystal_group_-_Ochtendung%2C_Eifel%2C_Germany.jpg",
+    "points": 10
+  },
+  {
+    "id": 247,
+    "facts": "This metamorphic rock is dark and often has a glossy appearance. It is typically composed of a mix of silica and other minerals.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Nuummite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Nuummite-001B.jpg",
+    "points": 10
+  },
+  {
+    "id": 248,
+    "facts": "This mineral has a green to yellowish color and is one of the most important sources of magnesium. It is commonly found in igneous rocks.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Olivine",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Olivine-gem7-10a.jpg/320px-Olivine-gem7-10a.jpg",
+    "points": 10
+  },
+  {
+    "id": 249,
+    "facts": "This mineral is commonly associated with volcanic activity. It is often found in its precious form, valued for its iridescent play of colors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Opal",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Opal-53714.jpg/330px-Opal-53714.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 251,
+    "facts": "This is one of the rarest gemstones, often found as small, dark brown to reddish-brown crystals. It is famous for its extreme hardness and is often used in high-end jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Painite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Painite2.jpg/330px-Painite2.jpg",
+    "points": 10
+  },
+  {
+    "id": 252,
+    "facts": "This mineral is a magnesium silicate and forms in fibrous or fibrous masses, often in soil or clay deposits.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Palygorskite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mineraly.sk_-_palygorskit.jpg/330px-Mineraly.sk_-_palygorskit.jpg",
+    "points": 10
+  },
+  {
+    "id": 253,
+    "facts": "This rare blue mineral is found in copper deposits and is often used as a gemstone. It can appear in a range of blue shades, from light to deep blue.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Papagoite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Papagoite-k-152b.jpg/330px-Papagoite-k-152b.jpg",
+    "points": 10
+  },
+  {
+    "id": 254,
+    "facts": "This mineral is a sodium-calcium silicate that forms in monoclinic crystals and is often associated with high-temperature metamorphic environments.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Pargasite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Pargasite-ww49d.jpg/330px-Pargasite-ww49d.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 255,
+    "facts": "This rare mineral is a member of the carbonatite group. It is typically found in granitic rocks and can have a bright yellow or brownish color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Parisite-(Ce)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Parisite-39471.jpg/330px-Parisite-39471.jpg",
+    "points": 10
+  },
+  {
+    "id": 256,
+    "facts": "This mineral forms in fibrous crystals and can be found in volcanic environments. It is commonly associated with other silicate minerals and has a pearly luster.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Pectolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pectolite-263712.jpg/330px-Pectolite-263712.jpg",
+    "points": 10
+  },
+  {
+    "id": 257,
+    "facts": "Known for its striking blue color, this gemstone is primarily found in the Caribbean. It is a relatively rare variety of pectolite and often used in ornamental jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Larimar",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Larimar.jpg/330px-Larimar.jpg",
+    "points": 10
+  },
+  {
+    "id": 258,
+    "facts": "This mineral is a significant source of nickel and is typically found in sulfide ores. It has a metallic luster and can form cubic or octahedral crystals.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Pentlandite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Pentlandite%2C_Pyrrhotite-540342.jpg/330px-Pentlandite%2C_Pyrrhotite-540342.jpg",
+    "points": 10
+  },
+  {
+    "id": 259,
+    "facts": "This gemstone is known for its vibrant green color and is often found in volcanic rocks. It is a variety of olivine and has been used in jewelry for centuries.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Peridot",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Forsterite-Olivine-tmu14a.jpg/330px-Forsterite-Olivine-tmu14a.jpg",
+    "points": 10
+  },
+  {
+    "id": 260,
+    "facts": "This mineral is a magnesium oxide and can be found in metamorphic rocks. It forms in prismatic or tabular crystals and is often associated with other silicate minerals.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Periclase",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Periclase_-_Ronneburg%2C_Thuringia1.jpg/330px-Periclase_-_Ronneburg%2C_Thuringia1.jpg",
+    "points": 10
+  },
+  {
+    "id": 261,
+    "facts": "This feldspar mineral typically forms in igneous rocks. It is characterized by its alternating layers of orthoclase and albite and is often found in pegmatites.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Perthite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Perthite_textures.png/330px-Perthite_textures.png",
+    "points": 10
+  },
+  {
+    "id": 262,
+    "facts": "This mineral is a lithium aluminum silicate and is typically found in granitic pegmatites. It is valued for its clarity and used as a gemstone in high-end jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Petalite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Petalite.jpg/330px-Petalite.jpg",
+    "points": 10
+  },
+  {
+    "id": 263,
+    "facts": "This rare mineral is a variety of beryl and can be found in Madagascar and Tanzania. It has a pink to red color and is valued for its beauty and rarity.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Pezzottaite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Pezzotta%C3%AFte%2C_amazonite%2C_zircon_1.jpeg/330px-Pezzotta%C3%AFte%2C_amazonite%2C_zircon_1.jpeg",
+    "points": 10
+  },
+  {
+    "id": 264,
+    "facts": "This gemstone is known for its high clarity and colorless appearance. It is often found in granite pegmatites and is considered a rare and prized crystal.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Phenakite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fenacitas.jpg/330px-Fenacitas.jpg",
+    "points": 10
+  },
+  {
+    "id": 265,
+    "facts": "This mica mineral is commonly found in metamorphic rocks. It is typically yellow, brown, or green and has a perfect cleavage, making it highly reflective.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Phlogopite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Phlogopite_3.JPG/330px-Phlogopite_3.JPG",
+    "points": 10
+  },
+  {
+    "id": 266,
+    "facts": "This carbonate mineral is found in lead-rich environments and is known for its unique crystalline structures. It can form as white or grayish crystals and is rarely used as a gemstone.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Phosgenite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Phosgenite-34631.jpg/330px-Phosgenite-34631.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 267,
+    "facts": "This rare gemstone is known for its vibrant green color and crystal clarity. It is primarily found in Brazil and is often associated with zinc minerals.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Phosphophyllite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Phosphophyllite-359315.jpg/330px-Phosphophyllite-359315.jpg",
+    "points": 10
+  },
+  {
+    "id": 268,
+    "facts": "This phosphate mineral can be found in iron-rich environments and is often characterized by a deep purple or violet color. It is considered a rare collector's mineral.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Phosphosiderite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Phosphosiderite-141096.jpg/330px-Phosphosiderite-141096.jpg",
+    "points": 10
+  },
+  {
+    "id": 269,
+    "facts": "This manganese-rich silicate mineral is known for its striking red color and forms in metamorphic environments. It is often found in regions with high iron content.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Piemontite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Pi%C3%A9montite.jpg/330px-Pi%C3%A9montite.jpg",
+    "points": 10
+  },
+  {
+    "id": 270,
+    "facts": "This gemstone is known for its chatoyancy, often displaying a beautiful, swirling play of colors. It is found in regions such as Namibia and is highly valued by collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Pietersite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pietersit_01.jpg/330px-Pietersit_01.jpg",
+    "points": 10
+  },
+  {
+    "id": 271,
+    "facts": "This rare mineral forms in association with lead deposits and is typically found in arid regions. It is prized for its intense, bright blue color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Plumbogummite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Plumbogummite-pg10c.jpg/330px-Plumbogummite-pg10c.jpg",
+    "points": 10
+  },
+  {
+    "id": 272,
+    "facts": "This mineral is an important source of cesium and is often found in pegmatite deposits. It is a colorless to slightly yellow gemstone with unique crystallization.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Pollucite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pollucite-193819.jpg/330px-Pollucite-193819.jpg",
+    "points": 10
+  },
+  {
+    "id": 273,
+    "facts": "This mineral is commonly found in evaporite deposits and is known for its unique ability to form large, colorful crystals. It is primarily a source of potassium.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Polyhalite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/History_museum_of_Truskavets_081.jpg/330px-History_museum_of_Truskavets_081.jpg",
+    "points": 10
+  },
+  {
+    "id": 274,
+    "facts": "This rare gemstone is a sodium borate mineral that forms in evaporative environments. It was first discovered in Canada and has a distinct, translucent pink hue.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Poudretteite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Poudretteite-382457.jpg/330px-Poudretteite-382457.jpg",
+    "points": 10
+  },
+  {
+    "id": 275,
+    "facts": "This mineral is a source of molybdenum and is typically found in volcanic rocks. It has a characteristic pale yellow to white color and forms in hexagonal crystals.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Powellite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Powellite-288824.jpg/330px-Powellite-288824.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 276,
+    "facts": "This mineral typically forms in cavities and is known for its distinct yellow-green color. It is often found in regions with basaltic rock formations.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Prehnite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Prehnite_-_Southbury%2C_Connecticut%2C_USA.jpg/330px-Prehnite_-_Southbury%2C_Connecticut%2C_USA.jpg",
+    "points": 10
+  },
+  {
+    "id": 277,
+    "facts": "This gemstone is known for its unique crystal habit and typically forms in the form of prismatic or tabular crystals. It is found in regions with hydrothermal activity.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Prismatine",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Prismatin.jpg/330px-Prismatin.jpg",
+    "points": 10
+  },
+  {
+    "id": 278,
+    "facts": "This mineral is commonly found in silver-bearing deposits and exhibits a striking red to reddish-brown color. It is often referred to as a 'ruby silver' ore.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Proustite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Proustite-209739.jpg/330px-Proustite-209739.jpg",
+    "points": 10
+  },
+  {
+    "id": 279,
+    "facts": "This black mineral is a type of manganese oxide. It typically forms in botryoidal or massive habits and is found in oxidized zones of metallic deposits.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Psilomelane",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mineraly.sk_-_psilomelan.jpg/330px-Mineraly.sk_-_psilomelan.jpg",
+    "points": 10
+  },
+  {
+    "id": 280,
+    "facts": "This mineral typically forms in regions with volcanic activity and is known for its green to yellow-green color. It is often found in metamorphic environments.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Pumpellyite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mineraly.sk_-_pumpellyit.jpg/330px-Mineraly.sk_-_pumpellyit.jpg",
+    "points": 10
+  },
+  {
+    "id": 281,
+    "facts": "This gemstone is known for its unique greenish-blue color and is often found in association with other copper minerals. It is a rare and valued collector's stone.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Chlorastrolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Birds_and_nature_%281903%29_%2814568660339%29.jpg/640px-Birds_and_nature_%281903%29_%2814568660339%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 282,
+    "facts": "This gemstone is typically found in pegmatite deposits and is characterized by its striking purple color. It is primarily found in Namibia and is prized by mineral collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Purpurite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Purpurite_-_Sandamab_Pegmatite%2C_Erongo_Region%2C_Namibia_2.jpg/330px-Purpurite_-_Sandamab_Pegmatite%2C_Erongo_Region%2C_Namibia_2.jpg",
+    "points": 10
+  },
+  {
+    "id": 283,
+    "facts": "This mineral is often referred to as 'fool's gold' due to its metallic luster and yellow-golden color. It is found in sulfide-rich environments.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Pyrite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pyrite_-_Huanzala_mine%2C_Huallanca%2C_Bolognesi%2C_Ancash%2C_Peru.jpg/330px-Pyrite_-_Huanzala_mine%2C_Huallanca%2C_Bolognesi%2C_Ancash%2C_Peru.jpg",
+    "points": 10
+  },
+  {
+    "id": 284,
+    "facts": "This silver ore mineral is often found in veins of hydrothermal deposits. It is prized for its dark red to reddish-brown color and is an important source of silver.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Pyrargyrite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Pyrargyrite-177493.jpg/330px-Pyrargyrite-177493.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 285,
+    "facts": "This mineral is often found in bright green to yellow-green colors and typically forms in botryoidal or granular clusters. It is commonly associated with lead deposits.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Pyromorphite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pyromorphite_-_Santa_Eufemia%2C_Cordoba%2C_Spain.jpg/330px-Pyromorphite_-_Santa_Eufemia%2C_Cordoba%2C_Spain.jpg",
+    "points": 10
+  },
+  {
+    "id": 286,
+    "facts": "This mineral typically forms as a result of weathering in hydrothermal environments and exhibits a range of colors from white to light green.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Pyrophyllite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Pyrophyllite-118706.jpg/330px-Pyrophyllite-118706.jpg",
+    "points": 10
+  },
+  {
+    "id": 287,
+    "facts": "This mineral is manganese-based and often forms in the form of prismatic crystals. It typically exhibits a reddish to pinkish color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Pyroxmangite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pyroxmangite-261781.jpg/330px-Pyroxmangite-261781.jpg",
+    "points": 10
+  },
+  {
+    "id": 288,
+    "facts": "This mineral is a magnetic iron sulfide often found in association with other sulfide ores. It typically appears in metallic, reddish-brown to gray colors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Pyrrhotite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Pyrrhotite-Sphalerite-Quartz-195225.jpg/330px-Pyrrhotite-Sphalerite-Quartz-195225.jpg",
+    "points": 10
+  },
+  {
+    "id": 289,
+    "facts": "This common mineral is known for its wide range of colors and can be found in various crystal forms. It is often used in jewelry and ornamental carvings.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Quartz",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Quartz_Br%C3%A9sil.jpg/330px-Quartz_Br%C3%A9sil.jpg",
+    "points": 10
+  },
+  {
+    "id": 290,
+    "facts": "This purple variety of quartz is commonly used as a gemstone and is associated with both spiritual and aesthetic value. It is typically found in geodes.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Amethyst",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Amatista_Laye_2.jpg/330px-Amatista_Laye_2.jpg",
+    "points": 10
+  },
+  {
+    "id": 291,
+    "facts": "This unique gemstone is a combination of amethyst and citrine, resulting in a stone with both purple and yellow hues. It is commonly found in Bolivia.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Ametrine",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ametrin_from_Bolivia.jpg/330px-Ametrin_from_Bolivia.jpg",
+    "points": 10
+  },
+  {
+    "id": 292,
+    "facts": "This mineral variety is known for its sparkling appearance, often due to the presence of small inclusions. It is typically green and can be found in metamorphic rocks.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Aventurine",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Aventurine.jpg/330px-Aventurine.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 294,
+    "facts": "This banded variety of chalcedony is often used for decorative purposes. It is known for its intricate patterns and can be found in a variety of colors, including reds, browns, and yellows.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Agate",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Mexican_Crazy_Lace_Agate_-_World%27s_Best.jpg/330px-Mexican_Crazy_Lace_Agate_-_World%27s_Best.jpg",
+    "points": 10
+  },
+  {
+    "id": 295,
+    "facts": "This mineral is a variety of chalcedony known for its smooth texture and can be found in colors ranging from white to blue and sometimes even purple.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Chalcedony",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Quartz-46809.jpg/330px-Quartz-46809.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 296,
+    "facts": "This gemstone is typically black with banded patterns and is commonly used for carving decorative objects and jewelry. It has a smooth, polished finish.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Onyx",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Agate-Quartz-49959.jpg/330px-Agate-Quartz-49959.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 298,
+    "facts": "This mineral is also known as bloodstone. It typically exhibits dark green colors with red spots, and is often used in cabochons or ornamental carvings.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Heliotrope (mineral)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Quarz_-_Heliotrop_%28Blutjaspis%29.JPG/330px-Quarz_-_Heliotrop_%28Blutjaspis%29.JPG",
+    "points": 10
+  },
+  {
+    "id": 299,
+    "facts": "This gemstone is a variety of chalcedony and is known for its rich red to orange colors. It is often used in rings, necklaces, and other forms of jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Carnelian",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Carnelian_sard_%28mineral_specimen%29.jpg/330px-Carnelian_sard_%28mineral_specimen%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 300,
+    "facts": "This variety of chalcedony is often translucent to opaque and is available in a wide range of colors, including gray, blue, and white.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Chalcedony",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Quartz-46809.jpg/330px-Quartz-46809.jpg",
+    "points": 10
+  },
+  {
+    "id": 301,
+    "facts": "This gemstone is known for its apple-green color and is often used in jewelry. It is a form of chalcedony and is typically found in volcanic rocks.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Chrysoprase",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Chryzopras_Polsko.jpg/330px-Chryzopras_Polsko.jpg",
+    "points": 10
+  },
+  {
+    "id": 302,
+    "facts": "This crystal is characterized by its tree-like inclusions, known as dendrites, and is often used as an ornamental stone.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Dendrite (crystal)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dendrites01.jpg/330px-Dendrites01.jpg",
+    "points": 10
+  },
+  {
+    "id": 303,
+    "facts": "This gemstone is a form of chalcedony that typically displays green or moss-like inclusions, often found in rocks associated with volcanic activity.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Moss agate",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mossagate.pebble.750pix.jpg/330px-Mossagate.pebble.750pix.jpg",
+    "points": 10
+  },
+  {
+    "id": 304,
+    "facts": "This gemstone exhibits a fiery, iridescent display of colors, typically red, yellow, and orange, often found in volcanic rocks.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Fire agate",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/High_Grade_Slaughter_Mountain_Arizona_Fire_Agate_Rough.jpg/330px-High_Grade_Slaughter_Mountain_Arizona_Fire_Agate_Rough.jpg",
+    "points": 10
+  },
+  {
+    "id": 305,
+    "facts": "This gemstone phenomenon refers to a rainbow-like color effect, often seen in soap bubbles or certain minerals. It is caused by the interference of light.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Iridescence",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Soap_Bubble_-_foliage_background_-_iridescent_colours_-_Traquair_040801.jpg/330px-Soap_Bubble_-_foliage_background_-_iridescent_colours_-_Traquair_040801.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 306,
+    "facts": "This gemstone is often found in a wide variety of colors and patterns. It is frequently used in decorative items and is commonly seen in carvings and jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Jasper",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Jasper_outcrop_in_the_Bucegi_Mountains.jpg/330px-Jasper_outcrop_in_the_Bucegi_Mountains.jpg",
+    "points": 10
+  },
+  {
+    "id": 307,
+    "facts": "This gemstone is formed when wood becomes fossilized and is often found with striking color and texture, making it a popular choice for ornamental items.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Petrified wood",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Polished_slice_of_petrified_wood.jpg/330px-Polished_slice_of_petrified_wood.jpg",
+    "points": 10
+  },
+  {
+    "id": 308,
+    "facts": "This gemstone is known for its translucent red to orange color and is often used in rings, pendants, and other types of jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Carnelian",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Carnelian_sard_%28mineral_specimen%29.jpg/330px-Carnelian_sard_%28mineral_specimen%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 309,
+    "facts": "This gemstone is a yellow variety of quartz, often used in jewelry and believed to carry energy that is associated with prosperity and vitality.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Citrine (quartz)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Citrine_taillee.jpg/330px-Citrine_taillee.jpg",
+    "points": 10
+  },
+  {
+    "id": 310,
+    "facts": "This term refers to a type of mineral formation that forms within geodes, resulting in crystals lining the inner walls. It is often admired for its sparkle and variety.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Druse (geology)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Geode_macros_%2851063915253%29.jpg/330px-Geode_macros_%2851063915253%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 311,
+    "facts": "This mineral is often found in the form of small, sharp-edged pieces and has been used since prehistoric times for tools, weapons, and ornamentation.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Flint",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Miorcani_flint.jpg/330px-Miorcani_flint.jpg",
+    "points": 10
+  },
+  {
+    "id": 312,
+    "facts": "This gemstone, also known as a type of double-terminated quartz, is often found in the Herkimer region of New York and is prized for its clarity and natural shape.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Herkimer diamond",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Herkimer_Diamant_-_Middleville%2C_County_of_Herkimer%2C_NY%2C_USA.JPG/330px-Herkimer_Diamant_-_Middleville%2C_County_of_Herkimer%2C_NY%2C_USA.JPG",
+    "points": 10
+  },
+  {
+    "id": 313,
+    "facts": "This mineral is one of the most common and abundant on Earth, known for its clarity and used in a wide range of products, including jewelry and watches.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Quartz",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Quartz_Br%C3%A9sil.jpg/330px-Quartz_Br%C3%A9sil.jpg",
+    "points": 10
+  },
+  {
+    "id": 314,
+    "facts": "This green variety of quartz is often mistaken for emerald, but it has a more translucent quality. It is used in jewelry and decorative items.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Prasiolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/QuartzPrase.jpg/330px-QuartzPrase.jpg",
+    "points": 10
+  },
+  {
+    "id": 315,
+    "facts": "This type of sedimentary rock contains microfossils and is often used in jewelry or as a decorative stone due to its striking appearance and durability.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Radiolarite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Glen_Canyon_Park_Chert_Outcrop.jpg/330px-Glen_Canyon_Park_Chert_Outcrop.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 317,
+    "facts": "This type of quartz is formed under extreme conditions, resulting in unique textures and patterns. It is often found in the impact craters of meteorites.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Shocked quartz",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Suvasvesi_shocked_quartz.jpg/330px-Suvasvesi_shocked_quartz.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 318,
+    "facts": "This gemstone is a brown to gray variety of quartz, known for its translucent appearance. It is often used in jewelry and believed to have protective qualities.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Smoky quartz",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Smoky-quartz-TUCQTZ09-03-arkenstone-irocks.png/330px-Smoky-quartz-TUCQTZ09-03-arkenstone-irocks.png",
+    "points": 10
+  },
+  {
+    "id": 319,
+    "facts": "This metamorphic rock is formed from the alteration of sandstone under heat and pressure. It has a granular texture and is commonly used in construction.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Quartzite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Quartzite_Solli%C3%A8res.jpg/330px-Quartzite_Solli%C3%A8res.jpg",
+    "points": 10
+  },
+  {
+    "id": 320,
+    "facts": "This mineral is known for its red color and is often found in veins in sedimentary rocks. It is toxic in its pure form, so it is handled with care.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Realgar",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Realgar-229713.jpg/330px-Realgar-229713.jpg",
+    "points": 10
+  },
+  {
+    "id": 321,
+    "facts": "This borate mineral is often found in igneous rocks and is known for its ability to form in different shapes, making it a fascinating specimen for collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Borate mineral",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Londonite-Tourmaline-120977.jpg/330px-Londonite-Tourmaline-120977.jpg",
+    "points": 10
+  },
+  {
+    "id": 322,
+    "facts": "This mineral is prized for its striking pink to red color. It is often used in jewelry and is sometimes referred to as the 'Stone of Love.'",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Rhodochrosite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rhodochrosite_on_Matrix_-_Peru.jpg/330px-Rhodochrosite_on_Matrix_-_Peru.jpg",
+    "points": 10
+  },
+  {
+    "id": 323,
+    "facts": "This manganese silicate mineral is typically pink to red, and is valued for its vibrant color and clarity. It is often used in high-quality gemstones.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Rhodonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/8224M-rhodonite3.jpg/330px-8224M-rhodonite3.jpg",
+    "points": 10
+  },
+  {
+    "id": 324,
+    "facts": "This amphibole mineral is typically found in blue or greenish-blue forms and is known for its fibrous structure and is often studied for its geological significance.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Richterite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Richterite-mrz156a.jpg/330px-Richterite-mrz156a.jpg",
+    "points": 10
+  },
+  {
+    "id": 325,
+    "facts": "This mineral is a sodium iron silicate and is often found in dark, metallic colors. It is a rare and distinctive gemstone.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Riebeckite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Crystals_of_black_riebeckite_in_alkaline_pegmatite%2C_near_%C3%89visa_%28Corsica%2C_France%29.jpg/330px-Crystals_of_black_riebeckite_in_alkaline_pegmatite%2C_near_%C3%89visa_%28Corsica%2C_France%29.jpg",
+    "points": 10
+  },
+ 
+  {
+    "id": 327,
+    "facts": "This blue-green mineral is a copper carbonate, often found in arid climates, and is highly valued for its color and rarity.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Rosasite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rosasite-291101.jpg/330px-Rosasite-291101.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 328,
+    "facts": "This mineral is known for its needle-like inclusions, typically found in metamorphic rocks. It is often used as a specimen for collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Rutile",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Rutile-ww7a.jpg/330px-Rutile-ww7a.jpg",
+    "points": 10
+  },
+  {
+    "id": 329,
+    "facts": "This rare mineral is a complex oxide of uranium and yttrium. It is often found in granite and pegmatite rocks, and has applications in the field of nuclear energy.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Samarskite-(Y)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Samarskite-%28Y%29-351417.jpg/330px-Samarskite-%28Y%29-351417.jpg",
+    "points": 10
+  },
+  {
+    "id": 330,
+    "facts": "This mineral is a high-temperature form of feldspar, commonly found in volcanic rocks. It has a glassy appearance and is often used in the study of geology.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Sanidine",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sanidine.jpg/330px-Sanidine.jpg",
+    "points": 10
+  },
+  {
+    "id": 331,
+    "facts": "This mineral is a high-temperature aluminum silicate, found in metamorphic rocks. It is prized for its intense color and is often used in high-end jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Sapphirine",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sapphirine-203257.jpg/330px-Sapphirine-203257.jpg",
+    "points": 10
+  },
+  {
+    "id": 332,
+    "facts": "This gemstone is a rare mineral, typically found in igneous rocks, and has been valued for its striking red color. It was first described in the 19th century.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Sarcolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sarcolite_national_museum_of_scotland.JPG/330px-Sarcolite_national_museum_of_scotland.JPG",
+    "points": 10
+  },
+  {
+    "id": 333,
+    "facts": "This mineral occurs in a range of colors, from white to pale yellow. It is often associated with metamorphic rocks and is of interest to mineral collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Scapolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Scapolite%2C_elba%C3%AFte%2C_cleavelandite_7100.1.2830.jpg/330px-Scapolite%2C_elba%C3%AFte%2C_cleavelandite_7100.1.2830.jpg",
+    "points": 10
+  },
+  {
+    "id": 334,
+    "facts": "This mineral is typically found in volcanic rocks and has been used as a source of aluminum in industrial applications. It is found in a variety of shades, often light to dark brown.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Marialite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Marialite-169082.jpg/330px-Marialite-169082.jpg",
+    "points": 10
+  },
+  {
+    "id": 335,
+    "facts": "This mineral is a rare silicate that forms in metamorphic rocks, often found alongside other rare minerals. It has an interesting crystal structure and is typically found in regions with high-pressure conditions.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Meionite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Meionite-Quartz-53866.jpg",
+    "points": 10
+  },
+  {
+    "id": 336,
+    "facts": "This mineral is found in metamorphic rocks and is notable for its distinct crystalline structure. It is primarily used in the study of mineralogy and geology.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Scheelite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Scheelite-224167.jpg/330px-Scheelite-224167.jpg",
+    "points": 10
+  },
+  {
+    "id": 337,
+    "facts": "This mineral is associated with a variety of rare metamorphic and igneous rocks. It is characterized by its unique color and structure, making it an interesting specimen for collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Schizolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bustamite-215493.jpg/330px-Bustamite-215493.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 338,
+    "facts": "This mineral is a member of the arsenate group and is often found in copper deposits. It has a unique appearance and is of interest to collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Scorodite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Scorodite-scoro-35a.jpg/330px-Scorodite-scoro-35a.jpg",
+    "points": 10
+  },
+  {
+    "id": 339,
+    "facts": "This sulfate mineral is known for its transparency and can be found in gypsum deposits. It often forms in distinct crystal shapes.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Selenite (mineral)",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Gypse-s%C3%A9l%C3%A9nite_3.jpeg/330px-Gypse-s%C3%A9l%C3%A9nite_3.jpeg",
+    "points": 10
+  },
+  {
+    "id": 340,
+    "facts": "This mineral is a rare magnesium halide that forms in arid climates and is primarily found in evaporite deposits.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Sellaite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sellaite-39033.jpg/330px-Sellaite-39033.jpg",
+    "points": 10
+  },
+  {
+    "id": 341,
+    "facts": "This compound is used industrially as a fire retardant and is found in certain ores. It is a white powder and forms under specific environmental conditions.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Antimony trioxide",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Antimony_trioxide.jpg/330px-Antimony_trioxide.jpg",
+    "points": 10
+  },
+  {
+    "id": 342,
+    "facts": "This clay mineral is valued for its absorbent properties and can be found in specific types of sedimentary rocks.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Sepiolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mineraly.sk_-_sepiolit.jpg/330px-Mineraly.sk_-_sepiolit.jpg",
+    "points": 10
+  },
+  {
+    "id": 343,
+    "facts": "This mineral is found in igneous rocks and is prized for its red and orange hues. It is often used in the study of geology and mineralogy.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Serandite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Serandite-Aegirine-20264.jpg/330px-Serandite-Aegirine-20264.jpg",
+    "points": 10
+  },
+  {
+    "id": 344,
+    "facts": "This mineral has a striking green color and is often found in metamorphic rocks. It is prized for its appearance in high-quality specimens.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Seraphinite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Clinochlore_%28Seraphinite%29.jpg/320px-Clinochlore_%28Seraphinite%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 345,
+    "facts": "This gemstone is extremely rare and found in deep-sea deposits. It is known for its unique bluish-black color and crystal structure.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Serendibite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Serendibite-452545.jpg/330px-Serendibite-452545.jpg",
+    "points": 10
+  },
+  {
+    "id": 346,
+    "facts": "This mineral forms in serpentine rocks and is used in the creation of various decorative items due to its attractive appearance.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Serpentine subgroup",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Talk_on_Serpentine.jpg/330px-Talk_on_Serpentine.jpg",
+    "points": 10
+  },
+  {
+    "id": 347,
+    "facts": "This mineral is a variety of serpentine and is typically green to yellow-green. It is often used in jewelry and ornamental carvings.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Antigorite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Antigorite_from_Poland.jpg/330px-Antigorite_from_Poland.jpg",
+    "points": 10
+  },
+  {
+    "id": 348,
+    "facts": "This mineral is a type of serpentine and is known for its attractive green color. It is often found in the form of smooth, polished stones.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Bowenite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Serpentine-bowenite.jpg",
+    "points": 10
+  },
+  {
+    "id": 349,
+    "facts": "This asbestos mineral is known for its fibrous structure and is often found in metamorphic rocks. It has been historically used in insulation materials.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Chrysotile",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Chrysotile_1.jpg/330px-Chrysotile_1.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 350,
+    "facts": "This mineral is a type of serpentine and can be found in ultramafic rocks. It is valued for its attractive color and is often used in ornamental carvings.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Lizardite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lizardit.jpg/330px-Lizardit.jpg",
+    "points": 10
+  },
+  {
+    "id": 351,
+    "facts": "This rare mineral is often found in association with serpentine minerals. It forms in compact masses and is valued for its vibrant color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Stichtite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Stichtite-_Lizardite.jpg/330px-Stichtite-_Lizardite.jpg",
+    "points": 10
+  },
+  {
+    "id": 352,
+    "facts": "This copper silicate mineral is prized for its striking blue color and is found in copper ore deposits.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Shattuckite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Shattuckite-rosa20d.jpg/330px-Shattuckite-rosa20d.jpg",
+    "points": 10
+  },
+  {
+    "id": 353,
+    "facts": "This rare mineral is known for its deep red color and forms in manganese ore deposits. It is often used in research for its interesting properties.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Shigaite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rhodochrosite-Shigaite-cktsr-4a.jpg/330px-Rhodochrosite-Shigaite-cktsr-4a.jpg",
+    "points": 10
+  },
+  {
+    "id": 354,
+    "facts": "This mineral is a rare sodium carbonate and is found in certain sedimentary environments. It has a distinct, vibrant yellow appearance.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Shortite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Shortite-20224.jpg/330px-Shortite-20224.jpg",
+    "points": 10
+  },
+  {
+    "id": 355,
+    "facts": "This mineral is a carbon-based substance known for its unique properties, often used in industrial applications. It is primarily found in Russia and certain parts of Europe.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Shungite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%D0%A8%D1%83%D0%BD%D0%B3%D0%B8%D1%82.jpg/330px-%D0%A8%D1%83%D0%BD%D0%B3%D0%B8%D1%82.jpg",
+    "points": 10
+  },
+  {
+    "id": 356,
+    "facts": "This mineral is a common iron carbonate that forms in sedimentary rocks and is often found in fossils and coal deposits.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Siderite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Harvard_Museum_of_Natural_History._Siderite._Gilman%2C_Eagle_Co.%2C_CO_%28DerHexer%29_2012-07-20.jpg/330px-Harvard_Museum_of_Natural_History._Siderite._Gilman%2C_Eagle_Co.%2C_CO_%28DerHexer%29_2012-07-20.jpg",
+    "points": 10
+  },
+  {
+    "id": 357,
+    "facts": "This aluminum silicate mineral is found in high-pressure metamorphic rocks. It is often used to study geological conditions in deep Earth environments.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Sillimanite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sillimanite-k302a.jpg/330px-Sillimanite-k302a.jpg",
+    "points": 10
+  },
+  {
+    "id": 358,
+    "facts": "This mineral is a variety of zinc silicate and is used as an indicator mineral in geological surveys. It has a unique color and structure.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Simpsonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Simpsonite-154999.jpg/330px-Simpsonite-154999.jpg",
+    "points": 10
+  },
+  {
+    "id": 359,
+    "facts": "This borate mineral is used in the production of glass and ceramics. It is found in volcanic rocks and has distinctive color variations.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Sinhalite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sinhalite-656999.jpg/330px-Sinhalite-656999.jpg",
+    "points": 10
+  },
+  {
+    "id": 360,
+    "facts": "This mineral is an arsenic-based compound that is commonly found in cobalt ores. It is typically black and metallic in appearance.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Smaltite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Skutterudite_allemagne.jpg/330px-Skutterudite_allemagne.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 361,
+    "facts": "This mineral is a zinc carbonate and is often found in association with other ores. It forms in a variety of colors and is used as a source of zinc.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Smithsonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Smithsonite-Willemite-cktsu-23a.jpg/330px-Smithsonite-Willemite-cktsu-23a.jpg",
+    "points": 10
+  },
+  {
+    "id": 362,
+    "facts": "This mineral is a sodium aluminum silicate, commonly found in igneous rocks. It is widely used in ornamental jewelry for its attractive blue color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Sodalite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sodalith_-_Rohstein.jpg/330px-Sodalith_-_Rohstein.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 364,
+    "facts": "This platinum arsenide mineral is found in high-pressure environments and is valued for its metallic luster and rarity.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Sperrylite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sperrylite-195702.jpg/330px-Sperrylite-195702.jpg",
+    "points": 10
+  },
+  {
+    "id": 365,
+    "facts": "This type of rock is composed of a variety of minerals, often containing dark-colored grains. It is commonly found in volcanic environments.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Lamprophyre",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2278_minette.jpg/330px-2278_minette.jpg",
+    "points": 10
+  },
+  {
+    "id": 366,
+    "facts": "This mineral is a zinc sulfide and is an important ore of zinc. It is often found in sedimentary and metamorphic rocks.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Sphalerite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sphalerite_-_Creede%2C_Mineral_County%2C_Colorado%2C_USA.jpg/330px-Sphalerite_-_Creede%2C_Mineral_County%2C_Colorado%2C_USA.jpg",
+    "points": 10
+  },
+  {
+    "id": 367,
+    "facts": "This mineral comes in a wide range of colors and is often mistaken for other gemstones due to its similarity to ruby or sapphire. It is commonly used in jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Spinel",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Calcite-Spinel-dtn37a.jpg",
+    "points": 10
+  },
+  {
+    "id": 368,
+    "facts": "This gemstone is a variety of garnet and is often found in igneous rocks. It is valued for its deep green color and clarity.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Ceylonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Ceylonite%2C_calcite_7100.1.0461.jpg/320px-Ceylonite%2C_calcite_7100.1.0461.jpg",
+    "points": 10
+  },
+  {
+    "id": 369,
+    "facts": "This lithium aluminum silicate mineral is known for its stunning colors and is often found in granite pegmatites. It is highly sought after by collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Spodumene",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Spodumene-usa59abg.jpg/330px-Spodumene-usa59abg.jpg",
+    "points": 10
+  },
+  {
+    "id": 370,
+    "facts": "This gemstone is an emerald green variety of spodumene. It is prized for its clarity and vibrant color, often used in high-end jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Hiddenite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hiddenite%2C_cleavelandite%2C_quartz_1.jpeg/330px-Hiddenite%2C_cleavelandite%2C_quartz_1.jpeg",
+    "points": 10
+  },
+  
+  
+  {
+    "id": 372,
+    "facts": "This mineral is a calcium silicate and carbonate, often found in volcanic rocks. It has unique crystal structures and is used as a source of lime.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Spurrite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Spurrite_Calcium_silicate_and_carbonate_Luna_county_New_mexico_1873.jpg/330px-Spurrite_Calcium_silicate_and_carbonate_Luna_county_New_mexico_1873.jpg",
+    "points": 10
+  },
+  {
+    "id": 373,
+    "facts": "This mineral forms in metamorphic rocks and is known for its unique cross-shaped crystal formation. It is often used for its aesthetic properties.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Staurolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Staurolite-26463.jpg/330px-Staurolite-26463.jpg",
+    "points": 10
+  },
+  {
+    "id": 374,
+    "facts": "This mineral is a tantalate and stibnite compound and is rare in nature. It is often found in granitic pegmatites.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Stibiotantalite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Stibiotantalite-ch10a.jpg/330px-Stibiotantalite-ch10a.jpg",
+    "points": 10
+  },
+  {
+    "id": 375,
+    "facts": "This mineral is a hydrous chromium hydroxide, often found in combination with other minerals. It is prized for its vibrant green color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Stichtite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Stichtite-_Lizardite.jpg/330px-Stichtite-_Lizardite.jpg",
+    "points": 10
+  },
+  {
+    "id": 376,
+    "facts": "This rare mineral is a lead telluride and is mostly found in mineral deposits in specific geological settings.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Stolzite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Stolzite-t07-25b.jpg/330px-Stolzite-t07-25b.jpg",
+    "points": 10
+  },
+  {
+    "id": 377,
+    "facts": "This mineral is a carbonate of strontium, commonly found in sedimentary rocks. It forms in a variety of colors and is used for its ornamental qualities.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Strontianite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mineraly.sk_-_stroncianit.jpg/330px-Mineraly.sk_-_stroncianit.jpg",
+    "points": 10
+  },
+  {
+    "id": 378,
+    "facts": "This material is known for its strong resemblance to diamond and is a synthetic compound of strontium and titanium.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Strontium titanate",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Tausonite.jpg/330px-Tausonite.jpg",
+    "points": 10
+  },
+  {
+    "id": 379,
+    "facts": "This mineral is a bright yellow compound of sulfur and is primarily found in volcanic regions. It has many industrial uses and is highly reactive.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Sulfur",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sulfur_-_El_Desierto_mine%2C_San_Pablo_de_Napa%2C_Daniel_Campos_Province%2C_Potos%C3%AD%2C_Bolivia.jpg/330px-Sulfur_-_El_Desierto_mine%2C_San_Pablo_de_Napa%2C_Daniel_Campos_Province%2C_Potos%C3%AD%2C_Bolivia.jpg",
+    "points": 10
+  },
+  {
+    "id": 380,
+    "facts": "This mineral is known for its rich purple color and is found in various geologic environments. It is used both as a gemstone and for metaphysical purposes.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Sugilite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Smithsonian_Exhibit_Stone.jpg/330px-Smithsonian_Exhibit_Stone.jpg",
+    "points": 10
+  },
+  {
+    "id": 381,
+    "facts": "This mineral is a silicate mineral that often forms in high-temperature and pressure conditions. It is prized for its translucent appearance.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Bustamite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Bustamite.jpg/330px-Bustamite.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 382,
+    "facts": "This mineral is an amphibole, typically found in volcanic rocks. It can form long, needle-like crystals.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Richterite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Richterite-mrz156a.jpg/330px-Richterite-mrz156a.jpg",
+    "points": 10
+  },
+  {
+    "id": 383,
+    "facts": "This mineral is a type of potassium chloride, typically forming cubic crystals and is commonly found in evaporite deposits.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Sylvite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mineral_Silvina_GDFL105.jpg/330px-Mineral_Silvina_GDFL105.jpg",
+    "points": 10
+  },
+  {
+    "id": 384,
+    "facts": "This gemstone is a rare, purple corundum mineral, often confused with sapphire due to its similar appearance.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Taaffeite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Magnesiotaaffeite-2N2S-53105.jpg/330px-Magnesiotaaffeite-2N2S-53105.jpg",
+    "points": 10
+  },
+  {
+    "id": 385,
+    "facts": "This is the softest mineral on the Mohs scale, often used in talcum powder. It is a silicate mineral composed of magnesium.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Talc",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Talc-177589.jpg/330px-Talc-177589.jpg",
+    "points": 10
+  },
+  {
+    "id": 386,
+    "facts": "This mineral is a black iron oxide, commonly found in granitic and pegmatitic rocks. It is also used in electronics due to its conductivity.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Tantalite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tantalite.jpg/330px-Tantalite.jpg",
+    "points": 10
+  },
+  {
+    "id": 387,
+    "facts": "This mineral is a natural glass formed from the rapid cooling of molten rock during a meteor impact. It is often associated with extraterrestrial events.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Tektite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Two_tektites.JPG/330px-Two_tektites.JPG",
+    "points": 10
+  },
+  {
+    "id": 388,
+    "facts": "This natural glass is formed by the impact of a meteorite with the Earth's surface and is prized for its deep green color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Moldavite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Moldavite_No.2.jpg/330px-Moldavite_No.2.jpg",
+    "points": 10
+  },
+  {
+    "id": 389,
+    "facts": "This mineral is a manganese silicate, often found in association with other silicate minerals in metamorphic rocks.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Tephroite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tephroite_Manganese_silicate_Kaao_Mine_Tochigi-ken_Honshu_Japan_1816.jpg/330px-Tephroite_Manganese_silicate_Kaao_Mine_Tochigi-ken_Honshu_Japan_1816.jpg",
+    "points": 10
+  },
+  {
+    "id": 390,
+    "facts": "This mineral is a zeolite group member and is commonly found in basaltic rocks. It is known for its unique radiating crystal formations.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Thomsonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Thomsonite-61017.jpg/330px-Thomsonite-61017.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 391,
+    "facts": "This mineral is a hydrous basic calcium carbonate sulfate and silicate, typically forming in regions with volcanic activity.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Thaumasite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Thaumasite_w-prehnite_Hydrous_basic_calcium_carbonate_sulfate_and_silicate_Fairfax_Quarry_near_Contraville_Fairfax_County_Virginia_1641.jpg/330px-Thaumasite_w-prehnite_Hydrous_basic_calcium_carbonate_sulfate_and_silicate_Fairfax_Quarry_near_Contraville_Fairfax_County_Virginia_1641.jpg",
+    "points": 10
+  },
+  {
+    "id": 392,
+    "facts": "This rare gemstone is a member of the feldspar group, typically found in volcanic rocks and is known for its distinctive purple hue.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Tinaksite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tinaksite%2C_Charoite-543035.png/330px-Tinaksite%2C_Charoite-543035.png",
+    "points": 10
+  },
+  {
+    "id": 393,
+    "facts": "This mineral is also known as sphene, and it is known for its high dispersion, often exhibiting a fire-like brilliance.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Titanite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Titanite_crystals_on_Amphibole_-_Ochtendung%2C_Eifel%2C_Germany.jpg/330px-Titanite_crystals_on_Amphibole_-_Ochtendung%2C_Eifel%2C_Germany.jpg",
+    "points": 10
+  },
+  {
+    "id": 394,
+    "facts": "This gemstone is commonly found in various colors and is known for its hardness and brilliance, often used in fine jewelry.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Topaz",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Topaze%2C_quartz_fum%C3%A9_1.jpg/330px-Topaze%2C_quartz_fum%C3%A9_1.jpg",
+    "points": 10
+  },
+  {
+    "id": 395,
+    "facts": "This gemstone is part of the borosilicate group and comes in a wide range of colors. It is often used in jewelry and has a characteristic long crystal form.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Tourmaline",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Tourmaline-121240.jpg/330px-Tourmaline-121240.jpg",
+    "points": 10
+  },
+ 
+  {
+    "id": 397,
+    "facts": "This gemstone is a variety of tourmaline and is often used for its vibrant colors in fine jewelry. It is commonly found in pegmatites.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Elbaite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Elbaite_with_albite_-_S%C3%A3o_Jos%C3%A9_da_Safira%2C_Minas_Gerais%2C_Brazil.jpg/330px-Elbaite_with_albite_-_S%C3%A3o_Jos%C3%A9_da_Safira%2C_Minas_Gerais%2C_Brazil.jpg",
+    "points": 10
+  },
+  {
+    "id": 398,
+    "facts": "This gemstone belongs to the tourmaline group and is notable for its unique liddicoatite variety, found in rare and exotic locations.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Fluor-liddicoatite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Liddicoatite-t5151b.jpg",
+    "points": 10
+  },
+  {
+    "id": 399,
+    "facts": "This colorful gemstone is a variety of tourmaline and is prized for its bright hues and high clarity, often used in gemstone collections.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Elbaite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Elbaite_with_albite_-_S%C3%A3o_Jos%C3%A9_da_Safira%2C_Minas_Gerais%2C_Brazil.jpg/330px-Elbaite_with_albite_-_S%C3%A3o_Jos%C3%A9_da_Safira%2C_Minas_Gerais%2C_Brazil.jpg",
+    "points": 10
+  },
+ 
+  {
+    "id": 403,
+    "facts": "This gemstone is a variety of tourmaline, known for its intense red hues and commonly referred to as 'ruby tourmaline.'",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Rubellite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tourmaline-280362.jpg/330px-Tourmaline-280362.jpg",
+    "points": 10
+  },
+  {
+    "id": 404,
+    "facts": "A member of the amphibole group, this mineral is often green in color and can be found in metamorphic rocks.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Tremolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tremolite_Campolungo.jpg/330px-Tremolite_Campolungo.jpg",
+    "points": 10
+  },
+  {
+    "id": 405,
+    "facts": "This gemstone belongs to the pyroxene group and is known for its hexagonal crystal structure. It can be found in metamorphic and igneous rocks.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Hexagonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Tremolite-172420.jpg",
+    "points": 10
+  },
+  {
+    "id": 406,
+    "facts": "A member of the phosphate group, this gemstone is known for its deep brown to reddish-brown color and is often found in granitic pegmatites.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Triphylite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Triphylite-112567.jpg/330px-Triphylite-112567.jpg",
+    "points": 10
+  },
+  {
+    "id": 407,
+    "facts": "This gemstone is a member of the phosphate group and is commonly found in igneous and pegmatitic rocks, known for its distinctive reddish-brown color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Triplite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Triplite-t5105a.jpg/330px-Triplite-t5105a.jpg",
+    "points": 10
+  },
+  {
+    "id": 408,
+    "facts": "This rare mineral is often found in metamorphosed igneous rocks and is known for its bright red to pinkish colors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Tugtupite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tugtupite_3.JPG/330px-Tugtupite_3.JPG",
+    "points": 10
+  },
+  {
+    "id": 409,
+    "facts": "This blue gemstone is often used in fine jewelry and has been prized since ancient times for its striking color and occurrence in copper deposits.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Turquoise",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Turquoise-40031.jpg/330px-Turquoise-40031.jpg",
+    "points": 10
+  },
+  {
+    "id": 410,
+    "facts": "This mineral is known for its unique ability to reflect light and has been used historically for its optical properties. It is often found in evaporite deposits.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Ulexite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ulexite-Calcite-40062.jpg/330px-Ulexite-Calcite-40062.jpg",
+    "points": 10
+  },
+  {
+    "id": 411,
+    "facts": "A rare silicate mineral, this gemstone is often found in metamorphic rocks and is prized for its golden color and association with uranium deposits.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Ussingite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ussingite%2C_Vuonnemite-294589.jpg/330px-Ussingite%2C_Vuonnemite-294589.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 412,
+    "facts": "This gemstone is a vanadate mineral, known for its bright red to orange color. It is often found in the oxidation zones of lead vanadate deposits.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Vanadinite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vanadinite_-_ACF_mine%2C_Mibladen%2C_Morocco.jpg/330px-Vanadinite_-_ACF_mine%2C_Mibladen%2C_Morocco.jpg",
+    "points": 10
+  },
+  {
+    "id": 413,
+    "facts": "This gemstone is a phosphate mineral and is often green, though it can also appear in shades of blue and yellow. It is commonly found in phosphate-rich deposits.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Variscite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Variscite-Pyrite-179447.jpg/330px-Variscite-Pyrite-179447.jpg",
+    "points": 10
+  },
+  {
+    "id": 414,
+    "facts": "This rare phosphate mineral is usually found in high-temperature deposits and is known for its bright yellow to greenish hues.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Väyrynenite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Vayrynenite-177599.jpg/330px-Vayrynenite-177599.jpg",
+    "points": 10
+  },
+  {
+    "id": 415,
+    "facts": "A calcium aluminum silicate, this gemstone is often green or brown, and it is commonly found in contact metamorphic rocks.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Vesuvianite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Vesuvianite-242685.jpg/330px-Vesuvianite-242685.jpg",
+    "points": 10
+  },
+  {
+    "id": 416,
+    "facts": "This gemstone, often green in color, is also known as idocrase. It is a metamorphic mineral that forms under high pressure and temperature.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Vesuvianite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Vesuvianite-242685.jpg/330px-Vesuvianite-242685.jpg",
+    "points": 10
+  },
+  {
+    "id": 417,
+    "facts": "This sodium fluoride mineral is usually colorless or pale-colored and forms in the evaporite deposits. It is highly soluble in water.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Villiaumite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Villiaumite-t5128a.jpg/330px-Villiaumite-t5128a.jpg",
+    "points": 10
+  },
+  {
+    "id": 418,
+    "facts": "This rare, hydrated iron phosphate mineral is usually blue to green and is often found in oxidized zones of iron-rich deposits.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Vivianite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/7314M-vivianite2.jpg/330px-7314M-vivianite2.jpg",
+    "points": 10
+  },
+  {
+    "id": 419,
+    "facts": "A complex borosilicate mineral, this gemstone is often found in alkali-rich pegmatites and is known for its striking pink to purple hues.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Vlasovite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Vlasovite-Gittinsite-Eudialyte-213097.jpg/330px-Vlasovite-Gittinsite-Eudialyte-213097.jpg",
+    "points": 10
+  },
+  {
+    "id": 420,
+    "facts": "This phosphate mineral typically forms as nodules or crusts in phosphate-rich environments. It is known for its yellowish-green color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Wardite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Wardite.jpg/330px-Wardite.jpg",
+    "points": 10
+  },
+  {
+    "id": 421,
+    "facts": "A rare aluminum phosphate mineral, this gemstone is typically found in the form of radiating clusters and is yellowish to greenish in color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Wavellite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wavellite-162460.jpg/330px-Wavellite-162460.jpg",
+    "points": 10
+  },
+  {
+    "id": 422,
+    "facts": "This rare hydrated sodium calcium borate mineral is often found in evaporite deposits and is known for its unique crystal form.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Weloganite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Weloganite2%2811x5.5%29.jpg/330px-Weloganite2%2811x5.5%29.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 423,
+    "facts": "This mineral is a calcium oxalate, typically found as a secondary mineral in the weathered zone of copper deposits. It is often a pale yellowish to brown color.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Whewellite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Whewellite-md82a.jpg/330px-Whewellite-md82a.jpg",
+    "points": 10
+  },
+  {
+    "id": 424,
+    "facts": "This gemstone is a rare fluoride mineral typically found in copper deposits and can be identified by its characteristic crystal form.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Fluorellestadite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ellestadite-%28F%29-Calcite-215134.jpg/320px-Ellestadite-%28F%29-Calcite-215134.jpg",
+    "points": 10
+  },
+  {
+    "id": 425,
+    "facts": "This gemstone is a zinc silicate mineral, usually found in a green color and exhibits fluorescence under UV light. It is commonly found in zinc ore deposits.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Willemite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Willemite-168225.jpg/330px-Willemite-168225.jpg",
+    "points": 10
+  },
+  {
+    "id": 426,
+    "facts": "This barium carbonate mineral, found in sedimentary deposits, is known for its white crystalline structure and is commonly associated with other lead minerals.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Witherite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Witherite-48305.jpg/330px-Witherite-48305.jpg",
+    "points": 10
+  },
+  {
+    "id": 427,
+    "facts": "This gemstone is a calcium inosilicate mineral that typically appears white, though it can sometimes show shades of gray or green. It forms in contact metamorphic environments.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Wollastonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/WollastoniteUSGOV.jpg/330px-WollastoniteUSGOV.jpg",
+    "points": 10
+  },
+  {
+    "id": 428,
+    "facts": "This gemstone is a lead molybdate mineral that is typically orange to yellow in color. It is often found in oxidation zones of molybdenum ore deposits.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Wulfenite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Wulfenite_-_Red_Cloud_mine%2C_La_Paz_Co.%2C_Arizona%2C_USA.jpg/330px-Wulfenite_-_Red_Cloud_mine%2C_La_Paz_Co.%2C_Arizona%2C_USA.jpg",
+    "points": 10
+  },
+  {
+    "id": 429,
+    "facts": "This gemstone is a zinc sulfide mineral, typically found in hydrothermal veins and as a secondary mineral in zinc ore deposits. It is often found in brown to black colors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Wurtzite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wurtzite-245570.jpg/330px-Wurtzite-245570.jpg",
+    "points": 10
+  },
+  {
+    "id": 430,
+    "facts": "This gemstone is a rare calcium-silicate mineral, known for its fibrous texture and white to gray color. It typically forms in low-temperature, metamorphic environments.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Xonotlite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Xonotlite-Inesite-21179.jpg/330px-Xonotlite-Inesite-21179.jpg",
+    "points": 10
+  },
+  {
+    "id": 431,
+    "facts": "This gemstone is a rare silicate mineral, typically found in volcanic rocks. It is known for its distinctive crystal structure and can range in color from brown to gray.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Yugawaralite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Yugawaralite-325335.jpg/330px-Yugawaralite-325335.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 432,
+    "facts": "This rare lithium zirconium silicate is typically pink to salmon in color and occurs in alkaline igneous rocks, particularly from Washington State, USA.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Zektzerite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Zektzerite-122174.jpg",
+    "points": 10
+  },
+  {
+    "id": 433,
+    "facts": "This group of hydrated aluminosilicate minerals is known for its porous structure, making it useful in water filtration, gas separation, and catalysis.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Zeolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Estonian_Museum_of_Natural_History_Specimen_No_203540_photo_%28g232_g232-25_jpg%29.jpg/330px-Estonian_Museum_of_Natural_History_Specimen_No_203540_photo_%28g232_g232-25_jpg%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 434,
+    "facts": "This mineral forms trapezohedral crystals and is often white or colorless. It commonly appears in cavities within volcanic rocks.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Analcime",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Analcime_-_Kahwan_Mountain%2C_Semnan%2C_Iran.jpg/330px-Analcime_-_Kahwan_Mountain%2C_Semnan%2C_Iran.jpg",
+    "points": 10
+  },
+  {
+    "id": 435,
+    "facts": "This mineral is known for its highly reflective crystals with cubic or tabular shapes. It's often found in basalt cavities and popular among collectors.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Apophyllite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Apophyllite-65547.jpg/330px-Apophyllite-65547.jpg",
+    "points": 10
+  },
+  {
+    "id": 436,
+    "facts": "This rhombohedral mineral belongs to the zeolite group and is often found in volcanic rocks. It has excellent ion-exchange properties.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Chabazite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Chabazite-Ca-Heulandite-Ca-225190.jpg/330px-Chabazite-Ca-Heulandite-Ca-225190.jpg",
+    "points": 10
+  },
+  {
+    "id": 437,
+    "facts": "This slender, needle-like mineral typically forms in radiating aggregates and is commonly found in basalt cavities. It is usually colorless to white.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Natrolite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Natroliteinde1.jpg/330px-Natroliteinde1.jpg",
+    "points": 10
+  },
+  {
+    "id": 438,
+    "facts": "This mineral displays slender, acicular crystals that are typically colorless or white, often forming radiating sprays in basaltic rocks.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Scolecite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Scolecite%2C_Apophyllite%2C_Stilbite-450733.jpg/330px-Scolecite%2C_Apophyllite%2C_Stilbite-450733.jpg",
+    "points": 10
+  },
+  {
+    "id": 439,
+    "facts": "This mineral is known for its radiating clusters and pearly luster. It belongs to the zeolite family and occurs in volcanic cavities.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Stellerite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Stellerite_-_Takat%2C_Imilchil%2C_Midelt_Province%2C_Dr%C3%A2a-Tafilalet_Region%2C_Morocco.jpg/330px-Stellerite_-_Takat%2C_Imilchil%2C_Midelt_Province%2C_Dr%C3%A2a-Tafilalet_Region%2C_Morocco.jpg",
+    "points": 10
+  },
+  {
+    "id": 440,
+    "facts": "This sheaf-like mineral is one of the most common zeolites and is found in cavities within basalt. It usually has a white or pinkish hue.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Stilbite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Fluorapophyllite-Stilbite-Ca-indi-52b.jpg/330px-Fluorapophyllite-Stilbite-Ca-indi-52b.jpg",
+    "points": 10
+  },
+  {
+    "id": 441,
+    "facts": "This mineral is known for forming small radiating clusters or nodules and is often found in basalt rock formations. It can display a soft luster.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Thomsonite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Thomsonite-61017.jpg/330px-Thomsonite-61017.jpg",
+    "points": 10
+  },
+  {
+    "id": 442,
+    "facts": "This bright red to orange mineral is a naturally occurring zinc oxide and is sometimes formed as a byproduct in smelting environments.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Zincite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zincite_from_Arizona.jpg/330px-Zincite_from_Arizona.jpg",
+    "points": 10
+  },
+  {
+    "id": 443,
+    "facts": "This brownish mica mineral contains lithium and often occurs in granite pegmatites. It is used in some industrial heat-resistant applications.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Zinnwaldite",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fluorapatite-Quartz-Topaz-gha5a.jpg/330px-Fluorapatite-Quartz-Topaz-gha5a.jpg",
+    "points": 10
+  },
+  {
+    "id": 444,
+    "facts": "This zirconium silicate mineral is valued for its high dispersion and use in geochronology due to its ability to preserve radiometric information.",
+    "question": "Can you name this gemstone?",
+    "correctAnswer": "Zircon",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Zircon-dtn1a.jpg/330px-Zircon-dtn1a.jpg",
+    "points": 10
+  }
+]

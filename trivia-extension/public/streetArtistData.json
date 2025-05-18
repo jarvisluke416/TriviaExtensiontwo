@@ -1,0 +1,866 @@
+[
+  {
+    "id": 1,
+    "facts": "This artist is an Egyptian muralist known for reviving pharaonic styles to address modern social issues.",
+    "question": "can you name this artist",
+    "correctAnswer": "Alaa Awad",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Alaa_Awad%2C_Munchen_Egyptian_Museum%2C_February_2023.jpg",
+    "points": 10
+  },
+  {
+    "id": 2,
+    "facts": "This artist is one of Egypt’s pioneering female street artists, blending pop culture and satire in her murals.",
+    "question": "can you name this artist",
+    "correctAnswer": "Aya Tarek",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/AO_S9793_OPT_-2.jpg",
+    "points": 10
+  },
+  {
+    "id": 3,
+    "facts": "This artist is a prominent Egyptian figure known for politically charged street art during and after the 2011 revolution.",
+    "question": "can you name this artist",
+    "correctAnswer": "Ganzeer",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Egyptians_will_never_give_up_the_struggle_for_freedom_and_democracy._%2821625178228%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 4,
+    "facts": "This artist is an anonymous Egyptian street artist who uses stencil graffiti to critique capitalism and corruption.",
+    "question": "can you name this artist",
+    "correctAnswer": "Keizer",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Keizer_artwork.JPG",
+    "points": 10
+  },
+  {
+    "id": 6,
+    "facts": "This artist is a Nigerian graffiti artist known for fusing street art with branding and youth activism.",
+    "question": "can you name this artist",
+    "correctAnswer": "Osa Seven",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Osa_Seven_in_Lagos_Nigeria.jpg",
+    "points": 10
+  },
+  {
+    "id": 8,
+    "facts": "This artist uses street art to document life in South African townships and spark dialogue through visuals.",
+    "question": "can you name this artist",
+    "correctAnswer": "Ben Jay Crossman",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Ben_Jay_Crossman.jpg",
+    "points": 10
+  },
+  {
+    "id": 9,
+    "facts": "This artist is an Argentine muralist known for surreal large-scale portraits and mythological themes.",
+    "question": "can you name this artist",
+    "correctAnswer": "Milagros Correch",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kannelm%C3%A4en_palvelukeskus.jpg",
+    "points": 10
+  },
+  {
+    "id": 11,
+    "facts": "This artist is a Brazilian street artist known for his soot art created by cleaning pollution from tunnel walls.",
+    "question": "can you name this artist",
+    "correctAnswer": "Alexandre Ōrion",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/cd/Alexandre_Orion_Metabiotics_20.jpg",
+    "points": 10
+  },
+  {
+    "id": 12,
+    "facts": "This artist is a twin duo from Brazil famous for their colorful, dreamlike murals that often feature whimsical characters.",
+    "question": "can you name this artist",
+    "correctAnswer": "Os Gemeos",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Yellow_man_by_Os_Gemeos_%2814071586251%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 14,
+    "facts": "This artist is known for large-scale, hyperrealist murals that depict Brazilian culture and historical figures.",
+    "question": "can you name this artist",
+    "correctAnswer": "Eduardo Kobra",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Eduardo_kobra.png",
+    "points": 10
+  },
+  {
+    "id": 15,
+    "facts": "This artist is known for combining pop culture with stencil work to create provocative, layered urban commentary.",
+    "question": "can you name this artist",
+    "correctAnswer": "Esm-Artificial",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/Esm_1.jpg",
+    "points": 10
+  },
+  {
+    "id": 17,
+    "facts": "This artist is a Canadian known for using reclaimed street signs and objects to transform public space into conceptual statements.",
+    "question": "can you name this artist",
+    "correctAnswer": "Posterchild",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Mariocoin.jpg",
+    "points": 10
+  },
+  {
+    "id": 19,
+    "facts": "This artist is a Mexican-British street artist known for miniature paste-ups and 3D illusions on urban walls.",
+    "question": "can you name this artist",
+    "correctAnswer": "Pablo Delgado",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Graffiti_in_Shoreditch%2C_London_-_Open_Door_by_Pablo_Delgado_%2810640631475%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 21,
+    "facts": "This artist is known for their unique form of street art called 'ABOVE', where they use letters and graphic design to communicate complex messages.",
+    "question": "can you name this artist",
+    "correctAnswer": "Tavar Zawacki",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Tavar_Zawacki_studio.jpg",
+    "points": 10
+  },
+  {
+    "id": 22,
+    "facts": "This artist is a contemporary muralist from Mexico, whose work blends abstract patterns with rich color and traditional iconography.",
+    "question": "can you name this artist",
+    "correctAnswer": "Federico Archuleta",
+    "imageUrl": "https://www.austinchronicle.com/binary/778a/arts_feature40-1.jpg",
+    "points": 10
+  },
+  {
+    "id": 23,
+    "facts": "This artist, hailing from New York, is known for large-scale murals that often focus on the intersection of nature and urban life.",
+    "question": "can you name this artist",
+    "correctAnswer": "Atlas",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Mercator_-_Atlas_-_1595.png",
+    "points": 10
+  },
+  {
+    "id": 27,
+    "facts": "This artist was an influential figure in the 1980s graffiti scene, known for their raw, expressive works that reflected social and political struggles.",
+    "question": "can you name this artist",
+    "correctAnswer": "Jean-Michel Basquiat",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Jean-Michel_Basquiat_passport_%28cropped%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 28,
+    "facts": "This artist is famous for their street art pieces that often feature humor and critique societal norms through provocative images and symbols.",
+    "question": "can you name this artist",
+    "correctAnswer": "Borf",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bush_hates_Borf.jpg",
+    "points": 10
+  },
+  {
+    "id": 31,
+    "facts": "This artist is known for their large-scale, dynamic murals and is often recognized for their graffiti style that combines abstract forms with expressive, bold colors.",
+    "question": "can you name this artist",
+    "correctAnswer": "David Choe",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/David_Choe%2C_2010.jpg",
+    "points": 10
+  },
+  {
+    "id": 32,
+    "facts": "This artist is associated with the graffiti movement and works often incorporate cultural and political themes, blending street art with fine art.",
+    "question": "can you name this artist",
+    "correctAnswer": "Clandestine Culture",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/CLANDESTIN_CULTURE%2Cpolice.jpg",
+    "points": 10
+  },
+  {
+    "id": 33,
+    "facts": "This artist is a pioneer in the world of graffiti fashion, combining street art and high fashion into iconic works, using stencil techniques to produce sharp, graphic imagery.",
+    "question": "can you name this artist",
+    "correctAnswer": "Claw Money",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Claw_Money_at_Red_Bull_Canvas_Cooler_Project_2012.jpg",
+    "points": 10
+  },
+  {
+    "id": 38,
+    "facts": "This artist is one of the early pioneers of graffiti in Philadelphia and is credited with popularizing the concept of 'tagging' in the urban art movement.",
+    "question": "can you name this artist",
+    "correctAnswer": "Cornbread",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Skillet_cornbread_%28cropped%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 39,
+    "facts": "This artist works in a variety of media, from murals to installations, creating artwork that often incorporates social and political commentary on global issues.",
+    "question": "can you name this artist",
+    "correctAnswer": "Shai Dahan",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Shai_Dahan_photoby_David_Tonstr%C3%B6m.jpg",
+    "points": 10
+  },
+  {
+    "id": 42,
+    "facts": "This artist combines street art with mass media and pop culture, often creating large-scale works that feature iconic characters and bold, satirical commentary.",
+    "question": "can you name this artist",
+    "correctAnswer": "Ron English",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/10.13.12RonEnglishByLuigiNovi1.jpg",
+    "points": 10
+  },
+  {
+    "id": 44,
+    "facts": "This artist is famous for the 'Obey Giant' campaign and for using political and propaganda-style imagery to comment on consumer culture and government control.",
+    "question": "can you name this artist",
+    "correctAnswer": "Shepard Fairey",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Shepard-fairey-2011-westhollywood.jpg",
+    "points": 10
+  },
+  {
+    "id": 47,
+    "facts": "This group of anonymous artists is known for using guerrilla tactics to promote gender equality and challenge the art world and political systems through public installations.",
+    "question": "can you name this artist",
+    "correctAnswer": "Guerrilla Girls",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Guerrilla_Girls_-_V%26A_Museum%2C_London.jpg",
+    "points": 10
+  },
+  {
+    "id": 48,
+    "facts": "This group focuses on combining technology and street art, often using projection mapping and digital media to create interactive installations in public spaces.",
+    "question": "can you name this artist",
+    "correctAnswer": "Graffiti Research Lab",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Hell%27s_Kitchen_-_Flickr_-_urban_data.jpg",
+    "points": 10
+  },
+  {
+    "id": 50,
+    "facts": "This artist is recognized for their dark and enigmatic works, often featuring shadowy figures that evoke the struggle between life and death in urban spaces.",
+    "question": "can you name this artist",
+    "correctAnswer": "Richard Hambleton",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Richardhambleton.jpg",
+    "points": 10
+  },
+  {
+    "id": 51,
+    "facts": "This artist is known for blending street art with pop culture, often referencing iconic figures and using humorous twists to comment on art and society.",
+    "question": "can you name this artist",
+    "correctAnswer": "Hanksy",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Angels_and_Demons_street_art_by_Hanksy.jpg",
+    "points": 10
+  },
+  {
+    "id": 54,
+    "facts": "This artist's iconic work in the 1980s made a lasting impact on both street art and the broader art world, often combining bold lines, cartoonish characters, and social commentary.",
+    "question": "can you name this artist",
+    "correctAnswer": "Keith Haring",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Keithharingportrait.png",
+    "points": 10
+  },
+  {
+    "id": 55,
+    "facts": "This artist is recognized for their colorful, kaleidoscopic murals that use abstract, geometric patterns to create engaging, dynamic art that bridges the gap between fine art and street culture.",
+    "question": "can you name this artist",
+    "correctAnswer": "Maya Hayuk",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/2021-10-09_BLT_Maya_Hayuk-7786_-_51906649353.jpg",
+    "points": 10
+  },
+  {
+    "id": 57,
+    "facts": "This artist is known for creating visually compelling art that mixes social commentary, political themes, and abstract, often dreamlike imagery.",
+    "question": "can you name this artist",
+    "correctAnswer": "Chris Johanson",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Chris_johanson_tina_age_13.jpg",
+    "points": 10
+  },
+  {
+    "id": 60,
+    "facts": "This artist is known for their dynamic, large-scale works that merge graffiti, abstract expressionism, and a unique sense of urban style.",
+    "question": "can you name this artist",
+    "correctAnswer": "JonOne",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Fresque_de_l%27abb%C3%A9_Pierre_par_JonOne_%28cropped%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 64,
+    "facts": "This artist is known for transforming urban landscapes with colorful yarn installations that challenge the boundaries between knitting and street art.",
+    "question": "can you name this artist",
+    "correctAnswer": "Knitta Please",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Knitta_on_Delancey_M-cropped.jpg",
+    "points": 10
+  },
+  {
+    "id": 65,
+    "facts": "This artist combines elements of pop culture and feminist theory in her colorful, sometimes playful murals, creating a vibrant narrative of empowerment.",
+    "question": "can you name this artist",
+    "correctAnswer": "Liz LaManche",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Artist_Liz_LaManche.jpg",
+    "points": 10
+  },
+  {
+    "id": 67,
+    "facts": "A prominent figure in the San Francisco Bay Area, this artist uses a blend of graphic design and street art to create surreal and vibrant public murals.",
+    "question": "can you name this artist",
+    "correctAnswer": "Barry McGee",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Barry_McGee_Mural_on_Houston_and_Bowery.jpg",
+    "points": 10
+  },
+  {
+    "id": 68,
+    "facts": "This artist is famous for his colorful, whimsical murals that combine comic book aesthetics with a street art sensibility.",
+    "question": "can you name this artist",
+    "correctAnswer": "Greg Mike",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/2025-0119_Greg_Mike.jpg",
+    "points": 10
+  },
+  {
+    "id": 69,
+    "facts": "This artist’s provocative style often blends street art with elements of pop culture and commercial advertising, creating pieces that challenge the boundaries of art.",
+    "question": "can you name this artist",
+    "correctAnswer": "Eric Millikin",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Eric_Millikin.jpg",
+    "points": 10
+  },
+  {
+    "id": 70,
+    "facts": "Known for his mix of iconic pop culture references and street art techniques, this artist has created art that both critiques and celebrates the world around him.",
+    "question": "can you name this artist",
+    "correctAnswer": "Mr. Brainwash",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Mr_Brainwash_cropped.jpg",
+    "points": 10
+  },
+  {
+    "id": 71,
+    "facts": "This artist is known for their large-scale murals that often address themes of identity, social justice, and personal expression.",
+    "question": "can you name this artist",
+    "correctAnswer": "Mear One",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Mear_One%27s_interpretation_of_%27The_Madonna_of_the_Rosary%27_by_Bartolom%C3%A9_Murillo.jpg",
+    "points": 10
+  },
+  {
+    "id": 73,
+    "facts": "This artist is known for incorporating pop culture icons and playful characters into their work, often featuring rich color palettes.",
+    "question": "can you name this artist",
+    "correctAnswer": "Alec Monopoly",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Alec_Monopoly.jpg",
+    "points": 10
+  },
+  {
+    "id": 75,
+    "facts": "Known for their often anarchistic and darkly comedic style, this artist uses humor and controversy to make statements on societal norms.",
+    "question": "can you name this artist",
+    "correctAnswer": "Neck Face",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Neckface_Allen_Street.jpg",
+    "points": 10
+  },
+  {
+    "id": 76,
+    "facts": "This artist's work frequently uses graffiti and visual storytelling to comment on the urban environment and modern culture.",
+    "question": "can you name this artist",
+    "correctAnswer": "Nsumi",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Nsumi_Commune_Starter_Kits.jpg",
+    "points": 10
+  },
+  {
+    "id": 81,
+    "facts": "This artist is known for their vibrant and playful typography that often conveys messages of positivity and love.",
+    "question": "can you name this artist",
+    "correctAnswer": "Stephen Powers",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/A_Walk_from_Sea_to_Sea_Powers.jpg",
+    "points": 10
+  },
+  {
+    "id": 84,
+    "facts": "A pioneering figure in hip-hop culture, this artist's work blends science fiction and social commentary, often addressing themes of identity.",
+    "question": "can you name this artist",
+    "correctAnswer": "Rammellzee",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Rammellzee_in_2009.jpg",
+    "points": 10
+  },
+  {
+    "id": 92,
+    "facts": "A pioneer in the graffiti movement, this artist's work blends abstract visuals with cryptic messages, creating a distinctive style.",
+    "question": "can you name this artist",
+    "correctAnswer": "SAMO",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Jean-Michel_Basquiat_passport_%28cropped%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 95,
+    "facts": "This artist is famous for his bold, cartoonish style that incorporates humor and a sense of nostalgia, especially with his iconic smiley faces.",
+    "question": "can you name this artist",
+    "correctAnswer": "Kenny Scharf",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Artist_Kenny_Scharf_and_Mural_%28cropped%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 97,
+    "facts": "This street artist uses urban spaces as their canvas, often engaging in public installations that provoke thought and conversation.",
+    "question": "can you name this artist",
+    "correctAnswer": "Sidewalk Sam",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Robert_Guillemin_%22Sidewalk_Sam%22_%289516907091%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 98,
+    "facts": "This artist’s work often deals with themes of consumerism and technology, using a blend of old-school and digital graffiti techniques.",
+    "question": "can you name this artist",
+    "correctAnswer": "SJK 171",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Steve_sjk171_25.jpg",
+    "points": 10
+  },
+  {
+    "id": 106,
+    "facts": "This artist's unique approach blends realism with street culture, often featuring larger-than-life portraits in urban spaces.",
+    "question": "can you name this artist",
+    "correctAnswer": "Jacek Tylicki",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Give-if-you-can.jpg",
+    "points": 10
+  },
+  {
+    "id": 108,
+    "facts": "This artist is known for her use of humor and wit in the form of public art interventions, often in the form of sculptures and installations.",
+    "question": "can you name this artist",
+    "correctAnswer": "Dan Witz",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Dan_Witz.jpg",
+    "points": 10
+  },
+  {
+    "id": 110,
+    "facts": "This artist is renowned for his satirical pieces that blend pop culture, celebrity, and technology with a critique of modern society.",
+    "question": "can you name this artist",
+    "correctAnswer": "XVALA",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/XVALA_with_Big_Sausage_Pizza.jpg",
+    "points": 10
+  },
+  {
+    "id": 111,
+    "facts": "Known for his colorful, geometric artwork that often combines abstraction and cultural motifs.",
+    "question": "can you name this artist",
+    "correctAnswer": "Tavar Zawacki",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Tavar_Zawacki_studio.jpg",
+    "points": 10
+  },
+  {
+    "id": 112,
+    "facts": "This artist is known for her powerful street art that addresses issues such as war, women's rights, and social justice in Afghanistan.",
+    "question": "can you name this artist",
+    "correctAnswer": "Shamsia Hassani",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Portrait_Shamsia_Hassani.jpg",
+    "points": 10
+  },
+  {
+    "id": 118,
+    "facts": "This artist is known for his guerrilla street art, often using spray paint to convey social and political commentary.",
+    "question": "can you name this artist",
+    "correctAnswer": "Reza Rioter",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Reza_Rioter_in_Kashan.jpg",
+    "points": 10
+  },
+  {
+    "id": 119,
+    "facts": "This Israeli street artist's works often tackle themes of war, peace, and identity, often through politically charged visuals.",
+    "question": "can you name this artist",
+    "correctAnswer": "Israel",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
+    "points": 10
+  },
+  {
+    "id": 122,
+    "facts": "This artist represents a wave of South Korean street art that blends hip-hop culture, social commentary, and large-scale murals featuring urban themes.",
+    "question": "can you name this artist",
+    "correctAnswer": "Korea",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Unification_flag_of_Korea.svg",
+    "points": 10
+  },
+  {
+    "id": 124,
+    "facts": "This artist is one of Pakistan’s pioneering street artists, blending traditional calligraphy with bold graffiti styles and social activism.",
+    "question": "can you name this artist",
+    "correctAnswer": "Sanki King",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Sanki_King_portrait.jpg",
+    "points": 10
+  },
+  {
+    "id": 125,
+    "facts": "This artist uses murals to raise awareness of the war and humanitarian crisis in their home country, focusing on unity, peace, and resilience.",
+    "question": "can you name this artist",
+    "correctAnswer": "Yemen",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
+    "points": 10
+  },
+  {
+    "id": 126,
+    "facts": "This artist is celebrated for using walls as a political canvas in a war-torn country, spreading messages of peace and justice through vibrant public murals.",
+    "question": "can you name this artist",
+    "correctAnswer": "Murad Subay",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Murad_Subay.jpg",
+    "points": 10
+  },
+  {
+    "id": 131,
+    "facts": "This artist is known for stylized female portraits and bold color palettes, often mixing street art with fine art influences.",
+    "question": "can you name this artist",
+    "correctAnswer": "Ash",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Wood_ash.jpg",
+    "points": 10
+  },
+  {
+    "id": 132,
+    "facts": "This artist is considered one of the godfathers of stencil graffiti and was a major influence on Banksy and many others.",
+    "question": "can you name this artist",
+    "correctAnswer": "Blek le Rat",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Blek_Le_Rat_at_11_Spring_%28cropped%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 134,
+    "facts": "This artist was one of the pioneers of European graffiti, known for detailed, complex lettering and work on trains and walls since the 1980s.",
+    "question": "can you name this artist",
+    "correctAnswer": "Darco",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Darco_Code_Art.jpg",
+    "points": 10
+  },
+  {
+    "id": 135,
+    "facts": "This artist blends Arabic calligraphy with graffiti, creating large-scale murals that carry messages of peace and unity.",
+    "question": "can you name this artist",
+    "correctAnswer": "EL Seed",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/ELSeed.jpg",
+    "points": 10
+  },
+  {
+    "id": 136,
+    "facts": "This anonymous artist repairs potholes and broken sidewalks with colorful mosaics, often referred to as 'urban kintsugi.'",
+    "question": "can you name this artist",
+    "correctAnswer": "Ememem",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ememem_2_%28cropped%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 138,
+    "facts": "This artist is recognized for his red arrow stencil and portraits, often portraying famous musicians and political figures.",
+    "question": "can you name this artist",
+    "correctAnswer": "Jef Aérosol",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/JA%C3%A9rosol.jpg",
+    "points": 10
+  },
+  {
+    "id": 142,
+    "facts": "This French street artist is known for a recurring smiling yellow cat character, often seen with outstretched arms.",
+    "question": "can you name this artist",
+    "correctAnswer": "M. Chat",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Mchat11a.jpg",
+    "points": 10
+  },
+  {
+    "id": 143,
+    "facts": "This Paris-based artist blended poetry and feminism in her stencil art, often featuring sensual female silhouettes and clever text.",
+    "question": "can you name this artist",
+    "correctAnswer": "Miss.Tic",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Miss.Tic_2012.jpg",
+    "points": 10
+  },
+  {
+    "id": 144,
+    "facts": "Known for her feminine, sensual characters with full lips and dreamy eyes, this artist blends graffiti and fine art influences.",
+    "question": "can you name this artist",
+    "correctAnswer": "Miss Van",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Miss_Van_%28aikijuanma%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 145,
+    "facts": "This artist paints murals that feature people's names and powerful words in multiple languages, often in underserved communities.",
+    "question": "can you name this artist",
+    "correctAnswer": "Seb Toussaint",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/SebToussaintProfil.jpg",
+    "points": 10
+  },
+  {
+    "id": 149,
+    "facts": "This German street art trio is known for blending photorealism and abstract elements in colorful, multilayered murals.",
+    "question": "can you name this artist",
+    "correctAnswer": "3Steps",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/3Steps_-_Kai_Krieger%2C_Joachim_Pitt%2C_Uwe_Krieger_-_Atelier_Gie%C3%9Fen_2014_-_3StepsCrew_-_01_%2816476551629%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 150,
+    "facts": "A pioneer in 3D graffiti, this German artist is famous for his hyperrealistic geometric lettering and technical precision.",
+    "question": "can you name this artist",
+    "correctAnswer": "DAIM",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mirko_Reisser_%28DAIM%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 151,
+    "facts": "This artist is a pioneering French graffiti artist known for detailed lettering and work on trains and murals since the 1980s.",
+    "question": "can you name this artist",
+    "correctAnswer": "Darco",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Darco_Code_Art.jpg",
+    "points": 10
+  },
+  {
+    "id": 153,
+    "facts": "This artist is a Berlin-based creator famous for paste-ups of the character 'Little Lucy' and for exploring urban communication.",
+    "question": "can you name this artist",
+    "correctAnswer": "El Bocho",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/El_Bocho.jpg",
+    "points": 10
+  },
+  {
+    "id": 154,
+    "facts": "This artist is known for provocative works combining cartoonish figures with social and political commentary.",
+    "question": "can you name this artist",
+    "correctAnswer": "Boris Hoppek",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Jim_O._by_Boris_Hoppek_and_Fun_Factory_-_2.jpg",
+    "points": 10
+  },
+  {
+    "id": 157,
+    "facts": "This artist blends pop art, punk, and poetry into stencil and mixed media street art works.",
+    "question": "can you name this artist",
+    "correctAnswer": "van Ray",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Van_Ray_-_I_want_to_believe.jpg",
+    "points": 10
+  },
+  {
+    "id": 158,
+    "facts": "This artist duo is known for colorful collages, social commentary, and screen prints displayed in public spaces.",
+    "question": "can you name this artist",
+    "correctAnswer": "Various & Gould",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Various-and-gould-self-portrait-berlin-2015.jpg",
+    "points": 10
+  },
+  {
+    "id": 159,
+    "facts": "This artist is an anonymous German street artist who uses stencils, stickers, and posters to address surveillance and politics.",
+    "question": "can you name this artist",
+    "correctAnswer": "Undenk",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Undenk_PasteUp_Ehrenfeld.JPG",
+    "points": 10
+  },
+  {
+    "id": 169,
+    "facts": "This artist duo from Italy pioneered the use of stencils in street art, blending abstraction and figurative imagery.",
+    "question": "can you name this artist",
+    "correctAnswer": "Sten Lex",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Sten_lex_banksy%2C_cans_festival%2C_londra_2008.jpg",
+    "points": 10
+  },
+  {
+    "id": 170,
+    "facts": "This artist is a Dutch graffiti legend whose wildstyle lettering and figurative work helped shape European graffiti culture.",
+    "question": "can you name this artist",
+    "correctAnswer": "Ces53",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/2009_Yellowlines.jpg",
+    "points": 10
+  },
+  {
+    "id": 173,
+    "facts": "This artist is a Dutch anamorphic street artist renowned for 3D illusions that blend into urban environments when viewed from the right angle.",
+    "question": "can you name this artist",
+    "correctAnswer": "Leon Keer",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Incase-of-lost-childhood-cover.jpg",
+    "points": 10
+  },
+  {
+    "id": 175,
+    "facts": "This artist is a Norwegian stencil graffiti artist known for satirical and politically themed works often compared to Banksy.",
+    "question": "can you name this artist",
+    "correctAnswer": "Dolk",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Dolk_-_3_%28writer%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 177,
+    "facts": "This artist is a Norwegian street artist who uses humor and nostalgia to critique urbanization, often placing art in rural or abandoned settings.",
+    "question": "can you name this artist",
+    "correctAnswer": "Pøbel",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/J%C3%A6ren_2015_foto_p%C3%B8bel.jpg",
+    "points": 10
+  },
+  {
+    "id": 178,
+    "facts": "This artist is a Norwegian street artist known for blending colorful abstract patterns with grayscale stencil figures in layered compositions.",
+    "question": "can you name this artist",
+    "correctAnswer": "Martin Whatson",
+    "imageUrl": "https://streetartnews.net/wp-content/uploads/2016/11/c720c6977d1406842bfb937521e01f59.jpg",
+    "points": 10
+  },
+  {
+    "id": 179,
+    "facts": "This artist is a Polish-born yarn bomber known for wrapping urban objects and sculptures in colorful crochet, often addressing social issues.",
+    "question": "can you name this artist",
+    "correctAnswer": "Crocheted Olek",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Olek_by_olek.jpg",
+    "points": 10
+  },
+  {
+    "id": 180,
+    "facts": "This artist is from Norway and is known for a broad spectrum of street art techniques, from political stencils to public performance projects.",
+    "question": "can you name this artist",
+    "correctAnswer": "Norway",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+    "points": 10
+  },
+  {
+    "id": 181,
+    "facts": "This artist is a Portuguese street artist known for creating large-scale portraits using explosive techniques, such as chipping away at plaster and concrete.",
+    "question": "can you name this artist",
+    "correctAnswer": "Add Fuel",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/POR_Porto_Avenida_25_de_Abril_01.jpg",
+    "points": 10
+  },
+  {
+    "id": 182,
+    "facts": "This artist is a Portuguese street artist known for transforming urban environments into works of art, with his iconic portraits created through intricate chiseled patterns.",
+    "question": "can you name this artist",
+    "correctAnswer": "Vhils",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Vhils_in_2017_in_Beja.jpg",
+    "points": 10
+  },
+  {
+    "id": 183,
+    "facts": "This artist is a street artist known for creating intricate graffiti-style artwork that reflects a deep social commentary, often linked to Eastern European influences.",
+    "question": "can you name this artist",
+    "correctAnswer": "Pavel 183",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/%D0%9F%D0%B0%D1%88%D0%B0_183_%D0%90%D0%9E.jpg",
+    "points": 10
+  },
+  {
+    "id": 184,
+    "facts": "This artist is known for bringing playful characters to life in the streets, often blending animal and human traits in a unique and whimsical way.",
+    "question": "can you name this artist",
+    "correctAnswer": "Chanoir",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Chanoir_dans_son_atelier.png",
+    "points": 10
+  },
+  {
+    "id": 186,
+    "facts": "This artist is part of a duo (La Mano/Nami) known for their collaborative street art, blending different styles in their murals that tell poignant stories about urban life.",
+    "question": "can you name this artist",
+    "correctAnswer": "La Mano/Nami",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d9/Graffiti_by_La_Mano%2C_Barcelona.jpg",
+    "points": 10
+  },
+  {
+    "id": 187,
+    "facts": "This artist is known for his signature style of creating textured, colorful works that blur the line between painting and sculpture, often incorporating abstract geometric shapes.",
+    "question": "can you name this artist",
+    "correctAnswer": "Muelle",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Firma_de_Muelle_en_calle_Montera.jpg",
+    "points": 10
+  },
+  {
+    "id": 188,
+    "facts": "This artist is known for his conceptual approach to street art, often incorporating philosophical and existential themes into his works.",
+    "question": "can you name this artist",
+    "correctAnswer": "Akay",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Akay.jpg",
+    "points": 10
+  },
+  {
+    "id": 190,
+    "facts": "This artist is recognized for his minimalist yet dynamic murals, often using geometric shapes and an innovative use of space to convey complex emotions.",
+    "question": "can you name this artist",
+    "correctAnswer": "Max Magnus Norman",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Angels-online.jpg",
+    "points": 10
+  },
+  {
+    "id": 192,
+    "facts": "This artist is often referred to as 'The Father of Graffiti' in Switzerland, with works that challenge social norms and comment on the city's urban environment.",
+    "question": "can you name this artist",
+    "correctAnswer": "Harald Naegeli",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/HaraldNaegeli_2006.jpg",
+    "points": 10
+  },
+  {
+    "id": 194,
+    "facts": "This artist is internationally renowned for his satirical and politically charged street art, often featuring dark humor and iconic imagery.",
+    "question": "can you name this artist",
+    "correctAnswer": "Banksy",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Banksy-art.jpg",
+    "points": 10
+  },
+  {
+    "id": 202,
+    "facts": "This artist is one of the founding members of Massive Attack and is also known for his unique street art that blends elements of fine art and graffiti.",
+    "question": "can you name this artist",
+    "correctAnswer": "Robert Del Naja",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Robert_Del_Naja%40Barcelone_%28cropped%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 205,
+    "facts": "This artist is recognized for his unique fusion of abstract art and street art, often combining geometric forms with graffiti-style typography.",
+    "question": "can you name this artist",
+    "correctAnswer": "Inkie",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Secret_Wars_2007-01-27_Inkie_cropped.jpg",
+    "points": 10
+  },
+  {
+    "id": 208,
+    "facts": "This artist creates works that combine street art, fine art, and pop art influences, often using playful and whimsical imagery to reflect human nature.",
+    "question": "can you name this artist",
+    "correctAnswer": "My Dog Sighs",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Southsea_Skatepark_Graff_%2849%29_%283874963743%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 210,
+    "facts": "This artist is known for his powerful and iconic pieces that often feature themes of rivalry, personal history, and social commentary.",
+    "question": "can you name this artist",
+    "correctAnswer": "King Robbo",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/1988_Christmas_Day%2C_Robbo_WRH%2C_Whole_car..jpg",
+    "points": 10
+  },
+  {
+    "id": 213,
+    "facts": "This artist is famous for their minimalist, stick figure-style drawings, often seen on the streets of London, carrying strong emotional or political messages.",
+    "question": "can you name this artist",
+    "correctAnswer": "Stik",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/STIK_graffiti.jpg",
+    "points": 10
+  },
+  {
+    "id": 215,
+    "facts": "This artist is known for his hyper-realistic murals, often featuring figures that appear to come to life, blending human features with animal forms.",
+    "question": "can you name this artist",
+    "correctAnswer": "Seb Toussaint",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/SebToussaintProfil.jpg",
+    "points": 10
+  },
+  {
+    "id": 217,
+    "facts": "This artist creates detailed and intricate illustrations of animals, often with surreal elements, and his work regularly appears on walls and other public spaces.",
+    "question": "can you name this artist",
+    "correctAnswer": "Phlegm",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a2/Phlegm.jpg",
+    "points": 10
+  },
+  {
+    "id": 219,
+    "facts": "This artist hails from Australia and is recognized for their intricate, stencil-based murals that often convey messages about identity, politics, and the environment.",
+    "question": "can you name this artist",
+    "correctAnswer": "Australia",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
+    "points": 10
+  },
+  {
+    "id": 222,
+    "facts": "This artist is known for their large, highly detailed, and colorful pieces that often feature social commentary and bold street art aesthetics.",
+    "question": "can you name this artist",
+    "correctAnswer": "Lushsux",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Wien_-_Donald-Trump-_und_Kim-Jong-un-Graffiti_von_Lush_Sux.JPG",
+    "points": 10
+  },
+  {
+    "id": 229,
+    "facts": "This artist creates vibrant, bird-inspired murals that focus on themes of freedom, nature, and the connection between humans and wildlife.",
+    "question": "can you name this artist",
+    "correctAnswer": "Pam the Bird",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Pam_The_Bird.jpg",
+    "points": 10
+  },
+  {
+    "id": 230,
+    "facts": "This artist is renowned for their street art featuring vivid colors and intricate patterns, with a strong emphasis on abstract shapes and symbolism.",
+    "question": "can you name this artist",
+    "correctAnswer": "Phibs",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Phibs_painting_at_Redfern.jpg",
+    "points": 10
+  },
+  {
+    "id": 234,
+    "facts": "This artist creates emotive and often melancholic street art, focusing on characters with expressive faces that convey deep feelings of loneliness or introspection.",
+    "question": "can you name this artist",
+    "correctAnswer": "Stormie Mills",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Stormie_Mills_%28cropped%29.jpg",
+    "points": 10
+  }
+]

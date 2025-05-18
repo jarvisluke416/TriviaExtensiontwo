@@ -1,0 +1,2793 @@
+[
+    {
+      "id": 1,
+      "facts": "This stadium is the largest in the United States and one of the largest in the world. It's nicknamed 'The Big House' and is known for regularly drawing over 100,000 fans to college football games. Opened in 1927, it has undergone multiple expansions and renovations over the years.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Michigan Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Michigan_Stadium_Aerial.jpg/330px-Michigan_Stadium_Aerial.jpg",
+      "points": 10
+    },
+    {
+      "id": 2,
+      "facts": "This stadium is one of the largest in the Western Hemisphere and serves as the home field for a prominent college football team. Known for its 'White Out' games, it creates one of the most intimidating environments in college football. It’s located in a small town but regularly hosts crowds exceeding 100,000.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Beaver Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Beaver_Stadium_Whiteout_2018_Pregame.jpg/330px-Beaver_Stadium_Whiteout_2018_Pregame.jpg",
+      "points": 10
+    },
+    {
+      "id": 3,
+      "facts": "This stadium, nicknamed 'The Horseshoe,' is home to one of the most successful college football programs in history. It’s known for its unique design and for hosting some of the largest crowds in the sport.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Ohio Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ohio_Stadium_Overhead.jpg/330px-Ohio_Stadium_Overhead.jpg",
+      "points": 10
+    },
+    {
+      "id": 4,
+      "facts": "Located in Texas, this stadium is often referred to as the 'Home of the 12th Man.' It boasts one of the loudest and most passionate fanbases in all of college football.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Kyle Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Kyle_Field_Panorama.jpg/330px-Kyle_Field_Panorama.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 6,
+      "facts": "This stadium, nestled along the Tennessee River, is one of the oldest and largest in the country. Its sea of orange is iconic in college football lore.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Neyland Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Neyland_aerial_view_of_checkerboard.jpg/330px-Neyland_aerial_view_of_checkerboard.jpg",
+      "points": 10
+    },
+    {
+      "id": 7,
+      "facts": "Named in part for a legendary coach, this stadium stands as a proud symbol of football in Texas. It regularly draws massive crowds and is a staple in Big 12 football.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Darrell K Royal-Texas Memorial Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Darrell_K_Royal-Texas_Memorial_Stadium_at_Night.jpg/330px-Darrell_K_Royal-Texas_Memorial_Stadium_at_Night.jpg",
+      "points": 10
+    },
+    {
+      "id": 8,
+      "facts": "Located in Tuscaloosa, this stadium is the home of one of the most decorated programs in college football history. Its fans, clad in crimson, create a formidable game-day environment.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Bryant-Denny Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bryant%E2%80%93Denny_Stadium%2C_Tuscaloosa_AL%2C_North_view_20160714_1.jpg/330px-Bryant%E2%80%93Denny_Stadium%2C_Tuscaloosa_AL%2C_North_view_20160714_1.jpg",
+      "points": 10
+    },
+    {
+      "id": 9,
+      "facts": "Known for its iconic hedges surrounding the field, this stadium is steeped in Southern football tradition and is the centerpiece of one of the SEC’s top programs.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Sanford Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/UGA_vs._Notre_Dame_2019.jpg/330px-UGA_vs._Notre_Dame_2019.jpg",
+      "points": 10
+    },
+    {
+      "id": 12,
+      "facts": "Nicknamed 'The Swamp,' this stadium is known for its extreme heat, rowdy crowds, and its intimidating atmosphere for visiting teams.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Ben Hill Griffin Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/BenHillGriffinStadium.png/330px-BenHillGriffinStadium.png",
+      "points": 10
+    },
+    {
+      "id": 13,
+      "facts": "This venue is home to one of the fiercest rivalries in college football and boasts a raucous fan base deep in the heart of Alabama.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Jordan-Hare Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Jordan-Hare_Stadium_Exterior_2017.jpg/330px-Jordan-Hare_Stadium_Exterior_2017.jpg",
+      "points": 10
+    },
+   
+    {
+      "id": 15,
+      "facts": "This massive stadium in New Jersey is one of the few in the NFL shared by two professional teams, and it regularly hosts major events, including Super Bowls.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "MetLife Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/New_York_Giants_vs_Detroit_Lions_-_20_nov._2022_-_MetLife_Stadium_-_file_02.jpg",
+      "points": 10
+    },
+    {
+      "id": 16,
+      "facts": "Located in Wisconsin, this stadium is considered hallowed ground in professional football, particularly for its frozen tundra and legendary team history.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Lambeau Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Lambeau_Field_Warm-Ups_2003_Tennessee_Titans.jpg",
+      "points": 10
+    },
+    {
+      "id": 17,
+      "facts": "This stadium in Norman, Oklahoma, has been home to one of the most dominant college football programs of the modern era, with a history of national championships and Heisman winners.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Gaylord Family Oklahoma Memorial Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/OMU_with_2016_extension.jpg/330px-OMU_with_2016_extension.jpg",
+      "points": 10
+    },
+    {
+      "id": 18,
+      "facts": "Often called 'Jerry World,' this modern marvel features a retractable roof and a massive jumbotron, and is home to both the NFL and major college games.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "AT&T Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/AT%26T_Stadium_logo.svg/330px-AT%26T_Stadium_logo.svg.png",
+      "points": 10
+    },
+    {
+      "id": 19,
+      "facts": "This Florida stadium, known for its distinctive architecture and spear-planting tradition, is the heart of a storied college football program.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Doak Campbell Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Aerial_view_of_Doak_Campbell_Stadium.jpg/330px-Aerial_view_of_Doak_Campbell_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 20,
+      "facts": "This historic venue in Indiana is home to one of college football’s most storied programs and is known for the phrase 'Touchdown Jesus.'",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Notre Dame Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NotreDameStadiumNight.jpg/330px-NotreDameStadiumNight.jpg",
+      "points": 10
+    },
+    {
+      "id": 21,
+      "facts": "Located in Columbia, South Carolina, this stadium is known for its raucous night games and the playing of 'Sandstorm' that energizes the crowd.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Williams–Brice Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Williams_Brice_Stadium.jpg/330px-Williams_Brice_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 22,
+      "facts": "This iconic venue has hosted two Olympic Games and countless major football games, making it one of the most historic stadiums in the U.S.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Los Angeles Memorial Coliseum",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/11-11-06-LA-Coliseum-USC-UO.jpg",
+      "points": 10
+    },
+    {
+      "id": 23,
+      "facts": "Renowned for being one of the loudest stadiums in the NFL, this venue is the home of a team with a passionate red and gold fanbase.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "GEHA Field at Arrowhead Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Aerial_view_of_Arrowhead_Stadium_08-31-2013.jpg/330px-Aerial_view_of_Arrowhead_Stadium_08-31-2013.jpg",
+      "points": 10
+    },
+    {
+      "id": 24,
+      "facts": "Set in the Ozarks, this stadium is home to a team known for its pig-calling chant and intense SEC rivalries.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Donald W. Reynolds Razorback Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/09-02-06-RRS-Ozarks.jpg/330px-09-02-06-RRS-Ozarks.jpg",
+      "points": 10
+    },
+    {
+      "id": 25,
+      "facts": "Nestled in the Rocky Mountains, this stadium hosts one of the NFL’s most storied franchises and is known for its mile-high altitude advantage.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Empower Field",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeZ3MhfxvzFQd93CWH2YzYtK6u-Lf86cji4tkqWm98-OHNC4ObxUuuKgX-m6GPndl8PeP-VNw2yQ6LJC3P6xM4NjvVQXAMtZAp85mwOkrsUpueaJEGTCteCnpMrazr9ygkArVyc1ATmeXLF98fkFsIwm4ax9f01zl6yXMLROk_IYTn5WyGv9V_RqHG/s1600/Screenshot%20%2828%29.png",
+      "points": 10
+    },
+    {
+      "id": 26,
+      "facts": "This stadium is steeped in Big Ten history and known for hosting raucous fans who chant 'Jump Around' between quarters.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Camp Randall Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Camp_Randall_Aerial.jpg/330px-Camp_Randall_Aerial.jpg",
+      "points": 10
+    },
+   
+    {
+      "id": 28,
+      "facts": "This modern NFL stadium in Charlotte is home to a team named after a big cat and is known for its downtown skyline backdrop.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Bank of America Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/BofAStadium2015.JPG/330px-BofAStadium2015.JPG",
+      "points": 10
+    },
+    {
+      "id": 29,
+      "facts": "With a distinctive dome shape, this stadium in New Orleans has hosted numerous Super Bowls, college championships, and major concerts.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Caesars Superdome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/DHS_Agencies_Support_Super_Bowl_LIX_Security_February_2025_-_108.jpg/330px-DHS_Agencies_Support_Super_Bowl_LIX_Security_February_2025_-_108.jpg",
+      "points": 10
+    },
+    {
+      "id": 30,
+      "facts": "This retractable-roof stadium in Houston is home to the Texans and regularly hosts the Houston Livestock Show and Rodeo.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "NRG Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/NRG_Stadium_SBLI.jpg/330px-NRG_Stadium_SBLI.jpg",
+      "points": 10
+    },
+   
+    {
+      "id": 32,
+      "facts": "Nicknamed the 'Old Gray Lady,' this historic stadium in Birmingham once hosted the Iron Bowl and Olympic soccer matches.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Legion Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Legion_Field_Aerial_2015.PNG/330px-Legion_Field_Aerial_2015.PNG",
+      "points": 10
+    },
+    {
+      "id": 33,
+      "facts": "With a futuristic design and a retractable roof shaped like a camera lens, this Atlanta stadium is home to both NFL and MLS teams.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Mercedes-Benz Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/2019_Peach_Bowl_LSU_vs_OU_Mercedes-Benz_Stadium_field.jpg",
+      "points": 10
+    },
+    {
+      "id": 34,
+      "facts": "Located in Baltimore, this stadium is named after a regional bank and is home to the Ravens, known for its vibrant tailgating scene.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "M&T Bank Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/M%26T_Bank_Stadium_Aerial_2022.jpg/330px-M%26T_Bank_Stadium_Aerial_2022.jpg",
+      "points": 10
+    },
+    {
+      "id": 35,
+      "facts": "This Los Angeles stadium opened in 2020 and has hosted Super Bowl LVI, featuring a massive dual-sided video board called the 'Oculus.'",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "SoFi Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SoFi_Stadium_2023.jpg/330px-SoFi_Stadium_2023.jpg",
+      "points": 10
+    },
+    {
+      "id": 36,
+      "facts": "Set against the backdrop of Lake Washington, this Seattle stadium is known for its scenic views and deafening crowd noise.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Husky Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Husky_Stadium_-_March_19%2C_2016.jpg/330px-Husky_Stadium_-_March_19%2C_2016.jpg",
+      "points": 10
+    },
+    {
+      "id": 37,
+      "facts": "Located in Iowa City, this stadium is famous for the tradition where fans wave to the nearby children's hospital after the first quarter.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Kinnick Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kinnick_Night.jpg/330px-Kinnick_Night.jpg",
+      "points": 10
+    },
+    {
+      "id": 38,
+      "facts": "This Tampa stadium features a 103-foot replica pirate ship that fires cannons when the home team scores.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Raymond James Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Raymond_James_Stadium_Aerial.jpg/330px-Raymond_James_Stadium_Aerial.jpg",
+      "points": 10
+    },
+    {
+      "id": 39,
+      "facts": "Situated in Nashville, this venue hosts the Titans and is located just across the river from the city's famous Broadway Street.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Nissan Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Nissan_Stadium_2024_%28cropped%29.jpg/330px-Nissan_Stadium_2024_%28cropped%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 40,
+      "facts": "Known for its deafening noise levels, this Seattle stadium was formerly called CenturyLink Field and is shared by the Seahawks and Sounders.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Lumen Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Qwest_Field_North.jpg/330px-Qwest_Field_North.jpg",
+      "points": 10
+    },
+    {
+      "id": 41,
+      "facts": "Located in Santa Clara, this high-tech stadium hosts the 49ers and has solar panels and a green roof to support sustainability.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Levi's Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/160201-H-NI589-1353_%2824398261729%29.jpg/330px-160201-H-NI589-1353_%2824398261729%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 42,
+      "facts": "Located in Pittsburgh, this stadium sits at the confluence of three rivers and serves as the home of the Steelers and the University of Pittsburgh Panthers.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Acrisure Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Ptr-HeinzField-FILE.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 44,
+      "facts": "This Philadelphia stadium is known for its passionate Eagles fanbase and hosted the NFC Championship Game multiple times.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Lincoln Financial Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lincoln_Financial_Field_%28Aerial_view%29.jpg/330px-Lincoln_Financial_Field_%28Aerial_view%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 45,
+      "facts": "Previously known as FirstEnergy Stadium, this venue is home to the Cleveland Browns and sits right on the shores of Lake Erie.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Huntington Bank Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2021_NFL_Draft_Cleveland_%2851105297664%29.jpg/330px-2021_NFL_Draft_Cleveland_%2851105297664%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 46,
+      "facts": "Located in St. Louis, this domed stadium once hosted NFL games and continues to be a venue for major concerts and XFL events.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "The Dome at America's Center",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Edward_Jones_Dome_KM.jpg/330px-Edward_Jones_Dome_KM.jpg",
+      "points": 10
+    },
+    {
+      "id": 47,
+      "facts": "With a translucent roof and stunning angular architecture, this Minneapolis stadium is home to the Vikings and is known for its noise levels.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "US Bank Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/U.S._Bank_Stadium_2021-09-23.jpg/330px-U.S._Bank_Stadium_2021-09-23.jpg",
+      "points": 10
+    },
+    {
+      "id": 48,
+      "facts": "This Blacksburg stadium is home to the Virginia Tech Hokies and is known for the electrifying 'Enter Sandman' entrance tradition.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Lane Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LaneStadiumSouthStand.jpg/330px-LaneStadiumSouthStand.jpg",
+      "points": 10
+    },
+    {
+      "id": 49,
+      "facts": "Home to the Cincinnati Bengals, this Ohio stadium has a striking riverfront location and a unique open-air design.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Paycor Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Paul_Brown_Stadium_interior_2017.jpg",
+      "points": 10
+    },
+    {
+      "id": 50,
+      "facts": "Located in Detroit, this indoor stadium features a glass-roofed atrium and serves as home to the Lions and host of annual college bowl games.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Ford Field",
+      "imageUrl": "https://commons.wikimedia.org/wiki/File:Ford-Field-September-10-2006.jpg",
+      "points": 10
+    },
+    {
+      "id": 51,
+      "facts": "Opened in 2020 in Las Vegas, this sleek, black domed stadium is home to the Raiders and UNLV Rebels.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Allegiant Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Allegiant_Stadium_%28cropped%29.jpg/330px-Allegiant_Stadium_%28cropped%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 52,
+      "facts": "Located in Miami Gardens, this stadium has hosted multiple Super Bowls and serves as the home field for both the Dolphins and Miami Hurricanes.",
+      "question": "Can you name this stadium?",
+      "correctAnswer": "Hard Rock Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Cleveland_Browns_17-39_Miami_Dolphins_%28Nov_13%2C_2022%29_-_Hard_Rock_Stadium_-_file_21.jpg",
+      "points": 10
+    },
+    {
+      "id": 53,
+      "facts": "This stadium is located in Foxborough, Massachusetts and is home to the New England Patriots and New England Revolution.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Gillette Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Gillette_Stadium_%28Top_View%29.jpg/330px-Gillette_Stadium_%28Top_View%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 54,
+      "facts": "This stadium is located in Oxford, Mississippi, and is home to the Ole Miss Rebels.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Vaught–Hemingway Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Vaught-Hemingway_Stadium.jpg/330px-Vaught-Hemingway_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 55,
+      "facts": "This stadium is located in San Antonio, Texas, and hosts the San Antonio Commanders of the AAF and the annual Alamo Bowl.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Alamodome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gfp-texas-san-antonio-large-complex_%281%29.jpg/330px-Gfp-texas-san-antonio-large-complex_%281%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 56,
+      "facts": "Located in Provo, Utah, this stadium is home to the BYU Cougars and features a beautiful backdrop of the Wasatch Mountains.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "LaVell Edwards Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BYU_Football.jpg/330px-BYU_Football.jpg",
+      "points": 10
+    },
+    {
+      "id": 57,
+      "facts": "This stadium, located in Glendale, Arizona, hosts the Arizona Cardinals and is known for its retractable roof.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "State Farm Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/State_Farm_Stadium_2022.jpg/330px-State_Farm_Stadium_2022.jpg",
+      "points": 10
+    },
+    {
+      "id": 58,
+      "facts": "This stadium is located in Berkeley, California, and serves as the home of the California Golden Bears.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "California Memorial Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/California_Memorial_Stadium_aerial.jpg",
+      "points": 10
+    },
+    {
+      "id": 59,
+      "facts": "This stadium, located in Indianapolis, Indiana, is home to the Indianapolis Colts and hosts the Big Ten Championship game.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Lucas Oil Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Aerial_view_of_Indianapolis%2C_Indiana%2C_with_a_focus_on_Lucas_Oil_Stadium%2C_highsm.40934.jpg/330px-Aerial_view_of_Indianapolis%2C_Indiana%2C_with_a_focus_on_Lucas_Oil_Stadium%2C_highsm.40934.jpg",
+      "points": 10
+    },
+    {
+      "id": 60,
+      "facts": "Located in Fayetteville, Arkansas, this stadium is the home of the Arkansas Razorbacks and has a seating capacity of over 76,000.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Northwest Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Commanders_vs_Giants_%2853345178211%29.jpg/330px-Commanders_vs_Giants_%2853345178211%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 61,
+      "facts": "This stadium is located in Columbia, Missouri, and is home to the Missouri Tigers.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Faurot Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Faurot_Field_Aerial.jpg/330px-Faurot_Field_Aerial.jpg",
+      "points": 10
+    },
+    {
+      "id": 62,
+      "facts": "Located in Chicago, Illinois, this iconic stadium is the home of the Chicago Bears and has hosted many historic NFL games.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Soldier Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Soldier_Field%2C_Chicago%2C_Illinois.jpg",
+      "points": 10
+    },
+    {
+      "id": 63,
+      "facts": "This stadium, located in Charlottesville, Virginia, is the home of the Virginia Cavaliers football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Scott Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Scott_Stadium_UVa.jpg/330px-Scott_Stadium_UVa.jpg",
+      "points": 10
+    },
+    {
+      "id": 64,
+      "facts": "This stadium, located in Ames, Iowa, is home to the Iowa State Cyclones and hosts a variety of events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Jack Trice Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/American_football_at_jack_trice_stadium.jpeg/330px-American_football_at_jack_trice_stadium.jpeg",
+      "points": 10
+    },
+    {
+      "id": 65,
+      "facts": "Located in New Haven, Connecticut, this historic stadium is home to the Yale Bulldogs football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Yale Bowl",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Yale_Bowl_aerial_view_2023_%28Quintin_Soloviev%29.jpg/330px-Yale_Bowl_aerial_view_2023_%28Quintin_Soloviev%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 66,
+      "facts": "This stadium is located in West Lafayette, Indiana, and serves as the home of the Purdue Boilermakers.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Ross–Ade Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Ross-Ade_Stadium.jpg/330px-Ross-Ade_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 67,
+      "facts": "Located in Starkville, Mississippi, this stadium is the home of the Mississippi State Bulldogs.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Davis Wade Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/DavisWadeStadiumExpansion.jpg/330px-DavisWadeStadiumExpansion.jpg",
+      "points": 10
+    },
+    {
+      "id": 68,
+      "facts": "This stadium, located in Lexington, Kentucky, is home to the Kentucky Wildcats football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Kroger Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Commonwealth_Stadium_of_Kentucky_-_Kentucky_Wildcats_v.s._Georgia_Bulldogs_-_SEC_football%2C_October_2012_%282012-10-20_by_Navin75%29.jpg/330px-Commonwealth_Stadium_of_Kentucky_-_Kentucky_Wildcats_v.s._Georgia_Bulldogs_-_SEC_football%2C_October_2012_%282012-10-20_by_Navin75%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 69,
+      "facts": "Located in Louisville, Kentucky, this stadium is home to the Louisville Cardinals football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Cardinal Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Papa_John%27s_Cardinal_Stadium_after_expansion_in_2010.jpeg/330px-Papa_John%27s_Cardinal_Stadium_after_expansion_in_2010.jpeg",
+      "points": 10
+    },
+    
+    {
+      "id": 71,
+      "facts": "This stadium, located in Jackson, Mississippi, is home to the Jackson State University Tigers and hosts various events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Mississippi Veterans Memorial Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mississippi_Veterans_Memorial_Stadium.jpg/330px-Mississippi_Veterans_Memorial_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 72,
+      "facts": "Located in Lubbock, Texas, this stadium is the home of the Texas Tech Red Raiders football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Jones AT&T Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Aerial_Drone_Jones_Stadium.jpg/330px-Aerial_Drone_Jones_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 73,
+      "facts": "This stadium, located in Orlando, Florida, hosts both college football games and various other events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Camping World Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Citrus_Bowl_Orlando_City.jpg/330px-Citrus_Bowl_Orlando_City.jpg",
+      "points": 10
+    },
+    {
+      "id": 74,
+      "facts": "Located in Morgantown, West Virginia, this stadium is home to the West Virginia Mountaineers football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Mountaineer Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mountaineer_Field.png/330px-Mountaineer_Field.png",
+      "points": 10
+    },
+    {
+      "id": 75,
+      "facts": "Located in Raleigh, North Carolina, this stadium is home to the NC State Wolfpack football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Carter–Finley Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Carter-Finley_Stadium_1.jpg/330px-Carter-Finley_Stadium_1.jpg",
+      "points": 10
+    },
+    {
+      "id": 76,
+      "facts": "This historic stadium, located in Los Angeles, California, is home to the Los Angeles Dodgers baseball team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Dodger Stadium",
+      "imageUrl": "https://www.ballparksofbaseball.com/wp-content/uploads/2016/03/dodger16_top3.jpg",
+      "points": 10
+    },
+    {
+      "id": 77,
+      "facts": "Located in Stillwater, Oklahoma, this stadium is home to the Oklahoma State Cowboys football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Boone Pickens Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Boone_Pickens_Stadium_-_Night.jpg/330px-Boone_Pickens_Stadium_-_Night.jpg",
+      "points": 10
+    },
+    {
+      "id": 78,
+      "facts": "This stadium, located in Atlanta, Georgia, is home to the Georgia Tech Yellow Jackets football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Bobby Dodd Stadium at Historic Grant Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BDS2024.jpg/330px-BDS2024.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 80,
+      "facts": "This stadium, located in Eugene, Oregon, is home to the Oregon Ducks football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Autzen Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Autzen_Stadium_at_night.jpg/330px-Autzen_Stadium_at_night.jpg",
+      "points": 10
+    },
+    {
+      "id": 81,
+      "facts": "Located in Salt Lake City, Utah, this stadium is home to the Utah Utes football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Mountain America Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sun_Devil_Stadium_-_Pac12_Championship.jpg/330px-Sun_Devil_Stadium_-_Pac12_Championship.jpg",
+      "points": 10
+    },
+    {
+      "id": 82,
+      "facts": "This stadium, located in Philadelphia, Pennsylvania, is home to the University of Pennsylvania Quakers football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Franklin Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Franklin_Field_aerial.jpg/330px-Franklin_Field_aerial.jpg",
+      "points": 10
+    },
+    {
+      "id": 83,
+      "facts": "Located in Piscataway, New Jersey, this stadium is home to the Rutgers Scarlet Knights football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "SHI Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Rutgers_Stadium%2C_Piscataway%2C_New_Jersey%2C_USA_-_panoramio_-_Gary_Miotla.jpg/330px-Rutgers_Stadium%2C_Piscataway%2C_New_Jersey%2C_USA_-_panoramio_-_Gary_Miotla.jpg",
+      "points": 10
+    },
+    {
+      "id": 84,
+      "facts": "This stadium, located in Landover, Maryland, is home to the Maryland Terrapins football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "SECU Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Pano_of_Maryland_Stadium.jpg/330px-Pano_of_Maryland_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 85,
+      "facts": "This stadium, located in El Paso, Texas, is home to the UTEP Miners football team and hosts the Sun Bowl.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Sun Bowl Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/UTEP_Sun_Bowl_Stadium_Aerial_View_Sept_6_2009.jpg/330px-UTEP_Sun_Bowl_Stadium_Aerial_View_Sept_6_2009.jpg",
+      "points": 10
+    },
+    {
+      "id": 86,
+      "facts": "Located in Salt Lake City, Utah, this stadium is home to the Utah Utes football team and is known for its stunning mountain views.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Rice-Eccles Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/RSL_at_Rice-Eccles.jpg",
+      "points": 10
+    },
+    {
+      "id": 87,
+      "facts": "This stadium, located in Greenville, North Carolina, is home to the East Carolina Pirates football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Dowdy–Ficklen Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Dowdy-Ficklen_Stadium%2C_Towne-Bank_Tower.jpg/330px-Dowdy-Ficklen_Stadium%2C_Towne-Bank_Tower.jpg",
+      "points": 10
+    },
+   
+    {
+      "id": 89,
+      "facts": "This stadium, located in Minneapolis, Minnesota, is home to the Minnesota Golden Gophers football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Huntington Bank Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Huntington_Bank_Stadium_Logo%2C_2021.jpg/330px-Huntington_Bank_Stadium_Logo%2C_2021.jpg",
+      "points": 10
+    },
+    {
+      "id": 90,
+      "facts": "Located in Tucson, Arizona, this stadium is home to the Arizona Wildcats football team and has hosted numerous bowl games.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Arizona Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Arizona_Stadium_Fisheye.jpg/330px-Arizona_Stadium_Fisheye.jpg",
+      "points": 10
+    },
+    {
+      "id": 91,
+      "facts": "This stadium, located in Chapel Hill, North Carolina, is home to the North Carolina Tar Heels football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Kenan Memorial Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kenan_Memorial_Stadium.jpg/330px-Kenan_Memorial_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 92,
+      "facts": "Located in Stanford, California, this stadium is home to the Stanford Cardinal football team and features a unique open-air design.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Stanford Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Stanford_Stadium_new.jpg/330px-Stanford_Stadium_new.jpg",
+      "points": 10
+    },
+    {
+      "id": 93,
+      "facts": "This stadium, located in Boulder, Colorado, is home to the Colorado Buffaloes football team and is known for its picturesque setting in the Rocky Mountains.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Folsom Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Folsom_Field_vs._Utah_2016.jpg/330px-Folsom_Field_vs._Utah_2016.jpg",
+      "points": 10
+    },
+    {
+      "id": 94,
+      "facts": "Located in Memphis, Tennessee, this stadium is home to the Memphis Tigers football team and hosts the Liberty Bowl.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Simmons Bank Liberty Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Uom_stadium.JPG",
+      "points": 10
+    },
+    {
+      "id": 95,
+      "facts": "This stadium, located in Manhattan, Kansas, is home to the Kansas State Wildcats football team and is named after a former coach.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Bill Snyder Family Football Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Kansas_State_vs_Stephen_F._Austin.jpg/330px-Kansas_State_vs_Stephen_F._Austin.jpg",
+      "points": 10
+    },
+    {
+      "id": 96,
+      "facts": "Located in Honolulu, Hawaii, this stadium is known for its beautiful tropical surroundings and is home to the Hawaii Rainbow Warriors.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Aloha Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Aloha_Stadium_abandoned_2024.jpg",
+      "points": 10
+    },
+    {
+      "id": 97,
+      "facts": "Located in Syracuse, New York, this dome is home to the Syracuse Orange football and basketball teams.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "JMA Wireless Dome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Carrier_Dome_-_New_Roof_2021_%28Jimhoward03%29.jpg/330px-Carrier_Dome_-_New_Roof_2021_%28Jimhoward03%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 98,
+      "facts": "This stadium, located in Phoenix, Arizona, is home to the Arizona Diamondbacks baseball team and hosts various events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Chase Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Reserve_A-10_Warthogs_Flyover_2023_World_Series_%288099146%29.jpg/330px-Reserve_A-10_Warthogs_Flyover_2023_World_Series_%288099146%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 99,
+      "facts": "Located in Arlington, Texas, this stadium is home to the Texas Rangers baseball team and is also used for other sporting events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Choctaw Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Richard_Greene_Linear_Park_June_2020_13_%28Globe_Life_Park_in_Arlington%29.jpg/330px-Richard_Greene_Linear_Park_June_2020_13_%28Globe_Life_Park_in_Arlington%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 100,
+      "facts": "This stadium, located in Seattle, Washington, is home to the Seattle Mariners baseball team and hosts numerous concerts and events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "T-Mobile Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SafecoFieldTop.jpg/330px-SafecoFieldTop.jpg",
+      "points": 10
+    },
+    {
+      "id": 101,
+      "facts": "Located in Lawrence, Kansas, this stadium is home to the Kansas Jayhawks football team and is named after a major donor.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "David Booth Kansas Memorial Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/David_Booth_Kansas_Memorial_Stadium_aerial_view_2023_-_Quintin_Soloviev.jpg/330px-David_Booth_Kansas_Memorial_Stadium_aerial_view_2023_-_Quintin_Soloviev.jpg",
+      "points": 10
+    },
+   
+    {
+      "id": 103,
+      "facts": "Located in Birmingham, Alabama, this stadium is home to the UAB Blazers football team and hosts the annual Magic City Classic.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Protective Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Protective_Stadium.jpg/330px-Protective_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 104,
+      "facts": "This stadium, located in Fort Worth, Texas, is home to the TCU Horned Frogs football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Amon G. Carter Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Southern_Methodist_vs._Texas_Christian_football_2019_01_%28opening_kickoff%29.jpg/330px-Southern_Methodist_vs._Texas_Christian_football_2019_01_%28opening_kickoff%29.jpg",
+      "points": 10
+    },
+   
+    {
+      "id": 106,
+      "facts": "This stadium, located in Denver, Colorado, is home to the Colorado Rockies baseball team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Coors Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Coors_field_1.JPG",
+      "points": 10
+    },
+    {
+      "id": 107,
+      "facts": "This stadium, located in Oakland, California, has been home to both the Oakland Athletics baseball team and the Oakland Raiders football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Oakland Coliseum",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Oakland_Coliseum_from_above_2024.png/330px-Oakland_Coliseum_from_above_2024.png",
+      "points": 10
+    },
+    {
+      "id": 108,
+      "facts": "Located in Colorado Springs, Colorado, this stadium is home to the Air Force Falcons football team and is part of the United States Air Force Academy.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Falcon Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Air_Force_Academy_Falcon_Stadium_by_David_Shankbone.jpg/330px-Air_Force_Academy_Falcon_Stadium_by_David_Shankbone.jpg",
+      "points": 10
+    },
+    {
+      "id": 109,
+      "facts": "This iconic stadium, located in the Bronx, New York, is home to the New York Yankees baseball team and is one of the most famous ballparks in the world.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Yankee Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Yankee_Stadium_overhead_2010.jpg/330px-Yankee_Stadium_overhead_2010.jpg",
+      "points": 10
+    },
+    {
+      "id": 110,
+      "facts": "This stadium, located in Anaheim, California, is home to the Los Angeles Angels baseball team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Angel Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Angelstadiummarch2019.jpg/330px-Angelstadiummarch2019.jpg",
+      "points": 10
+    },
+    {
+      "id": 111,
+      "facts": "Located in Orlando, Florida, this stadium is home to the UCF Knights football team and hosts various other events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "FBC Mortgage Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Spectrumstadiumfromair2020.jpg/330px-Spectrumstadiumfromair2020.jpg",
+      "points": 10
+    },
+    {
+      "id": 112,
+      "facts": "This stadium, located in Waco, Texas, is home to the Baylor Bears football team and features a picturesque setting along the Brazos River.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "McLane Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Baylor_University_June_2016_67_%28McLane_Stadium%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 113,
+      "facts": "Located in Baltimore, Maryland, this stadium is home to the Baltimore Orioles baseball team and is one of the most popular ballparks in Major League Baseball.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Oriole Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Baltimore_Oriole_Stadium_1938_1b.JPG/330px-Baltimore_Oriole_Stadium_1938_1b.JPG",
+      "points": 10
+    },
+    {
+      "id": 114,
+      "facts": "This stadium, located in Chestnut Hill, Massachusetts, is home to the Boston College Eagles football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Alumni Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Alumni_Stadium_Boston_College_2023_%28Quintin_Soloviev%29.png/330px-Alumni_Stadium_Boston_College_2023_%28Quintin_Soloviev%29.png",
+      "points": 10
+    },
+    {
+      "id": 115,
+      "facts": "Located in St. Louis, Missouri, this stadium is home to the St. Louis Cardinals baseball team and is known for its view of the Gateway Arch.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Busch Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Busch_Stadium_2022.jpg",
+      "points": 10
+    },
+    {
+      "id": 116,
+      "facts": "This stadium, located in Cincinnati, Ohio, is home to the Cincinnati Reds baseball team and features a beautiful riverfront setting.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Great American Ball Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/10Cincinnati_2015_%282%29.jpg/330px-10Cincinnati_2015_%282%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 117,
+      "facts": "Located in Philadelphia, Pennsylvania, this stadium is home to the Philadelphia Phillies baseball team and features a fan-friendly atmosphere.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Citizens Bank Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Citizens_Bank_Park_satellite_view.png",
+      "points": 10
+    },
+    {
+      "id": 118,
+      "facts": "This stadium, located in St. Petersburg, Florida, is home to the Tampa Bay Rays baseball team and features a unique domed design.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Tropicana Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Tropicana_field_from_air.JPG",
+      "points": 10
+    },
+    {
+      "id": 119,
+      "facts": "This stadium, located in Queens, New York, is home to the New York Mets baseball team and features a modern design with a tribute to the team's history.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Citi Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Citi_Field_Night_Game.jpg",
+      "points": 10
+    },
+    {
+      "id": 120,
+      "facts": "Located in San Francisco, California, this stadium is home to the San Francisco Giants baseball team and is known for its stunning views of the bay.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Oracle Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Oracle_Park_2021.jpg/330px-Oracle_Park_2021.jpg",
+      "points": 10
+    },
+    {
+      "id": 121,
+      "facts": "This stadium, located in Milwaukee, Wisconsin, is home to the Milwaukee Brewers baseball team and features a retractable roof.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "American Family Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/MillerParkJuly2018.jpg/330px-MillerParkJuly2018.jpg",
+      "points": 10
+    },
+    {
+      "id": 122,
+      "facts": "Located in Chicago, Illinois, this iconic stadium is home to the Chicago Cubs baseball team and is one of the oldest ballparks in Major League Baseball.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Wrigley Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wrigley_Field_in_line_with_sign.jpg/330px-Wrigley_Field_in_line_with_sign.jpg",
+      "points": 10
+    },
+    {
+      "id": 123,
+      "facts": "This stadium, located in Washington, D.C., is home to the Washington Nationals baseball team and features modern amenities with a great view of the U.S. Capitol.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Nationals Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Aerial_view_of_Nationals_Park.jpg",
+      "points": 10
+    },
+    {
+      "id": 124,
+      "facts": "Located in Lafayette, Louisiana, this stadium is home to the Louisiana Ragin' Cajuns football team and is known for its passionate fan base.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Cajun Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cajun_field.jpg/330px-Cajun_field.jpg",
+      "points": 10
+    },
+    {
+      "id": 125,
+      "facts": "This stadium, located in Houston, Texas, is home to the Houston Astros baseball team and is known for its retractable roof and unique features.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Minute Maid Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Minute_Maid_Park_-_Houston%2C_Texas_-_DSC01317.JPG",
+      "points": 10
+    },
+    {
+      "id": 126,
+      "facts": "Located in Cumberland, Georgia, this stadium is home to the Atlanta Braves baseball team and is known for its family-friendly environment.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Truist Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Truist_Park.jpg",
+      "points": 10
+    },
+    {
+      "id": 127,
+      "facts": "This stadium, located in Detroit, Michigan, is home to the Detroit Tigers baseball team and features a nostalgic design with modern elements.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Comerica Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Comerica_field_view.jpg",
+      "points": 10
+    },
+    {
+      "id": 128,
+      "facts": "Located in Fresno, California, this stadium is home to the Fresno State Bulldogs football team and is known for its energetic game-day atmosphere.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Valley Children's Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Fresno_State_Jim_Sweeny_Field_%28_Bulldog_Stadium%29.jpg/330px-Fresno_State_Jim_Sweeny_Field_%28_Bulldog_Stadium%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 129,
+      "facts": "This stadium, located in Indianapolis, Indiana, is home to the Indianapolis Indians baseball team and has a classic design.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Rate Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Chicago%2C_Illinois%2C_U.S._%282023%29_-_062.jpg/330px-Chicago%2C_Illinois%2C_U.S._%282023%29_-_062.jpg",
+      "points": 10
+    },
+    {
+      "id": 130,
+      "facts": "Located in Nashville, Tennessee, this stadium is home to the Vanderbilt Commodores football team and is known for its scenic views of the surrounding area.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "FirstBank Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Vanderbilt_Stadium_vs._Tennessee_11.26.16.jpg",
+      "points": 10
+    },
+    {
+      "id": 131,
+      "facts": "This stadium, located in Arlington, Texas, is home to the Texas Rangers baseball team and features a retractable roof.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Globe Life Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Globelifefield_june2020.jpg/330px-Globelifefield_june2020.jpg",
+      "points": 10
+    },
+    {
+      "id": 132,
+      "facts": "Located in Mobile, Alabama, this stadium is known for hosting various football games, including college football and high school games.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Ladd-Peebles Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ladd-Peebles_Stadium_July_2017_01.jpg/330px-Ladd-Peebles_Stadium_July_2017_01.jpg",
+      "points": 10
+    },
+    {
+      "id": 133,
+      "facts": "Located in Houston, Texas, this stadium is home to the University of Houston Cougars football team and is known for its energetic atmosphere.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "TDECU Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Houston_Downtown%28TDECU_Stadium%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 134,
+      "facts": "Located in San Diego, California, this stadium is home to the San Diego Padres baseball team and is celebrated for its downtown views.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Petco Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/PetcoBallParkByPhilKonstantin.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 136,
+      "facts": "Located in Pittsburgh, Pennsylvania, this stadium is home to the Pittsburgh Pirates baseball team and offers stunning views of the Pittsburgh skyline.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "PNC Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Pittsburgh_Pirates_park_%28Unsplash%29.jpg/330px-Pittsburgh_Pirates_park_%28Unsplash%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 137,
+      "facts": "This stadium, located in Minneapolis, Minnesota, is home to the Minnesota Twins baseball team and is known for its modern features and open-air design.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Target Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Target_field_logo.svg/320px-Target_field_logo.svg.png",
+      "points": 10
+    },
+    {
+      "id": 138,
+      "facts": "Located in Cincinnati, Ohio, this stadium is home to the University of Cincinnati Bearcats football team and features a great atmosphere for college football.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Nippert Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nippert_Stadium%2C_September_2015.JPG/330px-Nippert_Stadium%2C_September_2015.JPG",
+      "points": 10
+    },
+    {
+      "id": 139,
+      "facts": "This stadium, located in East Hartford, Connecticut, is home to the UConn Huskies football team and has hosted numerous events, including soccer games and concerts.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Pratt & Whitney Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Pratt_%26_Whitney_Stadium_in_2025.jpg/330px-Pratt_%26_Whitney_Stadium_in_2025.jpg",
+      "points": 10
+    },
+    {
+      "id": 140,
+      "facts": "Located in West Point, New York, this stadium is home to the United States Military Academy's football team and is known for its historic setting.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Michie Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Michie_Stadium_West.jpg/330px-Michie_Stadium_West.jpg",
+      "points": 10
+    },
+    {
+      "id": 141,
+      "facts": "Located in Kansas City, Missouri, this stadium is home to the Kansas City Royals baseball team and is known for its iconic fountains.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Kauffman Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kauffman2017.jpg/330px-Kauffman2017.jpg",
+      "points": 10
+    },
+    {
+      "id": 142,
+      "facts": "This historic stadium in Boston, Massachusetts, is home to the Boston Red Sox baseball team and is one of the oldest baseball stadiums in the U.S.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Fenway Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Fenway_Park_20-April-2021.jpg",
+      "points": 10
+    },
+    {
+      "id": 143,
+      "facts": "Located in Paradise, Nevada, this stadium is home to UNLV Rebels football team and has hosted major sporting events, including soccer and football.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Sam Boyd Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Sam_Boyd_Stadium_from_the_air_July_2014.jpg/330px-Sam_Boyd_Stadium_from_the_air_July_2014.jpg",
+      "points": 10
+    },
+    {
+      "id": 144,
+      "facts": "This stadium in Miami, Florida, is home to the Miami Marlins baseball team and features a retractable roof to handle the region's weather.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "LoanDepot Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Marlins_Park_north_side.jpg",
+      "points": 10
+    },
+    {
+      "id": 145,
+      "facts": "Located in Fort Collins, Colorado, this stadium is home to the Colorado State Rams football team and is known for its unique mountain views.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Canvas Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Canvas_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 146,
+      "facts": "This stadium in Boise, Idaho, is home to the Boise State Broncos football team and is famous for its blue turf.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Albertsons Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BSUvsFresnoSt.jpg/330px-BSUvsFresnoSt.jpg",
+      "points": 10
+    },
+    {
+      "id": 147,
+      "facts": "Located in Hattiesburg, Mississippi, this stadium is home to the Southern Miss Golden Eagles football team and has hosted numerous football games.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "MM Roberts Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Therock.jpg/330px-Therock.jpg",
+      "points": 10
+    },
+    {
+      "id": 148,
+      "facts": "This stadium is located in Corvallis, Oregon, and is home to the Oregon State Beavers football team, known for its unique and cozy atmosphere.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Reser Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Reser_Stadium_viewed_from_the_South_Endzone%2C_September_16%2C_2023.jpg/330px-Reser_Stadium_viewed_from_the_South_Endzone%2C_September_16%2C_2023.jpg",
+      "points": 10
+    },
+    {
+      "id": 149,
+      "facts": "Located in Durham, North Carolina, this stadium is home to the Duke Blue Devils football team and has hosted many college football games.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Wallace Wade Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wallace_Wade_Stadium_2018_panoramic.jpg/330px-Wallace_Wade_Stadium_2018_panoramic.jpg",
+      "points": 10
+    },
+    {
+      "id": 150,
+      "facts": "This stadium is located in San Diego, California, and is home to the San Diego State Aztecs football team. It opened in 2022 and is known for its modern features.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Snapdragon Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Snapdragon_Stadium_interior-Night_panorama_view_1.jpg/330px-Snapdragon_Stadium_interior-Night_panorama_view_1.jpg",
+      "points": 10
+    },
+    {
+      "id": 151,
+      "facts": "This stadium is located in Cleveland, Ohio, and is home to the Cleveland Indians (now Cleveland Guardians) baseball team. It is known for its intimate setting and passionate fans.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Progressive Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Progressive_Field.jpg",
+      "points": 10
+    },
+    {
+      "id": 152,
+      "facts": "Located in Annapolis, Maryland, this stadium serves as the home of the U.S. Naval Academy football team and is a prominent site for college football.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Navy–Marine Corps Memorial Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2005_Stanford-Navy_Game_at_Navy-Marine_Corps_Memorial_Stadium.jpg/330px-2005_Stanford-Navy_Game_at_Navy-Marine_Corps_Memorial_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 153,
+      "facts": "This stadium is located in Pullman, Washington, and serves as the home of the Washington State Cougars football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Martin Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Martin_Stadium_Aerial%2C_Pullman_WA%2C_March_2024.jpg/330px-Martin_Stadium_Aerial%2C_Pullman_WA%2C_March_2024.jpg",
+      "points": 10
+    },
+    {
+      "id": 154,
+      "facts": "Located in University Park, Texas, this stadium is home to the Southern Methodist University Mustangs football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Gerald J. Ford Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gerald_J_Ford_Stadium.jpg/330px-Gerald_J_Ford_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 155,
+      "facts": "This stadium is located in Winston-Salem, North Carolina, and is the home of the Wake Forest Demon Deacons football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Allegacy Federal Credit Union Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/BBT_Field_Deacon_Tower_Wake_Forest_University_football_stadium.jpg/330px-BBT_Field_Deacon_Tower_Wake_Forest_University_football_stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 156,
+      "facts": "Located in Denton, Texas, this stadium is home to the North Texas Mean Green football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "DATCU Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Southern_Methodist_vs._North_Texas_football_2018_03_%28Green_Brigade_Marching_Band%29.jpg/330px-Southern_Methodist_vs._North_Texas_football_2018_03_%28Green_Brigade_Marching_Band%29.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 158,
+      "facts": "Located in Huntington, West Virginia, this stadium is the home of the Marshall Thundering Herd football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Joan C. Edwards Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Panoramic_of_Joan_C._Edwards_Stadium.JPG/330px-Panoramic_of_Joan_C._Edwards_Stadium.JPG",
+      "points": 10
+    },
+   
+    {
+      "id": 160,
+      "facts": "Located in Jonesboro, Arkansas, this stadium is home to the Arkansas State Red Wolves football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Centennial Bank Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Centennial_Bank_Stadium.jpg/330px-Centennial_Bank_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 161,
+      "facts": "This historic stadium is located in Boston, Massachusetts, and serves as the home of the Harvard Crimson football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Harvard Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Harvard_Stadium_from_above_2023_%28Quintin_Soloviev%29.png/330px-Harvard_Stadium_from_above_2023_%28Quintin_Soloviev%29.png",
+      "points": 10
+    },
+    {
+      "id": 162,
+      "facts": "Located in Mount Pleasant, Michigan, this stadium is home to the Central Michigan Chippewas football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Kelly/Shorts Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Kelly_Shorts_Stadium.jpg/330px-Kelly_Shorts_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 163,
+      "facts": "Located in Kalamazoo, Michigan, this stadium is home to the Western Michigan Broncos football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Waldo Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Waldo_Stadium%2C_October_8%2C_2016.jpg/330px-Waldo_Stadium%2C_October_8%2C_2016.jpg",
+      "points": 10
+    },
+    {
+      "id": 164,
+      "facts": "This stadium is located in Ypsilanti, Michigan, and serves as the home of the Eastern Michigan Eagles football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Rynearson Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/WaltDrone4_081524.jpg/330px-WaltDrone4_081524.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 166,
+      "facts": "This stadium, located in Austin, Texas, serves as the home of the University of Texas Longhorns football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "UFCU Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Texas_State_Bobcat_Stadium_Main_Facade.JPG/330px-Texas_State_Bobcat_Stadium_Main_Facade.JPG",
+      "points": 10
+    },
+   
+    {
+      "id": 168,
+      "facts": "Located in Boone, North Carolina, this stadium is home to the Appalachian State Mountaineers football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Kidd Brewer Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Kidd_Brewer_Stadium_2025.JPG/330px-Kidd_Brewer_Stadium_2025.JPG",
+      "points": 10
+    },
+    
+    {
+      "id": 170,
+      "facts": "Located in Akron, Ohio, this stadium serves as the home of the Akron Zips football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "InfoCision Stadium – Summa Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/UAkron_Summa_Field.jpg/330px-UAkron_Summa_Field.jpg",
+      "points": 10
+    },
+    {
+      "id": 171,
+      "facts": "This stadium, located in New Orleans, Louisiana, is the home of the Tulane Green Wave football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Benson Field at Yulman Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Benson_Field_at_Yulman_Stadium_%28New_Orleans%29.jpg/330px-Benson_Field_at_Yulman_Stadium_%28New_Orleans%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 172,
+      "facts": "This is a soccer-specific stadium located in Nashville, Tennessee, and is home to Nashville SC.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Geodis Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Nashville_SC_vs_Portland_Timbers_by_cornfield948_%2820220705094311%29.jpg/330px-Nashville_SC_vs_Portland_Timbers_by_cornfield948_%2820220705094311%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 173,
+      "facts": "Located in Boca Raton, Florida, this stadium is home to the Florida Atlantic University Owls football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "FAU Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FAUStadium_night.jpg/330px-FAUStadium_night.jpg",
+      "points": 10
+    },
+    {
+      "id": 174,
+      "facts": "Located in Las Cruces, New Mexico, this stadium is home to the New Mexico State Aggies football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Aggie Memorial Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Aggie_Memorial_Stadium_-_West_Side_Stands_%26_Press_Box_01.JPG/330px-Aggie_Memorial_Stadium_-_West_Side_Stands_%26_Press_Box_01.JPG",
+      "points": 10
+    },
+    {
+      "id": 175,
+      "facts": "This stadium, located in Ruston, Louisiana, is the home of the Louisiana Tech Bulldogs football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Joe Aillet Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Joe_Aillet_Stadium%2C_Davison_Athletics_Complex_-_Field.jpg",
+      "points": 10
+    },
+    {
+      "id": 176,
+      "facts": "Located in Princeton, New Jersey, this stadium is home to the Princeton Tigers football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Princeton Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Princeton_University_Stadium.jpg/330px-Princeton_University_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 177,
+      "facts": "This stadium is located in Monroe, Louisiana, and is the home of the Louisiana–Monroe Warhawks football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Malone Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Malone_Stadium%2C_Monroe%2C_LA_-_Home_Stands_exterior.jpg/330px-Malone_Stadium%2C_Monroe%2C_LA_-_Home_Stands_exterior.jpg",
+      "points": 10
+    },
+    {
+      "id": 178,
+      "facts": "Located in Reno, Nevada, this stadium is home to the Nevada Wolf Pack football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Mackay Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mackay_10oct2015.jpg/330px-Mackay_10oct2015.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 180,
+      "facts": "Located in New Orleans, Louisiana, this stadium is used for football, track and field, and soccer events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Tad Gormley Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tad_Gormley_Stadium_%28New_Orleans%2C_LA%29_-_Main_Entrance.jpg/330px-Tad_Gormley_Stadium_%28New_Orleans%2C_LA%29_-_Main_Entrance.jpg",
+      "points": 10
+    },
+    
+    
+    {
+      "id": 183,
+      "facts": "This soccer-specific stadium, located in Cincinnati, Ohio, is home to FC Cincinnati.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "TQL Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FC_Cincinnati_vs._D.C._United_at_TQL_Stadium_%2820210801140432%29.jpg/330px-FC_Cincinnati_vs._D.C._United_at_TQL_Stadium_%2820210801140432%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 184,
+      "facts": "Located in Baton Rouge, Louisiana, this stadium is used primarily for football and is home to the Southern Jaguars.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Ace W. Mumford Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ace_W._Mumford_Stadium_%28Baton_Rouge%2C_Louisiana%29.jpg/330px-Ace_W._Mumford_Stadium_%28Baton_Rouge%2C_Louisiana%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 185,
+      "facts": "This stadium, located in Rio de Janeiro, Brazil, serves as the home for the football team Fluminense FC.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Inter&Co Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Orlando_City_Stadium_%2804-21-18%29_1.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 187,
+      "facts": "Located in Kent, Ohio, this stadium is home to the Kent State Golden Flashes football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Dix Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Dix_Stadium_west.JPG/330px-Dix_Stadium_west.JPG",
+      "points": 10
+    },
+    {
+      "id": 188,
+      "facts": "This stadium is located in Portland, Oregon, and is home to the Portland Timbers soccer team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Providence Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Jeldwenfield2011.png",
+      "points": 10
+    },
+    {
+      "id": 189,
+      "facts": "Located in Missoula, Montana, this stadium is home to the Montana Grizzlies football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Washington–Grizzly Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Washington%E2%80%93Grizzly_Stadium_%28Quintin_Soloviev%29.jpg/330px-Washington%E2%80%93Grizzly_Stadium_%28Quintin_Soloviev%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 190,
+      "facts": "This stadium, located in Salt Lake City, Utah, serves as the home for the Utah State Aggies football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Maverik Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Merlin_Olsen_Field_at_Maverik_Stadium.jpg/330px-Merlin_Olsen_Field_at_Maverik_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 191,
+      "facts": "UB Stadium, located in Buffalo, New York, is the home stadium for the University at Buffalo Bulls football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "UB Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/UB_Stadium_from_above_in_December_2023_-_Quintin_Soloviev.png/330px-UB_Stadium_from_above_in_December_2023_-_Quintin_Soloviev.png",
+      "points": 10
+    },
+    {
+      "id": 192,
+      "facts": "Located in Montgomery, Alabama, this stadium is used for college football and is home to the Alabama State Hornets.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Cramton Bowl",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cramton_Bowl_Feb_2012_03.jpg/330px-Cramton_Bowl_Feb_2012_03.jpg",
+      "points": 10
+    },
+    {
+      "id": 193,
+      "facts": "This stadium, located in Statesboro, Georgia, is the home of the Georgia Southern Eagles football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Paulson Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Expanded_Paulson_Stadium.jpg/330px-Expanded_Paulson_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 194,
+      "facts": "Located in Lynchburg, Virginia, this stadium is home to the Liberty Flames football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Williams Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Williams_Stadium_Field.jpg/330px-Williams_Stadium_Field.jpg",
+      "points": 10
+    },
+    {
+      "id": 195,
+      "facts": "This stadium is primarily used for soccer and is located in Charlotte, North Carolina. It is the home stadium for Charlotte FC.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Sports Illustrated Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Red_Bull_Arena_Harrison_behind_goal.jpg/330px-Red_Bull_Arena_Harrison_behind_goal.jpg",
+      "points": 10
+    },
+    {
+      "id": 196,
+      "facts": "Located in Harrisonburg, Virginia, this stadium is home to the James Madison Dukes football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Bridgeforth Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/James_Madison_University_Football.jpg/330px-James_Madison_University_Football.jpg",
+      "points": 10
+    },
+    {
+      "id": 197,
+      "facts": "This stadium is located in Omaha, Nebraska, and serves as the home of the College World Series.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Charles Schwab Field Omaha",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/B1GBaseballChampionshipGame2019.jpg/330px-B1GBaseballChampionshipGame2019.jpg",
+      "points": 10
+    },
+    {
+      "id": 198,
+      "facts": "Located in Atlanta, Georgia, this stadium serves as the home of the Atlanta Falcons and Atlanta United FC.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Center Parc Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Georgia_State_Stadium_field.jpg/330px-Georgia_State_Stadium_field.jpg",
+      "points": 10
+    },
+    {
+      "id": 199,
+      "facts": "Located in Oxford, Ohio, this stadium is the home of the Miami RedHawks football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Fred C. Yager Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Yager_Stadium_%2823656930573%29.jpg/330px-Yager_Stadium_%2823656930573%29.jpg",
+      "points": 10
+    },
+    
+    
+    {
+      "id": 202,
+      "facts": "Located in DeKalb, Illinois, this stadium is the home of the Northern Illinois University Huskies football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Brigham Field at Huskie Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NIU_Huskie_Stadium_76881w.jpg/330px-NIU_Huskie_Stadium_76881w.jpg",
+      "points": 10
+    },
+    {
+      "id": 203,
+      "facts": "This stadium, located in Bowling Green, Ohio, is home to the Bowling Green Falcons football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Doyt L. Perry Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/BGSUStadium1.jpg/330px-BGSUStadium1.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 205,
+      "facts": "This famous stadium, located in Flushing, New York, is the site of the US Open tennis tournament.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Arthur Ashe Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Arthur_Ashe_Stadium_with_the_roof_closed_%2832938595438%29.jpg/330px-Arthur_Ashe_Stadium_with_the_roof_closed_%2832938595438%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 206,
+      "facts": "Located in Worcester, Massachusetts, this stadium is home to the Holy Cross Crusaders football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Fitton Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Fitton_Field%2C_Holy_Cross_football_stadium%2C_Worcester_MA_west_view.jpg/330px-Fitton_Field%2C_Holy_Cross_football_stadium%2C_Worcester_MA_west_view.jpg",
+      "points": 10
+    },
+    {
+      "id": 207,
+      "facts": "Located in Canton, Ohio, this stadium is the site of the Pro Football Hall of Fame Game.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Tom Benson Hall of Fame Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/USFL_Championship_midfield_panorama_2022.png/330px-USFL_Championship_midfield_panorama_2022.png",
+      "points": 10
+    },
+    
+    {
+      "id": 209,
+      "facts": "This stadium, located in Birmingham, Alabama, is home to the Birmingham Legion FC.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "AmFirst Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Burgess-Snow_Field_at_JSU_Stadium%2C_September_2015.JPG/330px-Burgess-Snow_Field_at_JSU_Stadium%2C_September_2015.JPG",
+      "points": 10
+    },
+    
+    {
+      "id": 212,
+      "facts": "Located in Atlanta, Georgia, this stadium is used for college football and professional soccer.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Energizer Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/City_Park%2C_Saint_Louis.jpg/330px-City_Park%2C_Saint_Louis.jpg",
+      "points": 10
+    },
+    {
+      "id": 213,
+      "facts": "This stadium is located in Los Angeles, California, and serves as the home for the Los Angeles Harbor College soccer team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Weingart Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WeingartStadium1.jpg/330px-WeingartStadium1.jpg",
+      "points": 10
+    },
+    {
+      "id": 214,
+      "facts": "Located in Houston, Texas, this stadium is home to the Houston Dash soccer team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Shell Energy Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Shell_Energy_Stadium_Geometric_Entrance.jpg/330px-Shell_Energy_Stadium_Geometric_Entrance.jpg",
+      "points": 10
+    },
+    {
+      "id": 215,
+      "facts": "Located in Indianapolis, Indiana, this stadium is named to honor those who served in World War I.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "World War I Memorial Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/World_War_I_Memorial_Stadium.jpg/330px-World_War_I_Memorial_Stadium.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 217,
+      "facts": "This stadium is located in Newark, Delaware, and is home to the University of Delaware Blue Hens football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Delaware Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Delaware_Stadium_in_2023.jpg/330px-Delaware_Stadium_in_2023.jpg",
+      "points": 10
+    },
+    {
+      "id": 218,
+      "facts": "This stadium is located in Orangeburg, South Carolina, and is home to the South Carolina State Bulldogs football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Oliver C. Dawson Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/OCD_1.jpg/330px-OCD_1.jpg",
+      "points": 10
+    },
+    {
+      "id": 219,
+      "facts": "Located in Los Angeles, California, this stadium is home to the LAFC soccer team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "BMO Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LAFC_East_Side_Stadium_interior.jpg/330px-LAFC_East_Side_Stadium_interior.jpg",
+      "points": 10
+    },
+    {
+      "id": 220,
+      "facts": "Located in Norfolk, Virginia, this stadium is home to the Old Dominion Monarchs football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Kornblau Field at S.B. Ballard Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Old_Dominion_Monarchs_versus_Louisiana_Ragin_Cajuns_football_game_at_SB_Ballard_Stadium_9-9-2023.jpeg/330px-Old_Dominion_Monarchs_versus_Louisiana_Ragin_Cajuns_football_game_at_SB_Ballard_Stadium_9-9-2023.jpeg",
+      "points": 10
+    },
+    {
+      "id": 221,
+      "facts": "This stadium is located in Normal, Illinois, and is home to the Illinois State Redbirds football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "CEFCU Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/CEFCU_Spartan_Stadium_aerial.jpg/330px-CEFCU_Spartan_Stadium_aerial.jpg",
+      "points": 10
+    },
+    {
+      "id": 222,
+      "facts": "Located in Ithaca, New York, this stadium is the home of the Cornell Big Red football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Schoellkopf Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Schoellkopfcrecent.jpg/330px-Schoellkopfcrecent.jpg",
+      "points": 10
+    },
+    {
+      "id": 223,
+      "facts": "This stadium is located in Baton Rouge, Louisiana, and serves as a multi-purpose facility for sports events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "BREC Memorial Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BREC_Memorial_Stadium_-_Baton_Rouge%2C_LA.jpg/330px-BREC_Memorial_Stadium_-_Baton_Rouge%2C_LA.jpg",
+      "points": 10
+    },
+    
+    
+    {
+      "id": 227,
+      "facts": "This stadium is located in Conway, South Carolina, and is the home of the Coastal Carolina Chanticleers football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Brooks Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CoastalBrooksStad1.jpg/330px-CoastalBrooksStad1.jpg",
+      "points": 10
+    },
+    {
+      "id": 228,
+      "facts": "This stadium, located in New York City, is home to the New York Mets baseball team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Chase Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/DRV_PNK_Stadium_photo_pointing_straight.jpg/330px-DRV_PNK_Stadium_photo_pointing_straight.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 230,
+      "facts": "This stadium is located in Austin, Texas, and is home to Austin FC, a Major League Soccer team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Q2 Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Austin_FC_VS_FC_Dallas_by_cornfield948_%2820210830150614%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 231,
+      "facts": "Located in Youngstown, Ohio, this stadium is home to the Youngstown State Penguins football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Stambaugh Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Stambaugh_Stadium_looking_Northeast.jpg/330px-Stambaugh_Stadium_looking_Northeast.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 233,
+      "facts": "Located in Chattanooga, Tennessee, this stadium is home to the University of Tennessee at Chattanooga Mocs football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Finley Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/FinleyStadium.jpg/330px-FinleyStadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 234,
+      "facts": "This stadium, located in Columbus, Ohio, is home to Columbus Crew SC, a Major League Soccer team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Lower.com Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lower.com_Field_Interior_July_3_2021.jpg/330px-Lower.com_Field_Interior_July_3_2021.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 236,
+      "facts": "This stadium, located in Sandy, Utah, is home to Real Salt Lake, a Major League Soccer team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "America First Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Rio_Tinto_Stadium_home_of_Real_Salt_Lake_is_located_in_Sandy%2C_UT.JPG/330px-Rio_Tinto_Stadium_home_of_Real_Salt_Lake_is_located_in_Sandy%2C_UT.JPG",
+      "points": 10
+    },
+    {
+      "id": 237,
+      "facts": "Located in Providence, Rhode Island, this stadium is home to the Brown University Bears football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Brown Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Brown_Stadium%2C_home_of_the_Brown_University_Bears_football.jpg/330px-Brown_Stadium%2C_home_of_the_Brown_University_Bears_football.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 239,
+      "facts": "This stadium is located in Richmond, Kentucky, and is home to the Eastern Kentucky University Colonels football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Roy Kidd Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RoyKiddStadium.jpg/330px-RoyKiddStadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 240,
+      "facts": "This stadium is located in Lauderhill, Florida, and is primarily used for cricket and soccer events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Central Broward Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CBRegionalPark.jpg/330px-CBRegionalPark.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 242,
+      "facts": "This stadium is located in Miami, Florida, and is home to the Miami FC soccer team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Pitbull Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FIU_Stadium%2C_October_13%2C_2012.jpg/330px-FIU_Stadium%2C_October_13%2C_2012.jpg",
+      "points": 10
+    },
+    {
+      "id": 243,
+      "facts": "Located in Austin, Texas, this stadium is primarily used for track and field events but also hosts soccer games.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Mike A. Myers Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mike_myers_stadium_2007.jpg/330px-Mike_myers_stadium_2007.jpg",
+      "points": 10
+    },
+    {
+      "id": 244,
+      "facts": "This stadium is located in Bridgeview, Illinois, and is home to the Chicago Fire FC, a Major League Soccer team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "SeatGeek Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Toyota_Park%2C_9_March_2013.jpg/330px-Toyota_Park%2C_9_March_2013.jpg",
+      "points": 10
+    },
+    {
+      "id": 245,
+      "facts": "Located in Washington, D.C., this stadium is home to D.C. United, a Major League Soccer team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Audi Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Turner_Construction_AUDI_Field_Home_of_DC_United_Soccer_Team_Looking_SW.jpg/330px-Turner_Construction_AUDI_Field_Home_of_DC_United_Soccer_Team_Looking_SW.jpg",
+      "points": 10
+    },
+    {
+      "id": 246,
+      "facts": "This stadium, located in Columbus, Ohio, was the first soccer-specific stadium in Major League Soccer.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Historic Crew Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Drone_Last_Game_at_Historic_Crew_Stadium_%282021%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 247,
+      "facts": "Located in Tallahassee, Florida, this stadium is home to the Florida A&M Rattlers football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Bragg Memorial Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bragg_Memorial_Stadium_inside_1.jpg/330px-Bragg_Memorial_Stadium_inside_1.jpg",
+      "points": 10
+    },
+    {
+      "id": 248,
+      "facts": "This stadium is located in Grambling, Louisiana, and is home to the Grambling State University Tigers football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Eddie G. Robinson Memorial Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Eddie_G._Robinson_Memorial_Stadium_Grambling%2C_Louisiana.jpg/330px-Eddie_G._Robinson_Memorial_Stadium_Grambling%2C_Louisiana.jpg",
+      "points": 10
+    },
+   
+    {
+      "id": 250,
+      "facts": "Located in Mesquite, Texas, this stadium is used for football and soccer events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Mesquite Memorial Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mesquite_Memorial_Stadium_from_End_Zone.jpg/330px-Mesquite_Memorial_Stadium_from_End_Zone.jpg",
+      "points": 10
+    },
+    {
+      "id": 251,
+      "facts": "Located in Saint Paul, Minnesota, this soccer-specific stadium is home to Minnesota United FC.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Allianz Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Allianz_Field_-_MNUFC_Minnesota_United_st._Paul_Minnesota_MLS_%2840636734693%29.jpg/330px-Allianz_Field_-_MNUFC_Minnesota_United_st._Paul_Minnesota_MLS_%2840636734693%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 252,
+      "facts": "Located in Brookings, South Dakota, this stadium is home to the South Dakota State Jackrabbits football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Dana J. Dykhouse Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Dana_J._Dykhouse_Stadium_2016.jpg/330px-Dana_J._Dykhouse_Stadium_2016.jpg",
+      "points": 10
+    },
+    {
+      "id": 253,
+      "facts": "This indoor stadium, located in Fargo, North Dakota, is used for football, basketball, and other events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Fargodome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Fargodome_July_2024.jpg/330px-Fargodome_July_2024.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 255,
+      "facts": "Located in Chester, Pennsylvania, this stadium is home to the Philadelphia Union, an MLS team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Subaru Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Philadelphia_Union_versus_Chicago_Fire_at_Subaru_Park_8-13-2022.jpeg/330px-Philadelphia_Union_versus_Chicago_Fire_at_Subaru_Park_8-13-2022.jpeg",
+      "points": 10
+    },
+    {
+      "id": 256,
+      "facts": "This stadium is located in Kansas City, Kansas, and is home to Sporting Kansas City.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Children's Mercy Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Children%27s_Mercy_Park_Aerial.jpg/330px-Children%27s_Mercy_Park_Aerial.jpg",
+      "points": 10
+    },
+    {
+      "id": 257,
+      "facts": "Located in San Juan, Puerto Rico, this stadium is used for baseball, soccer, and concerts.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Hiram Bithorn Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hiram_Bithorn_Stadium_1.JPG/330px-Hiram_Bithorn_Stadium_1.JPG",
+      "points": 10
+    },
+    {
+      "id": 258,
+      "facts": "This stadium is located in Commerce City, Colorado, and is home to the Colorado Rapids, an MLS team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Dick's Sporting Goods Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Dicks_Sporting_Good_Park.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 260,
+      "facts": "Located in San Jose, California, this stadium is home to the San Jose Earthquakes, an MLS team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "PayPal Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/PayPal_Park_pregame_%28Apr_1%2C_2023%29.jpg/330px-PayPal_Park_pregame_%28Apr_1%2C_2023%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 261,
+      "facts": "This stadium, located in Odessa, Texas, is used for football and soccer events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Ratliff Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ratliff_stadium.JPG/330px-Ratliff_stadium.JPG",
+      "points": 10
+    },
+    {
+      "id": 262,
+      "facts": "Located in Arlington, Texas, this stadium is home to the Dallas Cowboys, and is one of the largest NFL stadiums in terms of seating capacity.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Cowboy Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cowboy_Stadium_%28McNeese_State%29_-_Lake_Charles%2C_Louisiana.jpg/330px-Cowboy_Stadium_%28McNeese_State%29_-_Lake_Charles%2C_Louisiana.jpg",
+      "points": 10
+    },
+    {
+      "id": 263,
+      "facts": "This stadium is located in Springfield, Missouri, and is home to the Missouri State Bears football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Robert W. Plaster Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Football_Stadium.jpg/330px-Football_Stadium.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 265,
+      "facts": "Located in New York City, this stadium is home to the Columbia Lions football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Robert K. Kraft Field at Lawrence A. Wien Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Columbia_University_Robert_K._Kraft_Field_at_Lawrence_A._Wien_Stadium.jpg/330px-Columbia_University_Robert_K._Kraft_Field_at_Lawrence_A._Wien_Stadium.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 267,
+      "facts": "This stadium, located in Santa Barbara, California, is home to the UC Santa Barbara Gauchos soccer team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Harder Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Harder_Stadium_Santa_Barbara_CA.JPG/330px-Harder_Stadium_Santa_Barbara_CA.JPG",
+      "points": 10
+    },
+   
+    {
+      "id": 269,
+      "facts": "Located in Honolulu, Hawaii, this stadium serves as the home of the Hawaii Rainbow Warriors football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Clarence T. C. Ching Athletics Complex",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Clarence_T.C._Ching_Athletics_Complex.jpg/330px-Clarence_T.C._Ching_Athletics_Complex.jpg",
+      "points": 10
+    },
+    {
+      "id": 270,
+      "facts": "Located in Bowling Green, Kentucky, this stadium is home to the Western Kentucky Hilltoppers football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Roy Stewart Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/StewartStadiumMSU.JPG/330px-StewartStadiumMSU.JPG",
+      "points": 10
+    },
+    {
+      "id": 271,
+      "facts": "Located in Cincinnati, Ohio, this stadium is home to the Cincinnati Bengals NFL team and is also known for hosting soccer and concerts.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Paul Brown Tiger Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Pbts2.jpg/330px-Pbts2.jpg",
+      "points": 10
+    },
+    {
+      "id": 272,
+      "facts": "Located in Buffalo, New York, this stadium is primarily used for baseball and is home to the Buffalo Bisons, a Triple-A affiliate of the Toronto Blue Jays.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Sahlen Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Sahlen_Field_aerial_view_in_2023_-_Quintin_Soloviev.jpg",
+      "points": 10
+    },
+    {
+      "id": 273,
+      "facts": "Located in Murfreesboro, Tennessee, this stadium is home to the Middle Tennessee Blue Raiders football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Tucker Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TuckerStadium.jpg/330px-TuckerStadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 274,
+      "facts": "Located in Macomb, Illinois, this stadium is home to the Western Illinois Leathernecks football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Hanson Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Hanson_Field%2C_Western_Illinois_University.jpg/330px-Hanson_Field%2C_Western_Illinois_University.jpg",
+      "points": 10
+    },
+    {
+      "id": 275,
+      "facts": "This indoor stadium, located in Cedar Falls, Iowa, is home to the Northern Iowa Panthers football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "UNI-Dome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/UNI_Dome.jpg/330px-UNI_Dome.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 277,
+      "facts": "This stadium, located in Beaumont, Texas, serves as the home for the Lamar Cardinals football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Provost Umphrey Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Provost_Umphrey_Stadium_LamarvsPaulQuinnMBB123023-5.jpg/330px-Provost_Umphrey_Stadium_LamarvsPaulQuinnMBB123023-5.jpg",
+      "points": 10
+    },
+    {
+      "id": 278,
+      "facts": "Located in Huntsville, Texas, this stadium is home to the Sam Houston Bearkats football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Stallworth Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Ford_B2118_NLGRF_photo_contact_sheet_%281976-10-29%29%28Gerald_Ford_Library%29_%28Stadium%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 279,
+      "facts": "This dome stadium in Moscow, Idaho, is home to the Idaho Vandals football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Kibbie Dome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/MoscowKibbieDomeFebruary2024.jpg/330px-MoscowKibbieDomeFebruary2024.jpg",
+      "points": 10
+    },
+    {
+      "id": 280,
+      "facts": "Located in Greenville, South Carolina, this stadium is home to the Furman Paladins football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Paladin Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/FurmanPaladinStadium3.jpg/330px-FurmanPaladinStadium3.jpg",
+      "points": 10
+    },
+    {
+      "id": 281,
+      "facts": "Located in Bethlehem, Pennsylvania, this stadium is home to the Lehigh Mountain Hawks football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Goodman Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Goodman_Stadium.JPG/330px-Goodman_Stadium.JPG",
+      "points": 10
+    },
+    
+    {
+      "id": 283,
+      "facts": "Located in Fort Hays, Kansas, this stadium is home to the Fort Hays State Tigers football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Harry Turpin Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Harry_Turpin_Stadium_%28Natchitoches%2C_LA%2C_USA%29.jpg/330px-Harry_Turpin_Stadium_%28Natchitoches%2C_LA%2C_USA%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 284,
+      "facts": "Located in Hershey, Pennsylvania, this stadium is home to various sports teams and events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Hersheypark Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hersheypark-Stadium-3.jpg/330px-Hersheypark-Stadium-3.jpg",
+      "points": 10
+    },
+    {
+      "id": 285,
+      "facts": "This stadium is located in DeKalb, Georgia, and is home to the DeKalb County football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "James R. Hallford Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/James_R._Hallford_Stadium%2C_Clarkston%2C_GA.jpg/330px-James_R._Hallford_Stadium%2C_Clarkston%2C_GA.jpg",
+      "points": 10
+    },
+    {
+      "id": 286,
+      "facts": "Located in Charlotte, North Carolina, this stadium is home to the Charlotte 49ers football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Jerry Richardson Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Jerry_Richardson_Stadium.jpg/330px-Jerry_Richardson_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 287,
+      "facts": "This stadium in Tacoma, Washington, is a historic venue that has hosted various events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Stadium Bowl",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Tacoma_-_Stadium_High_School_pano_06.jpg/330px-Tacoma_-_Stadium_High_School_pano_06.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 289,
+      "facts": "This stadium is located in Greenway, Pennsylvania, and hosts local events and sports.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Greenway Avenue Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Greenway_avenue_stadium.jpg/330px-Greenway_avenue_stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 290,
+      "facts": "Located in Allentown, Pennsylvania, this stadium is home to the Allentown Rovers and hosts various events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "J. Birney Crum Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/1955_-_Allentown_School_District_Stadium.jpg/330px-1955_-_Allentown_School_District_Stadium.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 292,
+      "facts": "This stadium in Carbondale, Illinois, is home to the Southern Illinois Salukis football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Saluki Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Saluki_Stadium_2021.jpg/330px-Saluki_Stadium_2021.jpg",
+      "points": 10
+    },
+    {
+      "id": 293,
+      "facts": "Located in Mesa, Arizona, this stadium is home to the Chicago Cubs spring training team and hosts various events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Sloan Park",
+      "imageUrl": "https://en.wikipedia.org/wiki/Sloan_Park#/media/File:Sloan_Park_during_Spring_Training_(2023).jpg",
+      "points": 10
+    },
+    {
+      "id": 294,
+      "facts": "Located in Blackshear, Georgia, this stadium is home to local high school football teams and events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Panther Stadium at Blackshear Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Panther_Stadium_at_Blackshear_Field_Exterior_2019.jpg/330px-Panther_Stadium_at_Blackshear_Field_Exterior_2019.jpg",
+      "points": 10
+    },
+    {
+      "id": 295,
+      "facts": "Located in Nacogdoches, Texas, this stadium is home to the Stephen F. Austin Lumberjacks football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Homer Bryce Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Stephen_F._Austin_State_University_August_2017_19_%28Homer_Bryce_Stadium%29.jpg/330px-Stephen_F._Austin_State_University_August_2017_19_%28Homer_Bryce_Stadium%29.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 297,
+      "facts": "Located in Salt Lake City, Utah, this stadium is home to the Salt Lake Bees baseball team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Smith's Ballpark",
+      "imageUrl": "https://static.wixstatic.com/media/2e2e5a_18b3af94a1474baba620d856cab049a8~mv2.jpg/v1/crop/x_0,y_0,w_1598,h_1030/fill/w_718,h_458,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Smiths%20Ballpark%2005.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 299,
+      "facts": "Located in Flushing, New York, this stadium is named after the famous jazz musician.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Louis Armstrong Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/New_Louis_Armstrong_Stadium.jpg/330px-New_Louis_Armstrong_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 300,
+      "facts": "This stadium is in Huntsville, Texas, and is home to the Sam Houston State Bearkats football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Bowers Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bowers_stadium_huntsville_tx_2014.jpg/330px-Bowers_stadium_huntsville_tx_2014.jpg",
+      "points": 10
+    },
+    {
+      "id": 301,
+      "facts": "Located in Huntsville, Texas, this stadium is home to the Sam Houston State Bearkats track and field team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Rhodes Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/RhodesStadiumEmpty.jpg/330px-RhodesStadiumEmpty.jpg",
+      "points": 10
+    },
+    {
+      "id": 302,
+      "facts": "This stadium is located in Rochester, New York, and hosts various sports events and concerts.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Rochester Community Sports Complex Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/PAETEC_Park_overview.JPG/330px-PAETEC_Park_overview.JPG",
+      "points": 10
+    },
+    
+    {
+      "id": 305,
+      "facts": "Located in Rochester, New York, this stadium is home to the Rochester Red Wings baseball team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Innovative Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Frontier_Field_2.jpg/330px-Frontier_Field_2.jpg",
+      "points": 10
+    },
+    {
+      "id": 306,
+      "facts": "Located in Normal, Illinois, this stadium is home to the Illinois State University Redbirds football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Hancock Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ILST_vs_SDSU_Homecoming_2014.jpg/330px-ILST_vs_SDSU_Homecoming_2014.jpg",
+      "points": 10
+    },
+    {
+      "id": 307,
+      "facts": "This stadium, located in Lewisburg, Pennsylvania, is home to the Bucknell University Bison football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Fisher Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Fisher_Stadium.jpg/330px-Fisher_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 308,
+      "facts": "Located in Louisville, Kentucky, this stadium is home to the Louisville Bats baseball team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Louisville Slugger Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Louisville_Slugger_Field%2C_Kentucky.jpg",
+      "points": 10
+    },
+    {
+      "id": 309,
+      "facts": "This stadium, located in Lewisburg, Pennsylvania, is home to the Bucknell University Bison baseball team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Christy Mathewson–Memorial Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bucknell_University_2012_31.JPG/330px-Bucknell_University_2012_31.JPG",
+      "points": 10
+    },
+    {
+      "id": 310,
+      "facts": "Located in Spartanburg, South Carolina, this stadium is used for high school and collegiate events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Gibbs Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gibbs_Stadium.jpg/330px-Gibbs_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 311,
+      "facts": "Located in Glendale, Arizona, this stadium is used for spring training and Major League Baseball events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Camelback Ranch",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Camelback_Ranch_view_from_right_field.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 314,
+      "facts": "Located in Williamsburg, Virginia, this stadium is home to the College of William & Mary Tribe football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Zable Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Zable_Stadium_outside.jpg/330px-Zable_Stadium_outside.jpg",
+      "points": 10
+    },
+    {
+      "id": 315,
+      "facts": "This stadium, located in Eugene, Oregon, is used for track and field events and is home to the Oregon Ducks track and field team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Hayward Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/The_New_Hayward_Field.jpg/330px-The_New_Hayward_Field.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 317,
+      "facts": "Located in Bayamón, Puerto Rico, this stadium is primarily used for football and soccer.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Juan Ramón Loubriel Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Estadio_Juan_Ram%C3%B3n_Loubriel_Noche.jpg/330px-Estadio_Juan_Ram%C3%B3n_Loubriel_Noche.jpg",
+      "points": 10
+    },
+    {
+      "id": 318,
+      "facts": "This stadium, located in Bedford, Texas, is used for high school football and other community events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Pennington Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Pennington_Field_exterior.jpg/330px-Pennington_Field_exterior.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 320,
+      "facts": "This stadium is located in Stony Brook, New York, and is home to the Stony Brook Seawolves football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Kenneth P. LaValle Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kenneth_P_LaValle_Stadium.jpg/330px-Kenneth_P_LaValle_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 321,
+      "facts": "Located in Grand Forks, North Dakota, this stadium is home to the University of North Dakota Fighting Hawks football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Alerus Center",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Alerus_Center.png/330px-Alerus_Center.png",
+      "points": 10
+    },
+    {
+      "id": 322,
+      "facts": "This stadium, located in Indianapolis, Indiana, is home to the Indianapolis Indians baseball team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Victory Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Victory_Field_Left_Field.jpg",
+      "points": 10
+    },
+    {
+      "id": 323,
+      "facts": "Located in Wheeling, West Virginia, this stadium is used for football and other community sports events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Wheeling Island Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Wheelingstad.jpg/330px-Wheelingstad.jpg",
+      "points": 10
+    },
+    {
+      "id": 324,
+      "facts": "This stadium, located in Mayagüez, Puerto Rico, is used for athletics and is the home of the Mayagüez Athletics team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Mayagüez Athletics Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Estadio_atletismo_mayaguez.JPG/330px-Estadio_atletismo_mayaguez.JPG",
+      "points": 10
+    },
+    {
+      "id": 325,
+      "facts": "Located in Oxford, Mississippi, this stadium is home to the University of Mississippi Rebels baseball team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Swayze Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Recent_Swayze_Field.jpg/330px-Recent_Swayze_Field.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 327,
+      "facts": "Located in Indianapolis, Indiana, this stadium is used for soccer and track events, and is home to the Indy Eleven soccer team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "IU Michael A. Carroll Track & Soccer Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Micheal_A_Carroll_Track_%5E_Soccer_Stadium_-_panoramio.jpg",
+      "points": 10
+    },
+    {
+      "id": 328,
+      "facts": "Located in Norfolk, Virginia, this stadium is home to the Norfolk Tides, a minor league baseball team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Harbor Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Harbor_park.jpg",
+      "points": 10
+    },
+    {
+      "id": 329,
+      "facts": "Located in Richmond, Virginia, this stadium has hosted numerous football games and is home to the Virginia Union University Panthers.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Armstrong Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Armstrong_Stadium%27s_Astroturf.jpg/330px-Armstrong_Stadium%27s_Astroturf.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 331,
+      "facts": "This historic stadium, once located in Philadelphia, was demolished in 1992. It hosted both soccer and American football games.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "John F. Kennedy Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Municipal_Stadium_Philadelphia.jpg/330px-Municipal_Stadium_Philadelphia.jpg",
+      "points": 10
+    },
+    {
+      "id": 332,
+      "facts": "This stadium is located in Pocatello, Idaho, and is home to the Idaho State Bengals football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "ICCU Dome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Holt_Arena%2C_Idaho_State_University%2C_Pocatello%2C_Idaho.jpg/330px-Holt_Arena%2C_Idaho_State_University%2C_Pocatello%2C_Idaho.jpg",
+      "points": 10
+    },
+    {
+      "id": 333,
+      "facts": "Scottsdale Stadium is located in Scottsdale, Arizona, and is primarily used for spring training by Major League Baseball teams.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Scottsdale Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Scottsdale_Stadium_-_2004-03-12_-_View_from_lawn_seats.JPG/330px-Scottsdale_Stadium_-_2004-03-12_-_View_from_lawn_seats.JPG",
+      "points": 10
+    },
+    
+    {
+      "id": 336,
+      "facts": "This stadium is located in Abilene, Texas, and is home to the Abilene Christian Wildcats football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Anthony Field at Wildcat Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Abilene_Christian_University_June_2019_34_%28Anthony_Field_at_Wildcat_Stadium%29.jpg/330px-Abilene_Christian_University_June_2019_34_%28Anthony_Field_at_Wildcat_Stadium%29.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 338,
+      "facts": "Lynn Family Stadium is located in Louisville, Kentucky, and is home to the Louisville City FC soccer team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Lynn Family Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Louisville_City_match_at_Lynn_Family_Stadium_2023.jpg/330px-Louisville_City_match_at_Lynn_Family_Stadium_2023.jpg",
+      "points": 10
+    },
+    {
+      "id": 339,
+      "facts": "This stadium is located in Round Rock, Texas, and is home to the Round Rock Express, a minor league baseball team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Dell Diamond",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Dell_diamond_4DM.jpg",
+      "points": 10
+    },
+    {
+      "id": 340,
+      "facts": "This stadium is located in Denton, Texas, and is used for football games, including those of the North Texas Mean Green football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Ernest Hawkins Field at Memorial Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ariel-Football-6733_%2817910232765%29.jpg/330px-Ariel-Football-6733_%2817910232765%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 341,
+      "facts": "Located in Sacramento, California, this stadium is home to the Sacramento Republic FC soccer team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Heart Health Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bonney_Field_2015-05-20.jpg",
+      "points": 10
+    },
+    {
+      "id": 342,
+      "facts": "This stadium is located in Des Moines, Iowa, and serves as the home for the Iowa Cubs, a minor league baseball team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Principal Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/2011_Principal_Park_%281%29.jpg/330px-2011_Principal_Park_%281%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 343,
+      "facts": "This stadium is located in Tucson, Arizona, and is a sports complex that hosts baseball, soccer, and other events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Kino Sports Complex",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Baseball_World_Classic_qualifier_game_flyover_%28250304-F-NC910-1040%29.jpg/330px-Baseball_World_Classic_qualifier_game_flyover_%28250304-F-NC910-1040%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 345,
+      "facts": "This stadium is located in Kansas City, Missouri, and is the home of Sporting Kansas City.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "CPKC Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/CPKC_Stadium%2C_2024.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 347,
+      "facts": "Located in Charleston, South Carolina, this stadium is home to the Citadel Bulldogs football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Johnson Hagood Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/CitadelStadium.jpg/330px-CitadelStadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 348,
+      "facts": "This sports complex is located in Peoria, Arizona, and is a spring training home for the Seattle Mariners and San Diego Padres.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Peoria Sports Complex",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Peoria_Stadium.jpg/330px-Peoria_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 349,
+      "facts": "Located in Flagstaff, Arizona, this stadium is home to the Northern Arizona University Lumberjacks football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Walkup Skydome",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Walkup_Skydome.jpg/330px-Walkup_Skydome.jpg",
+      "points": 10
+    },
+    {
+      "id": 350,
+      "facts": "Located in Towson, Maryland, this stadium is home to the Towson Tigers football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Johnny Unitas Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/JohnnyUnitasStadium2013.jpg/330px-JohnnyUnitasStadium2013.jpg",
+      "points": 10
+    },
+    {
+      "id": 351,
+      "facts": "The home stadium of the Albuquerque Isotopes, a minor league baseball team in New Mexico.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Isotopes Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/New_Mexico_United_v._LA_Galaxy_II_at_Isotopes_Park_on_17_August_2019.jpg",
+      "points": 10
+    },
+    {
+      "id": 352,
+      "facts": "This stadium is located in San Luis Obispo, California, and serves as the home for the Cal Poly Mustangs football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Alex G. Spanos Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/CalPolyFootballStadiumIn2023.jpg/330px-CalPolyFootballStadiumIn2023.jpg",
+      "points": 10
+    },
+    {
+      "id": 353,
+      "facts": "This stadium is located in a major city in Florida, and it is primarily used for spring training by a prominent Major League Baseball team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "George M. Steinbrenner Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/MacDill_Aircrew%2C_service_members_kick_off_opening_day_ceremony_for_TB_Rays_%28250328-F-YW699-1029%29.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 356,
+      "facts": "Located in Michigan, this stadium hosts local high school games and is a key venue for community events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Atwood Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Atwood_Stadium.jpg/330px-Atwood_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 357,
+      "facts": "This stadium is located in a city in Ohio and is home to a university's football team, known for its iconic red and white colors.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Welcome Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Welcome_Stadium_Aerial_Looking_West.jpg/330px-Welcome_Stadium_Aerial_Looking_West.jpg",
+      "points": 10
+    },
+    {
+      "id": 358,
+      "facts": "This stadium, located in Florida, serves as the home for a Minor League Baseball team in the Southeast region.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "VyStar Ballpark",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Baseball_Grounds_of_Jacksonville.JPG/330px-Baseball_Grounds_of_Jacksonville.JPG",
+      "points": 10
+    },
+    {
+      "id": 359,
+      "facts": "This stadium is located in the capital of Indiana and hosts college football games for a prominent local university.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Charlie W. Johnson Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Benedict_Football.JPG/330px-Benedict_Football.JPG",
+      "points": 10
+    },
+    {
+      "id": 360,
+      "facts": "Located in Arizona, this stadium is used for spring training by two major league baseball teams and is named after a nearby feature.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Salt River Fields at Talking Stick",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Salt_River_Fields_-_2011-02-23_-_Home_Base_Entry.JPG",
+      "points": 10
+    },
+    {
+      "id": 362,
+      "facts": "This stadium in Milwaukee, Wisconsin, hosts a variety of community events, including baseball games for a minor league team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Miller Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Miller_Stadium_Indiana_University_of_Pennsylvania.jpg/330px-Miller_Stadium_Indiana_University_of_Pennsylvania.jpg",
+      "points": 10
+    },
+    {
+      "id": 363,
+      "facts": "This stadium in Fort Myers, Florida, is known for hosting spring training games for a prominent American League team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "JetBlue Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/JetBlue_Park_at_Fenway_South_6.JPG",
+      "points": 10
+    },
+    {
+      "id": 364,
+      "facts": "This stadium is located in Syracuse, New York, and hosts a variety of sports events, including professional baseball.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "NBT Bank Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/NBTBankStadium1021.jpg/330px-NBTBankStadium1021.jpg",
+      "points": 10
+    },
+    {
+      "id": 365,
+      "facts": "This stadium is the home of a professional soccer team in Sacramento, California, and serves as a venue for multiple sports events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "UC Davis Health Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/UC_Davis_Health_Stadium_view_from_above_2024.jpg/330px-UC_Davis_Health_Stadium_view_from_above_2024.jpg",
+      "points": 10
+    },
+    {
+      "id": 366,
+      "facts": "Located at a major university in Arkansas, this stadium is known for hosting college baseball games and has a dedicated fan base.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Baum–Walker Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/2015_Fayetteville_Super_Regional_001.jpg/330px-2015_Fayetteville_Super_Regional_001.jpg",
+      "points": 10
+    },
+    {
+      "id": 367,
+      "facts": "This Arizona stadium is known for hosting spring training games for two Major League Baseball teams, with a warm, sunny climate.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Surprise Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Surprisestadium.JPG",
+      "points": 10
+    },
+    {
+      "id": 368,
+      "facts": "This California stadium is home to a minor league baseball team and has a unique name inspired by a native plant.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Chukchansi Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/ChukchansiPark072723_1920x1080.jpg/330px-ChukchansiPark072723_1920x1080.jpg",
+      "points": 10
+    },
+    {
+      "id": 369,
+      "facts": "Located in Sacramento, California, this stadium is home to a local minor league baseball team and is known for hosting family-friendly events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Sutter Health Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sutter_Health_Park_aerial_view_2023_%28Quintin_Soloviev%29.jpg/330px-Sutter_Health_Park_aerial_view_2023_%28Quintin_Soloviev%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 370,
+      "facts": "This stadium is located in a major North Carolina city and is frequently used for local high school sports events, including football and soccer.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "American Legion Memorial Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/AmericanLegionMemorialStadiumMay2021.jpg/330px-AmericanLegionMemorialStadiumMay2021.jpg",
+      "points": 10
+    },
+    {
+      "id": 371,
+      "facts": "This Louisiana stadium is home to a college football team and is named after a local figure, often filled with fans during the football season.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Manning Field at John L. Guidry Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Manning_Field_at_John_L_Guidry_Stadium-Colonels_Club_Room.jpg/330px-Manning_Field_at_John_L_Guidry_Stadium-Colonels_Club_Room.jpg",
+      "points": 10
+    },
+    {
+      "id": 372,
+      "facts": "Located in Utah, this stadium is primarily used for soccer and frequently hosts local and regional matches.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Greater Zion Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Zionstadiumhomeside.jpg/330px-Zionstadiumhomeside.jpg",
+      "points": 10
+    },
+    {
+      "id": 373,
+      "facts": "This Arizona-based stadium is used during the MLB spring training season by a team in the American League.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Hohokam Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Hohokam955.JPG",
+      "points": 10
+    },
+    {
+      "id": 374,
+      "facts": "This stadium, located in Puerto Rico, is often used for baseball games and has a rich history of hosting international sporting events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Isidoro García Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Seats_in_cholo.JPG/330px-Seats_in_cholo.JPG",
+      "points": 10
+    },
+    {
+      "id": 375,
+      "facts": "Located in Springfield, Missouri, this stadium is the home of a local minor league baseball team, with a focus on community events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Hammons Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Downtown_Springfield%2C_MO_and_Hammons_Field.jpg",
+      "points": 10
+    },
+    {
+      "id": 376,
+      "facts": "This stadium, situated in Allendale, Michigan, is known for hosting college football games and is associated with a prominent local university.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Lubbers Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/LubbersStadium2021_Air.jpg/330px-LubbersStadium2021_Air.jpg",
+      "points": 10
+    },
+    {
+      "id": 377,
+      "facts": "Located in Lawrenceville, Georgia, this stadium is home to a minor league baseball team and features a modern design for a great fan experience.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Coolray Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Coolray_Field_2009.jpg",
+      "points": 10
+    },
+    {
+      "id": 378,
+      "facts": "Situated in Baton Rouge, Louisiana, this stadium is a key venue for college baseball and is widely known for its passionate fan base.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Alex Box Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Alex_Box_Stadium_Baton_Rouge_Louisiana.jpg/330px-Alex_Box_Stadium_Baton_Rouge_Louisiana.jpg",
+      "points": 10
+    },
+    {
+      "id": 379,
+      "facts": "Located in Frisco, Texas, this stadium is home to a minor league baseball team and is named after a term that symbolizes the team’s identity.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Riders Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dr_pepper_ballpark_home_plate_entrance.jpg/330px-Dr_pepper_ballpark_home_plate_entrance.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 382,
+      "facts": "In Charleston, South Carolina, this stadium is famous for hosting an annual tennis tournament, drawing top athletes from around the world.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Credit One Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Main_court_Charleston.jpg/330px-Main_court_Charleston.jpg",
+      "points": 10
+    },
+    {
+      "id": 383,
+      "facts": "This stadium is located in Allentown, Pennsylvania, and serves as the home for a minor league baseball team, known for its modern design and family-friendly environment.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Coca-Cola Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Cokepark_allentown.jpg",
+      "points": 10
+    },
+    {
+      "id": 384,
+      "facts": "Situated in Grand Rapids, Michigan, this stadium is home to a soccer team and hosts a variety of events, including sports and entertainment.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Fifth Third Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Fifth_Third_Bank_Stadium%2C_Kennesaw_State_University.JPG",
+      "points": 10
+    },
+    {
+      "id": 385,
+      "facts": "Located in Bedford, Ohio, this multi-purpose stadium is used for a wide range of sporting events, from football to soccer.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Five Star Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Homer_and_Ruth_Drake_Field_House.jpg/330px-Homer_and_Ruth_Drake_Field_House.jpg",
+      "points": 10
+    },
+    {
+      "id": 386,
+      "facts": "Located in Uniondale, New York, this sports complex is known for hosting soccer events and other community activities.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Mitchel Athletic Complex",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mitchel_Athletic_Complex.jpg/330px-Mitchel_Athletic_Complex.jpg",
+      "points": 10
+    },
+    {
+      "id": 387,
+      "facts": "This stadium in Columbus, Ohio, is home to a minor league baseball team and features a modern design with great fan amenities.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Huntington Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pacific_Boulevard_and_Clarendon_Avenue.jpg/330px-Pacific_Boulevard_and_Clarendon_Avenue.jpg",
+      "points": 10
+    },
+    {
+      "id": 388,
+      "facts": "Located in Cincinnati, Ohio, this multi-use stadium once served as the home for both a Major League Baseball and an NFL team before being replaced by newer stadiums.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Riverfront Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Riverfront_Stadium_in_Cincinnati%2C_Ohio.jpg/330px-Riverfront_Stadium_in_Cincinnati%2C_Ohio.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 390,
+      "facts": "Located in Washington, D.C., this stadium has long been the home for a prominent HBCU's football team, playing a major role in the school's sports history.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "William H. Greene Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Greene_Stadium_1.jpg/330px-Greene_Stadium_1.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 392,
+      "facts": "Located in Huntington, West Virginia, this stadium is primarily used for high school sports and has become an important local venue for various events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Mitchell Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Mitchell_Stadium_2014.jpg/330px-Mitchell_Stadium_2014.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 394,
+      "facts": "Located in Greeley, Colorado, this stadium serves as the home field for a university's football team and is a staple in the local community.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Estes Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Estesstadium.jpg/330px-Estesstadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 395,
+      "facts": "This stadium, located in Battle Creek, Michigan, is used primarily for football and hosts various community sporting events.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Fortera Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Fortera_stadium_2024.jpg/330px-Fortera_stadium_2024.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 398,
+      "facts": "Located in Cleveland, Ohio, this multi-purpose stadium is known for hosting an NFL team and has undergone several renovations over the years.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "FirstEnergy Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2021_NFL_Draft_Cleveland_%2851105297664%29.jpg/330px-2021_NFL_Draft_Cleveland_%2851105297664%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 399,
+      "facts": "This stadium in Houston, Texas, serves as the home for a prominent university's football team and features a distinctive seating arrangement for fans.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Rice–Totten Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Rice_Totten_Stadium.jpg/330px-Rice_Totten_Stadium.jpg",
+      "points": 10
+    },
+    {
+      "id": 400,
+      "facts": "Located in South Williamsport, Pennsylvania, this stadium is known for its connection to a youth baseball tournament that attracts teams from around the world.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Howard J. Lamade Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Little_League_World_Series_and_Lamade_Stadium.JPG/330px-Little_League_World_Series_and_Lamade_Stadium.JPG",
+      "points": 10
+    },
+    {
+      "id": 401,
+      "facts": "This stadium in Ithaca, New York, is used primarily for college football and is the home venue for the Cornell Big Red football team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Alumni Memorial Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/2008-0831-VMI-AlumniMemorialField.jpg/330px-2008-0831-VMI-AlumniMemorialField.jpg",
+      "points": 10
+    },
+    {
+      "id": 402,
+      "facts": "Located in Durham, North Carolina, this stadium is the home of a historically black university's football team and hosts various sporting events throughout the year.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "O'Kelly–Riddick Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/NCCU%27s_O%27Kelly-Riddick_Stadium.JPG/330px-NCCU%27s_O%27Kelly-Riddick_Stadium.JPG",
+      "points": 10
+    },
+    {
+      "id": 403,
+      "facts": "This stadium in Daytona Beach, Florida, is used for a variety of sports events, including football and soccer, and is part of a larger sports complex.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Daytona Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Bhcgame.jpg/330px-Bhcgame.jpg",
+      "points": 10
+    },
+    {
+      "id": 404,
+      "facts": "Located in Moosic, Pennsylvania, this baseball stadium is the home of a Triple-A baseball team and serves as the affiliate of the New York Yankees.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "PNC Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/PNC_Field_right_field.jpg/330px-PNC_Field_right_field.jpg",
+      "points": 10
+    },
+    {
+      "id": 405,
+      "facts": "This stadium is located in the Chicago area and is known for hosting a variety of sports events, including soccer and minor league baseball games.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Northwestern Medicine Field",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Northwestern_Medicine_Field.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 407,
+      "facts": "This stadium in Michigan is used primarily for baseball and serves as the home of a minor league baseball team.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "LMCU Ballpark",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/WestMichigan_Whitecaps_DSCN8265.JPG",
+      "points": 10
+    },
+    {
+      "id": 408,
+      "facts": "This stadium in Maryland is home to a minor league baseball team that is an affiliate of the Baltimore Orioles. It is located near Washington, D.C., and features a beautiful backdrop of trees beyond the outfield fence.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Prince George's Stadium",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/PGStadiumBowie.jpg/330px-PGStadiumBowie.jpg",
+      "points": 10
+    },
+    {
+      "id": 409,
+      "facts": "Located in North Carolina, this baseball stadium is home to a minor league team and is known for its iconic bull logo and its location in the heart of a popular city.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Durham Bulls Athletic Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Durham_Bulls_Athletic_Park%2C_Durham%2C_NC_%2849160936218%29.jpg/330px-Durham_Bulls_Athletic_Park%2C_Durham%2C_NC_%2849160936218%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 410,
+      "facts": "This stadium is located in Louisiana and is known for its historic name, which is a reference to a local tradition and industry. It hosts a minor league baseball team and is loved for its intimate atmosphere.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Gold Mine on Airline",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Zephyr_Field_-_Metairie%2C_LA_%28New_Orleans%2C_LA_Suburb%29.jpg/330px-Zephyr_Field_-_Metairie%2C_LA_%28New_Orleans%2C_LA_Suburb%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 411,
+      "facts": "This stadium in Phoenix is associated with a major league baseball team for their spring training. It is known for hosting an exhibition game season before the start of the regular baseball season.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "American Family Fields of Phoenix",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/American_Family_Fields_of_Phoenix_2025.jpg",
+      "points": 10
+    },
+    {
+      "id": 412,
+      "facts": "Located in Memphis, Tennessee, this stadium is home to a minor league baseball team and offers fans a comfortable and modern setting for the game.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "Autozone Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/AutoZone_Park%2C_Memphis.jpg",
+      "points": 10
+    },
+    {
+      "id": 413,
+      "facts": "This soccer-specific stadium in North Carolina is used by a professional soccer team and also hosts college soccer events. It is located within a large sports complex.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "WakeMed Soccer Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/SASSoccerPark2.jpg/330px-SASSoccerPark2.jpg",
+      "points": 10
+    },
+   
+    {
+      "id": 415,
+      "facts": "This stadium in Nashville, Tennessee, is home to a minor league baseball team and is situated near downtown, making it a popular spot for both locals and visitors.",
+      "question": "Can you name this Stadium?",
+      "correctAnswer": "First Horizon Park",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/First_Horizon_Park_September_13%2C_2022.jpg",
+      "points": 10
+    }
+    
+  ]

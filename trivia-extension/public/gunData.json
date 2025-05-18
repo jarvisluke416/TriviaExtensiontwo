@@ -1,0 +1,634 @@
+[
+  {
+    "id": 1,
+    "facts": "This gun, designed by Mikhail Kalashnikov...",
+    "question": "Can you name this gun?",
+    "correctAnswer": "AK 47",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/AK-47_type_II_noBG.png/330px-AK-47_type_II_noBG.png",
+    "points": 10
+
+  },
+  {
+    "id": 2,
+    "facts": "This gun, a German service rifle, was a key weapon in both World War I and the early stages of World War II. It was known for its reliability and accuracy, making it a popular choice for German and Ottoman forces during World War I.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Gewehr 98",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Gewehr_98_noBG.jpg/330px-Gewehr_98_noBG.jpg",
+    "points": 10
+  },
+  {
+    "id": 3,
+    "facts": "Developed from 1882 to 1891, it was used by the armed forces of the Russian Empire, the Soviet Union and various other states. It is one of the most mass-produced military bolt-action rifles in history, with over 37 million units produced since 1891. In spite of its age, it has been used in various conflicts around the world up to the present day.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Mosin–Nagant",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Mosin-remove-bg.png/330px-Mosin-remove-bg.png",
+    "points": 10
+  },
+  {
+    "id": 4,
+    "facts": "This gun, also known as 'black rifles' was developed in May 1957 by Eugene Stoner at the Armalite Company as a military grade rifle for the troops in the Vietnam war to replace the heavier and less reliable M14 model.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "M16A2",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/M16A2_noBG.jpg/330px-M16A2_noBG.jpg",
+    "points": 10
+  },
+  {
+    "id": 5,
+    "facts": "This gun, a standard British Army rifle from 1895 to 1957, was a highly effective and widely used bolt-action rifle, surpassed only by the Mauser Model 1898. It was known for its rapid fire capability, allowing trained soldiers to fire 20-30 rounds per minute. This guns design, including its bolt action and 10-round magazine, made it the fastest military bolt-action rifle of its time.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Lee–Enfield",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Short_Magazine_Lee-Enfield_Mk_1_%281903%29_-_UK_-_cal_303_British_-_Arm%C3%A9museum_noBG.jpg/330px-Short_Magazine_Lee-Enfield_Mk_1_%281903%29_-_UK_-_cal_303_British_-_Arm%C3%A9museum_noBG.jpg",
+    "points": 10
+  },
+  {
+    "id": 6,
+    "facts": "This gun, or Samozaryadny Karabin Sistemy Simonova, is a gas-operated, semi-automatic carbine designed in the early 1940s by Sergei Simonov. It was designed to replace the older Mosin-Nagant bolt-action rifle in the Soviet military, offering a lighter and more powerful alternative. This gun was also widely produced and exported, finding use in various conflicts and with civilian hunters.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "SKS",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Simonow_SKS_45_noBG.jpg/330px-Simonow_SKS_45_noBG.jpg",
+    "points": 10
+  },
+  {
+    "id": 7,
+    "facts": "This gun is a highly successful pump-action shotgun, known for its reliability, affordability, and versatility. It was initially designed for hunting but quickly gained popularity with law enforcement and even the military.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Mossberg 500",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/PEO_Mossberg_590A1.jpg/330px-PEO_Mossberg_590A1.jpg",
+    "points": 10
+  },
+ 
+  
+  {
+    "id": 10,
+    "facts": "This submachine gun was designed by Captain (later Major) Uziel Gal of the Israel Defense Forces (IDF) following the 1948 Arab–Israeli War. The weapon was submitted to the Israeli Army for evaluation and won out over more conventional designs due to its simplicity and economy of manufacture.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Uzi",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Uzi_of_the_israeli_armed_forces.jpg/330px-Uzi_of_the_israeli_armed_forces.jpg",
+    "points": 10
+  },
+ 
+  {
+    "id": 12,
+    "facts": "This company's pistols have become the company's most profitable line of products, and have been supplied to national armed forces, security agencies, and police forces in at least 48 countries. They are also popular firearms among civilians for recreational and competition shooting, home- and self-defense, both in concealed or open carry.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Glock",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Glock_17_%286825676904%29_%D0%B1%D0%B5%D0%B7_%D1%84%D0%BE%D0%BD%D0%B0.jpg/330px-Glock_17_%286825676904%29_%D0%B1%D0%B5%D0%B7_%D1%84%D0%BE%D0%BD%D0%B0.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 14,
+    "facts": "This gun was a pivotal semi-automatic rifle used by the U.S. military during World War II and the Korean War. Invented by John Cantius Garand, it offered a significant advantage in firepower due to its semi-automatic operation. It was the first semi-automatic rifle to become a standard issue combat weapon.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "M1 Garand",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/M1_Garand_rifle_USA_noBG_new.png/330px-M1_Garand_rifle_USA_noBG_new.png",
+    "points": 10
+  },
+  {
+    "id": 15,
+    "facts": "This gun is a German battle rifle with a long history of use in various military and law enforcement organizations worldwide. A notable feature is its delayed roller-locked blowback action, which, along with its 20-round magazines and 7.62x51mm NATO ammunition, contributed to its reputation for reliability and durability.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Heckler & Koch G3",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Heckler_%26_Koch_G3_Kunststoffschaft_Display_noBG.png/330px-Heckler_%26_Koch_G3_Kunststoffschaft_Display_noBG.png",
+    "points": 10
+  },
+  
+  {
+    "id": 19,
+    "facts": "This gun was a light, compact, and effective rifle designed for non-combat and support roles during World War II and the Korean War. It was a more manageable weapon than the standard M1 Garand rifle, easier for less experienced soldiers and smaller-framed individuals to use, and more convenient to carry with other equipment.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "M1 Carbine",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/M1_Carbine_Mk_I_USA_Arm%C3%A9museum_noBG_new.png/330px-M1_Carbine_Mk_I_USA_Arm%C3%A9museum_noBG_new.png",
+    "points": 10
+  },
+  
+  {
+    "id": 21,
+    "facts": "This gun was the most produced submachine gun of World War II, with an estimated 6 million units made. It was widely adopted by the Red Army, and also saw use by other countries like China, North Korea, Vietnam, and several African nations. It's known for its simplicity, ease of production, and high rate of fire.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "PPSh-41",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/PPSh-41_from_soviet.jpg/330px-PPSh-41_from_soviet.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 23,
+    "facts": "This gun, a .38 Special revolver, is known for its longevity, reliability, and popularity, having been the most produced handgun of the 20th century. It was a common sidearm for law enforcement and military personnel worldwide and has been produced for over a century.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Smith & Wesson Model 10",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/M%26Prevolver.jpg/330px-M%26Prevolver.jpg",
+    "points": 10
+  },
+ 
+  {
+    "id": 25,
+    "facts": "This gun is a highly popular and versatile bolt-action centerfire rifle known for its reliability, accuracy, and adaptability. It's a descendant of Remington's Model 1917 rifle and has evolved into a wide range of consumer, military, and police applications. Notable features include its robust bolt action, dual-opposed lugs, and a variety of variants with different stocks, barrels, and caliber options.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Remington Model 700",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Remington_Model_700.JPG/330px-Remington_Model_700.JPG",
+    "points": 10
+  },
+  {
+    "id": 26,
+    "facts": "This gun, originally designed in 1929, was the first commercially successful double-action auto pistol. It was a popular choice among European police departments and later German military officers. The PP was known for its innovative safety features, including an automatic hammer block and a loaded chamber indicator.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Walther PP",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/1972_Walther_PP.jpg/330px-1972_Walther_PP.jpg",
+    "points": 10
+  },
+  {
+    "id": 27,
+    "facts": "This pistol, designed by John Browning and adopted by the U.S. military in 1911, is a semi-automatic handgun known for its reliability, power, and historical significance. It was the standard-issue sidearm for the U.S. Armed Forces from 1911 to 1985.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "M1911 pistol",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/M1911_and_M1911A1_pistols.JPG/330px-M1911_and_M1911A1_pistols.JPG",
+    "points": 10
+  },
+  {
+    "id": 28,
+    "facts": "This gun, a British submachine gun, was designed for simple and rapid mass production during World War II. It was notable for its cheap construction, with most parts made from stamped steel and welded together. Despite its simplicity, this gun was widely used by the British Army and even adopted by some German forces.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Sten",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pistolet_maszynowy_STEN%2C_Muzeum_Or%C5%82a_Bia%C5%82ego.jpg/330px-Pistolet_maszynowy_STEN%2C_Muzeum_Or%C5%82a_Bia%C5%82ego.jpg",
+    "points": 10
+  },
+  {
+    "id": 29,
+    "facts": "This rifle is a historically significant firearm known for its use in both World Wars, as well as its role in the assassination of President John F. Kennedy.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Carcano",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Carcano_M1891.jpg/330px-Carcano_M1891.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 32,
+    "facts": "This gun is a popular single-action revolver known for its simple design and reliability. It's a .22 caliber revolver that has been produced since 1953 and is designed to replicate the aesthetics and functionality of the Colt Single Action Army.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Ruger Single-Six",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ruger_Single-Six%2C_2_generations.jpg/330px-Ruger_Single-Six%2C_2_generations.jpg",
+    "points": 10
+  },
+  {
+    "id": 33,
+    "facts": "This gun, also known as the Fusil Mle 1886 M93, is a notable firearm for being the first military rifle to use smokeless powder. It was the French Army's main infantry rifle from 1887 and saw significant action in World War I. A key feature was its 8-round tubular magazine, which, combined with a round in the elevator and chamber, provided a 10-round capacity.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Lebel Model 1886 rifle",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Lebel_Mle._1886.JPG/330px-Lebel_Mle._1886.JPG",
+    "points": 10
+  },
+  {
+    "id": 34,
+    "facts": "This gun is a highly popular and iconic pistol, known for its reliability, durability, and use in various films and TV shows. It's a double/single-action semiauto pistol, and it's been a staple in the US military as the M9.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Beretta 92",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Interpolitex_2013_%28536-8%29.jpg/330px-Interpolitex_2013_%28536-8%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 35,
+    "facts": "This gun, or P14, was a British service rifle used during World War I and later. While intended as a successor to the Lee-Enfield, it was not mass-produced by Britain and saw limited service in the war. The P14 is known for its accuracy and was used as a sniper rifle in both World Wars.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Pattern 1914 Enfield",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rifle_Pattern_1914_Enfield_-_AM.006960.jpg/330px-Rifle_Pattern_1914_Enfield_-_AM.006960.jpg",
+    "points": 10
+  },
+  {
+    "id": 36,
+    "facts": "This gun, developed by Hiram Berdan, was a significant military rifle, particularly the Berdan II (M1870), which became the standard for the Imperial Russian Army for a time. It was a single-shot rifle that used a solid cartridge, and its adoption by Russia came after modifications by Russian officers Gorlov and Gunnius. The rifle was eventually replaced by the Mosin-Nagant rifle in 1891.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Berdan rifle",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Berdan_%E2%84%962_Models.jpg/330px-Berdan_%E2%84%962_Models.jpg",
+    "points": 10
+  },
+  {
+    "id": 37,
+    "facts": "This gun .50-caliber heavy machine gun is a long-serving weapon, known for its accuracy, destructive power, and simple operation. It was designed by John M. Browning in 1918 and has been in use for almost a century. Sometimes referred to as Ma Deuce or the fifty, it's been used extensively by the U.S. military and NATO countries, including in World War II, Korea, Vietnam, Iraq, and Afghanistan.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "M2 Browning",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PEO_Browning_M2E2_QCB_%28c1%29.jpg/330px-PEO_Browning_M2E2_QCB_%28c1%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 38,
+    "facts": "This gun was a notable bolt-action rifle known for its revolutionary straight-pull bolt action, which allowed for a faster rate of fire than traditional turn-bolt designs. It was the primary weapon of the Austro-Hungarian Army during World War I and was also used by several other countries. The rifle's design incorporated enbloc clips, which provided rapid loading and allowed for the quick insertion of preloaded five-round clips into the internal box magazine.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Mannlicher M1895",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mannlicher_M1895_from_the_Swedish_Army_Museum.jpg/330px-Mannlicher_M1895_from_the_Swedish_Army_Museum.jpg",
+    "points": 10
+  },
+  {
+    "id": 39,
+    "facts": "This gun was the first firearm produced by Sturm, Ruger & Co, launched in 1949. It's notable for being the first commercially produced .22 LR pistol. The Standard, later designated Mk I, was based on the Japanese Type 14 Nambu pistol. It was discontinued in 1982 with the introduction of the improved Mk II.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Ruger Standard",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ruger_Standard_Pistol_wood_grips.jpg/330px-Ruger_Standard_Pistol_wood_grips.jpg",
+    "points": 10
+  },
+  {
+    "id": 40,
+    "facts": "This gun was first used in combat during the Philippine–American War, and it was officially adopted by the United States as the standard infantry rifle on 19 June 1903, where it saw service in World War I, and was replaced by the faster-firing semi-automatic eight-round M1 Garand starting in 1936.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "M1903 Springfield",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/M1903_Springfield_-_USA_-_30-06_-_Arm%C3%A9museum_noBG.jpg/330px-M1903_Springfield_-_USA_-_30-06_-_Arm%C3%A9museum_noBG.jpg",
+    "points": 10
+  },
+  {
+    "id": 41,
+    "facts": "This gun, designed by George Luger, is a German semi-automatic pistol known for its unique toggle action and 9mm Parabellum cartridge. It was widely used by the German military from 1908 to 1938, and also by other countries like Switzerland and Brazil. The pistol was the first pistol to use the 9x19mm Parabellum bullet.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Luger pistol",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Luger_IMG_6768-retouched.jpg/330px-Luger_IMG_6768-retouched.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 43,
+    "facts": "This gun is a unique handgun known for its gas-seal design and historical significance. It's notable for being one of the few revolvers that can be effectively suppressed due to the unique way it seals the gap between the cylinder and barrel. The Nagant was a standard sidearm for the Russian Army during World War I and continued in use for decades afterwards.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Nagant M1895",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Nagant_Revolver.jpg/330px-Nagant_Revolver.jpg",
+    "points": 10
+  },
+  {
+    "id": 44,
+    "facts": "This gun is a Chinese bullpup assault rifle known for its unique design, use of the 5.8x42mm DBP87 cartridge, and its role as the standard service rifle of the People's Liberation Army (PLA). It features a short-stroke gas-operated piston and rotating bolt, and can be fitted with an under-barrel grenade launcher.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "QBZ-95",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/QBZ95_automatic_rifle_mod_noBG.png/330px-QBZ95_automatic_rifle_mod_noBG.png",
+    "points": 10
+  },
+  {
+    "id": 45,
+    "facts": "This gun was a German service rifle, also known as the Commission Rifle, that was adopted in 1888. It was the first German service rifle designed from the start as a repeating rifle, reflecting the shift towards magazine-fed rifles in other armies. The rifle combined elements of Mauser and Mannlicher designs, utilizing a Mannlicher-type magazine and a modified Mauser action. It was widely used in the first two years of World War I before the Gewehr 98 became more readily available.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Gewehr 1888",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Infanteriegewehr_m-1888_-_Tyskland_-_kaliber_7%2C92mm_-_Arm%C3%A9museum_noBG.png/330px-Infanteriegewehr_m-1888_-_Tyskland_-_kaliber_7%2C92mm_-_Arm%C3%A9museum_noBG.png",
+    "points": 10
+  },
+  {
+    "id": 47,
+    "facts": "This gun was a pivotal rifle in French military history, marking a transition from paper cartridges to metallic cartridges. Developed by Colonel Basile Gras, it served the French army from 1874 to 1886 and was known for its robustness and hard-hitting power. It was also used by second-line troops in World War I, modified to fire the 8mm Lebel cartridge, and even converted into grenade launchers.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Fusil Gras mle 1874",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Chatellerault_Model_1874-80_Gras_Rifle-NMAH_noBG.png/330px-Chatellerault_Model_1874-80_Gras_Rifle-NMAH_noBG.png",
+    "points": 10
+  },
+  {
+    "id": 48,
+    "facts": "This gun, a US-designed battle rifle, is notable for its long-range accuracy and powerful 7.62mm round, making it a favored choice for designated marksmen. Despite its initial intended role as a standard infantry rifle, the M14 faced challenges in the Vietnam War due to its size and weight, leading to its eventual replacement by the M16.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "M14 rifle",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/M14_Stand-off_Munitions_Disruptor_%28SMUD%29_%287414626342%29.jpg/330px-M14_Stand-off_Munitions_Disruptor_%28SMUD%29_%287414626342%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 49,
+    "facts": "This gun is notable for being one of the oldest and longest continuously produced shoulder-fired rifles in the world. It's a lever-action, .22 rimfire rifle, and its design evolved from earlier Marlin lever-action rifles like the Model 1891. The Model 39A is known for its accuracy, reliability, and classic design, making it a popular choice for both recreational shooters and collectors.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Marlin Model 39A",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Marlin39receiver.jpg/330px-Marlin39receiver.jpg",
+    "points": 10
+  },
+  {
+    "id": 50,
+    "facts": "This gun, also known as the American Enfield, is a US-made rifle based on the British Pattern 1914 (P14) rifle, modified to use the .30-06 cartridge. It was developed and manufactured during World War I and was used by US forces.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "M1917 Enfield",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/M1917_Enfield_USA_30-06_Arm%C3%A9museum_noBG.png/330px-M1917_Enfield_USA_30-06_Arm%C3%A9museum_noBG.png",
+    "points": 10
+  },
+ 
+  {
+    "id": 55,
+    "facts": "Designed by John Browning and introduced in 1892, this lever-action rifle was a stronger, more compact successor to the earlier Model 1873. It was chambered in popular revolver calibers like .44-40, .38-40, .32-20, and later .45 Colt, making it ideal for ranchers, cowboys, and lawmen of the American West. Known for its smooth action and durable construction, it was widely used for hunting and self-defense. This model has also appeared in countless Western films and TV shows, cementing its iconic status.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Winchester Model 1892",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Winchester_92_short_rifle_transparent.png/330px-Winchester_92_short_rifle_transparent.png",
+    "points": 10
+  },
+  {
+    "id": 56,
+    "facts": "Introduced in 1968 by Sturm, Ruger & Co., this bolt-action rifle was designed to offer a strong, reliable alternative to more expensive hunting rifles. Featuring a Mauser-style action, a controlled-round feed (in earlier models), and integral scope mounts, it quickly gained popularity among hunters and precision shooters. Over the years, it has been produced in various models and calibers, including the M77 Mark II and Hawkeye versions. Its rugged design and consistent performance have made it a staple in the American hunting community.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Ruger M77",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/M77_Ruger_%281%29.JPG/330px-M77_Ruger_%281%29.JPG",
+    "points": 10
+  },
+ 
+  {
+    "id": 59,
+    "facts": "The Ithaca Model 37 is a pump-action shotgun first introduced in 1937. It is known for its unique bottom-ejection design, which allows for both left- and right-handed operation. This feature makes the Model 37 stand out from other shotguns. It has been used widely by military, law enforcement, and civilian hunters alike. The shotgun is available in various gauges, including 12, 16, and 20 gauge. Its robust design and smooth operation have made it one of the most respected shotguns in the world.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Ithaca 37",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ithaca_37.jpg/330px-Ithaca_37.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 62,
+    "facts": "Introduced in 1861, this rifled musket was the standard-issue firearm for Union infantry during the American Civil War. Chambered in .58 caliber, it was a muzzle-loading weapon that featured a rifled barrel, greatly improving accuracy over smoothbore muskets. The Springfield Model 1861 was the most widely used musket during the war and played a key role in many of the major battles. Known for its reliability, it was used by both Union and Confederate forces, who also produced copies of the rifle. The rifle's design was later adapted into the Springfield Model 1863.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Springfield Model 1861",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Colt_Model_1861_Special_Musket-NMAH-ET2012-13948.jpg/330px-Colt_Model_1861_Special_Musket-NMAH-ET2012-13948.jpg",
+    "points": 10
+  },
+  {
+    "id": 63,
+    "facts": "This series of semi-automatic pistols was introduced in the 1980s and is known for its durability and solid construction. Built with a polymer frame and steel slide, these pistols are chambered in several calibers, including 9mm, .40 S&W, and .45 ACP. Known for their simple and reliable design, they feature a double-action/single-action trigger system and ambidextrous controls. The pistols in this series became popular among law enforcement and civilian shooters due to their affordability and robust performance.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Ruger P series",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ruger_P89_1.png/330px-Ruger_P89_1.png",
+    "points": 10
+  },
+  {
+    "id": 64,
+    "facts": "Introduced in the early 1870s, this bolt-action rifle was one of the first to use a true metallic cartridge, marking a significant advancement in firearm technology. Chambered in 11mm Mauser, the rifle was adopted by the German Empire and saw widespread use in conflicts such as the Franco-Prussian War. It featured a single-shot bolt-action mechanism and a robust design. The Mauser Model 1871 was the precursor to later Mauser rifles, which became iconic in both military and civilian firearms production.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Mauser Model 1871",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Infanteriegewehr_m-1871_Mauser_-_Tyskland_-_kaliber_10%2C95mm_-_Arm%C3%A9museum.jpg/330px-Infanteriegewehr_m-1871_Mauser_-_Tyskland_-_kaliber_10%2C95mm_-_Arm%C3%A9museum.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 66,
+    "facts": "Introduced in the early 1960s, this pump-action shotgun was designed for versatility and durability. Chambered in 12, 20, and .410 gauges, the Model 1200 was known for its smooth action and robust construction. It was widely used for hunting, sport shooting, and home defense. The shotgun featured a rotating bolt for added reliability and was one of the first pump-action models to be produced with a ventilated rib barrel. The Model 1200 was discontinued in 1980, but its reputation for performance lives on.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Winchester Model 1200",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Winchester_1200_Defender.png/330px-Winchester_1200_Defender.png",
+    "points": 10
+  },
+ 
+  {
+    "id": 68,
+    "facts": "This iconic submachine gun, often referred to as the 'Tommy Gun,' was designed by John T. Thompson in the early 20th century. Known for its distinctive appearance and powerful .45 ACP cartridge, it became famous during the Prohibition era, used by both law enforcement and criminals. Its high rate of fire and reliability in combat made it a favored weapon during World War II, where it was used extensively by American forces. The Thompson submachine gun was also known for its large drum magazine, which could hold up to 50 rounds, contributing to its notoriety.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Thompson submachine gun",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Campbell_Thompson.jpg/330px-Campbell_Thompson.jpg",
+    "points": 10
+  },
+  {
+    "id": 69,
+    "facts": "This semi-automatic pistol was introduced in the early 1930s and became the standard sidearm for the Soviet Union during World War II. Known for its simplicity and ruggedness, it was chambered in 7.62×25mm and was widely regarded for its powerful recoil and reliability under harsh conditions. The pistol was commonly used by Soviet troops, police forces, and was adopted by several countries in the Eastern Bloc after the war. Its design influenced numerous later models of pistols.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "TT pistol",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Tokarev_TT33_%286825679152%29.jpg/330px-Tokarev_TT33_%286825679152%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 70,
+    "facts": "This semi-automatic rifle, introduced in the early 1940s, was designed to increase the rate of fire over traditional bolt-action rifles. It was chambered in 7.62×54mmR and featured a gas-operated system, allowing soldiers to fire more rapidly in combat. While it was initially issued in large numbers during World War II, it had issues with reliability in harsh conditions. Despite these problems, it was a significant leap forward in rifle technology and influenced future designs in military firearms.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "SVT-40",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tokarew_SWT40_noBG.png/330px-Tokarew_SWT40_noBG.png",
+    "points": 10
+  },
+  
+  {
+    "id": 72,
+    "facts": "This gun is a double-action revolver introduced in the early 20th century. Chambered in .38 Special, it was primarily designed for law enforcement officers, offering a reliable, compact, and powerful handgun. Known for its rugged construction and accuracy, this gun became popular with police forces and civilian gun owners alike. It featured a solid frame and a smooth double-action trigger. Produced from 1907 until the 1960s, it remains a classic example of Colt's revolver design.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Colt Police Positive Special",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/ColtPolicePositiveSpecialCal38.jpg/330px-ColtPolicePositiveSpecialCal38.jpg",
+    "points": 10
+  },
+  {
+    "id": 73,
+    "facts": "This gun is a semi-automatic pistol introduced in the 1930s and chambered in .380 ACP. It was designed by the Italian company Beretta and became one of their most widely used handguns, particularly during World War II. Known for its compact size and reliable performance, this gun was issued to both military personnel and police forces in Italy and other countries. It featured a simple blowback action and was produced in large numbers, becoming a classic example of early 20th-century European pistols.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Beretta M1934",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Beretta_34_%286825664724%29.jpg/330px-Beretta_34_%286825664724%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 75,
+    "facts": "This gun is a double-action revolver introduced in the 1970s by Ruger. Chambered in .38 Special, .357 Magnum, and .22 LR, it was designed for law enforcement, military, and civilian use. Known for its solid construction and reliability, this gun featured a swing-out cylinder and adjustable sights. It was praised for its ruggedness and performance in various conditions. Produced until the 1980s, it was eventually replaced by newer models in the Ruger lineup but remains popular among revolver enthusiasts today.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Ruger Security-Six",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Securitysix.jpg/330px-Securitysix.jpg",
+    "points": 10
+  },
+  {
+    "id": 76,
+    "facts": "This gun is a small, lightweight semi-automatic pistol introduced by Ruger in 2008. Chambered in .380 ACP, it was designed for concealed carry and personal defense. Known for its compact size, it quickly became one of the most popular pocket pistols due to its ease of concealment and reliability. This gun features a simple blowback action, a polymer frame, and a 6-round magazine. It became a favorite among those seeking a powerful yet easy-to-carry handgun for self-defense.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Ruger LCP",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ruger_LCP_380_Pistol.png/330px-Ruger_LCP_380_Pistol.png",
+    "points": 10
+  },
+  {
+    "id": 77,
+    "facts": "This gun is a semi-automatic pistol designed by John Browning and produced from the 1930s. It was one of the most influential handguns of the 20th century, chambered in 9mm Parabellum. Known for its high capacity (holding 13 rounds in the magazine), it was widely used by military forces and law enforcement agencies around the world. Its design influenced many modern pistols, and it was notably used during World War II and beyond. The Browning Hi-Power remained in production for over 70 years and is regarded as one of the most reliable pistols ever made.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Browning Hi-Power",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/FN_Hi_Power.jpg/330px-FN_Hi_Power.jpg",
+    "points": 10
+  },
+ 
+  {
+    "id": 79,
+    "facts": "This gun is a bolt-action rifle adopted by the Italian Army in 1870. It was one of the first rifles to feature a tubular magazine, holding up to 8 rounds of the 10.4mm cartridge. Known for its early adoption of smokeless powder, this rifle represented a significant step forward in firearm technology during the late 19th century. The M1870 Vetterli was used extensively during the Third Italian War of Independence and World War I. Although it was eventually replaced by more modern designs, the Vetterli was a key part of Italy's military development during the late 1800s and early 1900s.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "M1870 Italian Vetterli",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Vetterli-Vitali.jpg/330px-Vetterli-Vitali.jpg",
+    "points": 10
+  },
+  {
+    "id": 80,
+    "facts": "This gun is a single-shot, breech-loading rifle that was produced by Remington from the 1860s into the early 20th century. Known for its simple, yet robust design, it was chambered in various calibers, including .45-70 Government and .50-70, making it suitable for military and civilian use. The rifle became popular for its strong action and was used by several armies around the world, including the United States, during the late 19th century. It was notably used in the Indian Wars and the Spanish-American War. The Rolling Block rifle's design influenced later breech-loading firearms.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Remington Rolling Block rifle",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gev%C3%A4r_m-1867_Sverige_%28Remington_-_Arm%C3%A9museum%29.jpg/330px-Gev%C3%A4r_m-1867_Sverige_%28Remington_-_Arm%C3%A9museum%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 81,
+    "facts": "This gun is a muzzle-loading, rifled musket that was introduced in the early 1850s and became the standard-issue firearm for British infantry during the Crimean War and the American Civil War. Known for its accuracy and range, it was chambered in .577 caliber and featured a percussion lock. The Pattern 1853 Enfield was widely used by both the British Army and Confederate forces in the U.S. Civil War. Its design influenced later military rifles and is considered one of the most effective muzzle-loaders of the 19th century.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Pattern 1853 Enfield",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/British_Pattern_1853_Rifle_transparent.png/330px-British_Pattern_1853_Rifle_transparent.png",
+    "points": 10
+  },
+  {
+    "id": 82,
+    "facts": "This gun is a German submachine gun introduced during World War II. It was chambered in 9mm Parabellum and became one of the most iconic weapons of the conflict. Known for its simple design and high rate of fire, this gun was used extensively by German forces and later by several other countries. It featured a folding stock for ease of carrying and was highly effective in close combat. The MP 40’s reliability and ease of use made it a preferred choice for infantry, paratroopers, and vehicle crews.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "MP 40",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MP_40_AYF_2.JPG/330px-MP_40_AYF_2.JPG",
+    "points": 10
+  },
+ 
+  {
+    "id": 84,
+    "facts": "This gun is a Swiss-made, straight-pull bolt-action rifle first introduced in the 1880s and adopted by the Swiss Army. It was chambered in 7.5×55mm Swiss and was known for its accuracy, ruggedness, and innovative straight-pull bolt design, which allowed for quicker follow-up shots compared to traditional bolt-action rifles. The Schmidt–Rubin rifle was used by Swiss forces through both World Wars and remained in service for decades. Its design was highly influential and is still appreciated by collectors and shooting enthusiasts today.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Schmidt–Rubin",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Schmidt-Rubin-2.jpg/330px-Schmidt-Rubin-2.jpg",
+    "points": 10
+  },
+  {
+    "id": 85,
+    "facts": "This gun is a double-action revolver introduced in 1935 by Smith & Wesson. Chambered in .357 Magnum, it was one of the first revolvers to be designed specifically for the powerful .357 Magnum cartridge. Known for its accuracy, durability, and sleek design, this revolver quickly became a favorite among law enforcement and gun enthusiasts. It was also popular in competitive shooting sports and was widely used by police forces during the mid-20th century. The Model 27's solid frame and smooth trigger pull contributed to its reputation as one of the finest revolvers ever made.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Smith & Wesson Model 27",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Flickr_-_~Steve_Z~_-_S%5EW_Pre_27_Six_Inch_%284%29.jpg/330px-Flickr_-_~Steve_Z~_-_S%5EW_Pre_27_Six_Inch_%284%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 86,
+    "facts": "This gun is a bolt-action rifle introduced in the late 19th century, designed by the Austrian engineer Ferdinand Mannlicher. It was chambered in 8×50mmR and became the standard issue for the Austrian and Hungarian armies. Known for its innovative internal magazine, which was loaded via a stripper clip, the M1886 offered a higher rate of fire compared to earlier bolt-action designs. While not as widely used as some other military rifles, it influenced later Mannlicher designs and is considered an important step in the development of modern military rifles.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Mannlicher M1886",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Mannlicher_M1886.JPG/330px-Mannlicher_M1886.JPG",
+    "points": 10
+  },
+  {
+    "id": 87,
+    "facts": "This gun is a semi-automatic pistol introduced in 1938 by the German arms manufacturer Walther. Chambered in 9mm Parabellum, it became the standard sidearm of the German military during World War II, replacing the Luger P08. The P38 was one of the first pistols to feature a double-action/single-action mechanism and a decocking lever, making it a modern and innovative design for its time. Known for its durability and accuracy, it was widely used by both Axis forces and later by several other countries after the war.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Walther P38",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Walther_P38_%286971798779%29.jpg/330px-Walther_P38_%286971798779%29.jpg",
+    "points": 10
+  },
+  
+  {
+    "id": 90,
+    "facts": "This gun is a bolt-action rifle introduced in 1936 and became the standard service rifle of the French Army during and after World War II. It was chambered in 7.5×54mm French and was known for its robust design and reliability. The MAS-36 featured a distinctive straight-pull bolt action and a monopod for better stability when firing. While it was used primarily by French forces during the mid-20th century, it also saw service in various conflicts worldwide. The MAS-36 was eventually replaced by the semi-automatic FAMAS but remains a significant piece of French military history.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "MAS-36 rifle",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/MAS_Mod%C3%A8le_36_noBG.png/330px-MAS_Mod%C3%A8le_36_noBG.png",
+    "points": 10
+  },
+  {
+    "id": 91,
+    "facts": "This gun is a semi-automatic rifle introduced by Ruger in 1974. Chambered in .223 Remington, it was designed to be a compact, reliable, and versatile firearm for both law enforcement and civilian use. The Mini-14 features a gas-operated, rotating bolt action and is known for its accuracy, lightweight design, and rugged durability. It became popular among ranchers, sports shooters, and even law enforcement agencies, as it was a more civilian-friendly version of the military’s M14 rifle. The Ruger Mini-14 remains in production today and continues to be widely used.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Ruger Mini-14",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mini14GB_noBG.jpg/330px-Mini14GB_noBG.jpg",
+    "points": 10
+  },
+  {
+    "id": 92,
+    "facts": "This gun is a semi-automatic pistol introduced in 1975 by the Czech firearms manufacturer Česká zbrojovka (CZ). Chambered in 9mm Parabellum, the CZ 75 quickly gained a reputation for its accuracy, reliability, and ergonomic design. Known for its all-steel frame, double-action/single-action trigger system, and high magazine capacity, the CZ 75 became one of the most widely used pistols globally. It has been adopted by law enforcement and military forces in several countries and remains a popular choice among competitive shooters and civilians.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "CZ 75",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/CZ_75_short_rail_1975-79.png/330px-CZ_75_short_rail_1975-79.png",
+    "points": 10
+  },
+  {
+    "id": 93,
+    "facts": "This gun is a semi-automatic pistol first introduced in 1896 by the German manufacturer Mauser. Known for its distinctive 'broomhandle' design, the C96 was chambered in various calibers, including 7.63×25mm Mauser. It was one of the first pistols to use a detachable magazine and was widely used during both World Wars, as well as by various revolutionary movements and militias worldwide. The C96’s unique appearance and cutting-edge design at the time made it one of the most iconic pistols of the early 20th century.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Mauser C96",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mauser_C96_7%2C63_%286971794467%29.jpg/330px-Mauser_C96_7%2C63_%286971794467%29.jpg",
+    "points": 10
+  },
+ 
+  {
+    "id": 95,
+    "facts": "This gun is a lever-action rifle introduced by Marlin Firearms in 1894. Chambered in .32-20 Winchester and later in .44-40 Winchester, it quickly became popular for hunting and self-defense due to its reliable design and powerful cartridges. The Marlin Model 1894 was known for its smooth action and strong construction, making it one of the most widely used lever-action rifles of the time. It remains in production today in various calibers and continues to be favored by hunters and sport shooters for its accuracy and versatility.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Marlin Model 1894",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%22The_Marlin_Repeating_Rifle%22_ad_detail%2C_Virginia_Tech_Bugle_1897_%28page_199_crop%29.jpg/330px-%22The_Marlin_Repeating_Rifle%22_ad_detail%2C_Virginia_Tech_Bugle_1897_%28page_199_crop%29.jpg",
+    "points": 10
+  },
+ 
+  {
+    "id": 97,
+    "facts": "This gun is a general-purpose machine gun introduced by the Soviet Union in the early 1960s. Chambered in 7.62×54mmR, the PK machine gun was designed to provide infantry units with a versatile weapon capable of both sustained fire and portability. It uses a gas-operated, belt-fed system and can be mounted on tripods, vehicles, or used as a light machine gun. Known for its durability and reliability in harsh conditions, the PK was widely adopted by Soviet and later Russian forces, as well as by many other countries and armed groups around the world.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "PK machine gun",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SpB-Museum-artillery-114.jpg/330px-SpB-Museum-artillery-114.jpg",
+    "points": 10
+  },
+  {
+    "id": 98,
+    "facts": "This gun is a series of semi-automatic pistols and rifles introduced by Smith & Wesson in 2005. The M&P (Military & Police) line was designed for law enforcement, military, and civilian use, offering a wide variety of models in different calibers, including 9mm, .40 S&W, and .45 ACP. Known for its ergonomic design, customizable features, and durability, the M&P series quickly became popular among law enforcement agencies and civilian shooters. The M&P line includes both full-size and compact models, and it continues to be one of Smith & Wesson's flagship product lines.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Smith & Wesson M&P",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/S%26W_M%26P_.40_left_side_b.jpg/330px-S%26W_M%26P_.40_left_side_b.jpg",
+    "points": 10
+  },
+  
+ 
+  {
+    "id": 101,
+    "facts": "This gun is a double-action revolver introduced by Colt in 1927. Chambered in .38 Special, the Official Police was designed for law enforcement and military use. It was known for its solid construction, smooth action, and accuracy. The revolver was widely adopted by police departments in the U.S. and other countries, becoming a standard issue for many law enforcement agencies for several decades. While the Colt Official Police was eventually replaced by semi-automatic pistols in most departments, it remains a classic example of mid-20th-century revolver design.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Colt Official Police",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Colt_Official_Police_32-20_1927.png/330px-Colt_Official_Police_32-20_1927.png",
+    "points": 10
+  },
+  {
+    "id": 102,
+    "facts": "This gun is a Soviet-designed heavy machine gun first introduced in 1938. The DShK (Degtyaryov-Shpagin Krupnokaliberny) is chambered in 12.7×108mm and was designed to provide long-range fire support. Known for its durability, the DShK was used extensively during World War II and beyond by Soviet and other Warsaw Pact forces. The DShK was versatile, being mounted on vehicles, aircraft, and used as a tripod-mounted machine gun in ground combat. Its powerful cartridge made it effective against both infantry and light vehicles, and it remains in use by various military forces today.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "DShK",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/12%2C7-%D0%BC%D0%BC_%D1%81%D1%82%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D1%83%D0%BB%D0%B5%D0%BC%D1%91%D1%82_%D0%94%D0%A8%D0%9A_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D1%86%D0%B0_1938_%D0%B3%D0%BE%D0%B4%D0%B0_%283-1%29.jpg/330px-12%2C7-%D0%BC%D0%BC_%D1%81%D1%82%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D1%83%D0%BB%D0%B5%D0%BC%D1%91%D1%82_%D0%94%D0%A8%D0%9A_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D1%86%D0%B0_1938_%D0%B3%D0%BE%D0%B4%D0%B0_%283-1%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 103,
+    "facts": "This gun is a gas-operated, selective-fire assault rifle introduced in 1958 by Czechoslovakia. Chambered in 7.62×39mm, the vz. 58 is often mistaken for a variant of the AK-47 due to its similar appearance, but it is a completely different design. Unlike the AK-47, the vz. 58 uses a stamped receiver and has a unique operating mechanism. It was used by Czechoslovakian and later Czech and Slovak military forces, and while it was phased out of standard service in favor of the NATO-standard 5.56mm rifles, it remains in use by various military and paramilitary groups around the world.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "vz. 58",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sa_58-JH01.jpg/330px-Sa_58-JH01.jpg",
+    "points": 10
+  },
+  {
+    "id": 104,
+    "facts": "This gun is a series of semi-automatic pistols produced by the Brazilian firearms manufacturer Taurus. The Millennium series, introduced in the early 2000s, was designed to be compact, lightweight, and affordable for concealed carry. Chambered primarily in 9mm and .40 S&W, the Millennium pistols feature a double-action only (DAO) mechanism and a polymer frame, making them popular choices for personal defense. Known for their reliability and ease of use, the Millennium series has been widely adopted by civilian users, law enforcement, and private security.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Taurus Millennium series",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Taurus_PT145B.jpg/330px-Taurus_PT145B.jpg",
+    "points": 10
+  },
+  {
+    "id": 105,
+    "facts": "This gun is a South Korean-designed assault rifle introduced in 1984 by Daewoo Precision Industries. Chambered in 5.56×45mm NATO, the K2 was designed to be the standard issue rifle for the Republic of Korea Armed Forces. The rifle is known for its robust construction, accuracy, and ease of use, with features such as a gas-operated, rotating bolt system, and compatibility with NATO-standard magazines. The K2 remains in service with South Korean forces and has also been used by several other countries and military units around the world.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Daewoo Precision Industries K2",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Daewoo_K2_rifle_1.jpg/330px-Daewoo_K2_rifle_1.jpg",
+    "points": 10
+  },
+  {
+    "id": 106,
+    "facts": "This gun is a semi-automatic pistol introduced by Belgian arms manufacturer FN Herstal in 1900. Chambered in .32 ACP, the FN M1900 was one of the first commercially successful self-loading pistols and played a significant role in the development of modern handguns. Known for its simple blowback operation and compact design, the M1900 was widely used by military and police forces, as well as civilians. It was notable for its influence on the design of subsequent pistols and its iconic early 20th-century aesthetics.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "FN M1900",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Browning_1900_%286971783631%29.jpg/330px-Browning_1900_%286971783631%29.jpg",
+    "points": 10
+  },
+  {
+    "id": 107,
+    "facts": "This gun is a single-shot, breech-loading rifle introduced in 1871 by the British army. It was chambered in .577/450 Martini-Henry, a powerful black powder cartridge. The Martini-Henry is known for its distinctive falling-block action, which provided a reliable and quick method of reloading. It was used extensively by British forces in the late 19th century, including during the Anglo-Zulu War and the Second Anglo-Afghan War. The rifle was eventually replaced in British service but remains an iconic part of military history due to its service during the British Empire's height.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Martini–Henry",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Martini-Henry_m1871_-_England_-_AM.032017.jpg/330px-Martini-Henry_m1871_-_England_-_AM.032017.jpg",
+    "points": 10
+  },
+  {
+    "id": 108,
+    "facts": "This gun is a semi-automatic pistol that was manufactured in Spain during the early 20th century. Chambered in .32 ACP, the Ruby pistol was a cheap, compact handgun produced in large numbers, particularly during World War I. It was widely used by French and other allied forces during the war, as a sidearm for soldiers, though its reliability was often questioned. Despite its drawbacks, the Ruby pistol became one of the most common sidearms of the Great War, and it played a significant role in shaping the design of later pistols.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Ruby pistol",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ruby_1914-IMG_7361-gradient.jpg/330px-Ruby_1914-IMG_7361-gradient.jpg",
+    "points": 10
+  },
+  {
+    "id": 109,
+    "facts": "This gun is a Soviet-designed general-purpose machine gun that was first introduced in 1927. The Degtyaryov machine gun, also known as the DP-27, is chambered in 7.62×54mmR and was designed to be a light, belt-fed machine gun capable of providing sustained fire support. It was widely used during World War II by the Soviet Union and remained in service for many years. The DP-27 was known for its distinctive top-mounted, pan-style magazine and reliable performance, even in harsh conditions, making it a key weapon for Soviet infantry forces during the war.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Degtyaryov machine gun",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Machine_gun_DP_MON.jpg/330px-Machine_gun_DP_MON.jpg",
+    "points": 10
+  },
+  {
+    "id": 110,
+    "facts": "This gun is a bolt-action rifle that was developed in the 1890s by the Danish inventor Ole Krag and the Norwegian military. The Krag–Jørgensen was the standard infantry rifle of both Denmark and Norway and later saw use in several other countries. It was chambered in 6.5×55mm Swedish or 7.62×54mm for some variants. The rifle is known for its smooth, rear-locking bolt mechanism and internal magazine, which allowed for faster reloading compared to earlier designs. The Krag–Jørgensen was notably used by Norwegian forces during World War II and was highly regarded for its accuracy and reliability.",
+    "question": "Can you name this gun?",
+    "correctAnswer": "Krag–Jørgensen",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gev%C3%A4r_f%C3%B6rs%C3%B6ksmodell_1892_Krag-J%C3%B6rgensen_Norge_-_Arm%C3%A9museum.jpg/330px-Gev%C3%A4r_f%C3%B6rs%C3%B6ksmodell_1892_Krag-J%C3%B6rgensen_Norge_-_Arm%C3%A9museum.jpg",
+    "points": 10
+  }
+]

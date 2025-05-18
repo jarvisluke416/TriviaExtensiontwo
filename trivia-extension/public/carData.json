@@ -1,0 +1,1586 @@
+[
+    {
+      "id": 1,
+      "facts": "This stylish compact car was designed by one of Italy's most iconic automakers and debuted at the Geneva Motor Show in 2010, blending performance with elegant European design.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Alfa Romeo Giulietta",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/1960_Alfa_Romeo_Giulietta_Berlina_Normale_%282nd_series%29_fR.jpg/330px-1960_Alfa_Romeo_Giulietta_Berlina_Normale_%282nd_series%29_fR.jpg",
+      "points": 10
+    },
+    {
+      "id": 2,
+      "facts": "This muscle car was a high-performance version of a mid-size model from an American automaker known for bold styling and limited-edition packages during the early 1970s.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "AMC Machine",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/1970_AMC_Rebel_The_Machine_log-Cecil%2710.jpg/330px-1970_AMC_Rebel_The_Machine_log-Cecil%2710.jpg",
+      "points": 10
+    },
+    {
+      "id": 3,
+      "facts": "This modern hatchback was a revival of a historic nameplate and was known for its blend of sportiness and Italian flair.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Alfa Romeo Giulietta",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/1960_Alfa_Romeo_Giulietta_Berlina_Normale_%282nd_series%29_fR.jpg/330px-1960_Alfa_Romeo_Giulietta_Berlina_Normale_%282nd_series%29_fR.jpg",
+      "points": 10
+    },
+    {
+      "id": 4,
+      "facts": "This luxurious convertible is part of a British marque known for building elegant grand tourers with James Bond pedigree.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Aston Martin Volante",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Aston_Martin_DB12_Volante_IMG_9314.jpg",
+      "points": 10
+    },
+    {
+      "id": 5,
+      "facts": "This rugged yet refined station wagon combined German engineering with all-wheel drive capability, ideal for both road trips and mountain roads.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Audi allroad quattro",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/AUDI_A4_ALLROAD_QUATTRO_B8_China.jpg",
+      "points": 10
+    },
+    {
+      "id": 6,
+      "facts": "This electric SUV marked a major step in one of Germany’s most iconic automaker’s shift toward zero-emissions mobility.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Audi e-tron Quattro",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Audi%2C_Paris_Motor_Show_2018%2C_Paris_%281Y7A1758%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 7,
+      "facts": "This SUV family represents the brand’s blend of performance and practicality, and includes models ranging from compact to full-size luxury.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "BMW X",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/BMW_iX_China.jpg",
+      "points": 10
+    },
+    {
+      "id": 8,
+      "facts": "This futuristic SUV from a Chinese EV manufacturer is named after a sea creature and showcases bold tech features and electric range.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "BYD Sealion",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BYD_Sealion_05_DM-i_Sanming_01_2024-12-23.jpg/330px-BYD_Sealion_05_DM-i_Sanming_01_2024-12-23.jpg",
+      "points": 10
+    },
+    {
+      "id": 9,
+      "facts": "This luxury sedan was designed specifically for the Chinese market and offered executive comfort with a distinctive American flair.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Cadillac SLS",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Cadillac_SLS_01_China_2012-04-29.JPG",
+      "points": 10
+    },
+    {
+      "id": 10,
+      "facts": "This tiny city car became famous in emerging markets for its ultra-affordable price tag and compact design.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chery QQ",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Chery_QQ3_Sport_02_China_2012-06-02.jpg/330px-Chery_QQ3_Sport_02_China_2012-06-02.jpg",
+      "points": 10
+    },
+    {
+      "id": 11,
+      "facts": "This midsize SUV has gone through several transformations, including sporty and off-road variants, since its debut in the late 1960s.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chevrolet Blazer",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/1979_Chevrolet_K5_Blazer_Cheyenne.jpg/330px-1979_Chevrolet_K5_Blazer_Cheyenne.jpg",
+      "points": 10
+    },
+    {
+      "id": 12,
+      "facts": "This pickup truck trim name became iconic in North America, symbolizing rugged utility combined with premium features.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chevrolet Cheyenne",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Chevrolet_Cheyenne_%282%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 13,
+      "facts": "This sedan was a fleet favorite in North America and served as a reliable and budget-friendly option for years.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chevrolet Classic",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chevrolet_classic_front_right.jpg/330px-Chevrolet_classic_front_right.jpg",
+      "points": 10
+    },
+    {
+      "id": 14,
+      "facts": "This American sports car variant is known for its track-ready performance, aggressive aerodynamics, and roaring V8 engine.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chevrolet Corvette Z06",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Chevrolet_Corvette_Z06_2006_Ulva.jpg",
+      "points": 10
+    },
+    {
+      "id": 15,
+      "facts": "This compact pickup truck was a collaborative effort between an American and Japanese automaker, known for its durability and affordability.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chevrolet LUV",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Chevrolet_LUV_ver2.JPG/330px-Chevrolet_LUV_ver2.JPG",
+      "points": 10
+    },
+    {
+      "id": 16,
+      "facts": "This compact sedan shared its platform with models from Daewoo and was sold in multiple global markets under different brand names.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chevrolet Optra",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/2007-2008_Chevrolet_Optra_Magnum_01.jpg/330px-2007-2008_Chevrolet_Optra_Magnum_01.jpg",
+      "points": 10
+    },
+    {
+      "id": 17,
+      "facts": "This budget-friendly subcompact sedan was developed primarily for Latin American markets, offering practicality and fuel efficiency.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chevrolet Prisma",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Chevrolet_Prisma_20150902-IMG_20150902_143712.JPG/330px-Chevrolet_Prisma_20150902-IMG_20150902_143712.JPG",
+      "points": 10
+    },
+    {
+      "id": 18,
+      "facts": "This small SUV began as a rebadged Suzuki model and evolved into a popular crossover under its American badge.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chevrolet Tracker",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%2798_Chevy_Tracker.jpg/330px-%2798_Chevy_Tracker.jpg",
+      "points": 10
+    },
+    {
+      "id": 19,
+      "facts": "This midsize SUV offers off-road capability and three-row seating, and its name suggests adventure beyond paved roads.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chevrolet Trailblazer",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/99-02_Chevrolet_Blazer_TrailBlazer.jpg/330px-99-02_Chevrolet_Blazer_TrailBlazer.jpg",
+      "points": 10
+    },
+    {
+      "id": 20,
+      "facts": "This full-size luxury sedan is known for its bold styling, rear-wheel drive, and strong V8 performance, especially popular in the U.S.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chrysler 300C",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Chrysler-300C.jpg",
+      "points": 10
+    },
+    {
+      "id": 21,
+      "facts": "This modern minivan redefined family transport with sleek design and hybrid efficiency, continuing a legacy from its early 2000s roots.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chrysler Pacifica",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2020_Chrysler_Pacifica_Touring-L_in_Bright_White%2C_front_left.jpg/330px-2020_Chrysler_Pacifica_Touring-L_in_Bright_White%2C_front_left.jpg",
+      "points": 10
+    },
+    {
+      "id": 22,
+      "facts": "This compact sedan was a facelifted version of a popular Korean model, rebadged and sold in Eastern Europe and Central Asia.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Daewoo Gentra",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/00_daewoo_gentra_x_1.jpg",
+      "points": 10
+    },
+    {
+      "id": 23,
+      "facts": "This boxy commercial vehicle was known for its utility and was a common sight in Asian markets for cargo and transport duties.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Daihatsu Delta",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Daihatsu_Delta_Diesel_1983.jpg",
+      "points": 10
+    },
+    {
+      "id": 24,
+      "facts": "This compact 4x4 was a rugged off-road option from a Japanese automaker and competed with small SUVs in the 1990s.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Daihatsu Feroza",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/1990_Daihatsu_Feroza_1.6_EL-II_%28F300%29.jpg/330px-1990_Daihatsu_Feroza_1.6_EL-II_%28F300%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 25,
+      "facts": "This compact SUV has been reimagined several times since the 1980s and is known for its boxy styling and off-road capability.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Daihatsu Rocky",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/1989_Daihatsu_Rocky_2.0_DX_Wagon.jpg/330px-1989_Daihatsu_Rocky_2.0_DX_Wagon.jpg",
+      "points": 10
+    },
+    {
+      "id": 26,
+      "facts": "This small hatchback from Japan was designed for urban commuting and became popular for its practicality and fuel efficiency.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Daihatsu Sirion",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2016_Daihatsu_Sirion_1.3_Sport_hatchback_%28M602RS%3B_12-15-2018%29%2C_South_Tangerang.jpg/330px-2016_Daihatsu_Sirion_1.3_Sport_hatchback_%28M602RS%3B_12-15-2018%29%2C_South_Tangerang.jpg",
+      "points": 10
+    },
+    {
+      "id": 27,
+      "facts": "This rugged mini SUV has been marketed as both a lifestyle and off-road vehicle, especially in Asian markets.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Daihatsu Taft",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/The_frontview_of_Daihatsu_TAFT_G_2WD_%286BA-LA900S-GBGF%29_with_plating_package.jpg",
+      "points": 10
+    },
+    {
+      "id": 28,
+      "facts": "This luxury sedan carried a V12 engine and was the flagship model of a British marque closely associated with Jaguar.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Daimler Double-Six",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/1935_Daimler_Double-Six.jpg",
+      "points": 10
+    },
+    {
+      "id": 29,
+      "facts": "This compact car helped establish a Japanese brand's reputation in North America during the fuel-conscious 1970s.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Datsun 210",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/1959_Datsun_1000_211.jpg/330px-1959_Datsun_1000_211.jpg",
+      "points": 10
+    },
+    {
+      "id": 30,
+      "facts": "This upscale version of a Japanese sedan shared DNA with early Nissan Maximas and was sold under a now-retired brand.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Datsun 810",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/1977_Datsun_810_Wagon.jpg/330px-1977_Datsun_810_Wagon.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 32,
+      "facts": "This legendary muscle car is famous for its aggressive looks, powerful engines, and long-standing role in American car culture.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Dodge Charger",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/1969_Dodge_Charger_%2821572136732%29.jpg/330px-1969_Dodge_Charger_%2821572136732%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 33,
+      "facts": "This early post-war sports car helped launch a now-iconic Italian brand’s racing legacy with victories in Mille Miglia and Le Mans.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ferrari 166",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/1948-03-15_Ferrari_166_Inter_007S_sida.jpg",
+      "points": 10
+    },
+    {
+      "id": 34,
+      "facts": "This grand tourer succeeded one of Ferrari’s first road cars and was built in various body styles including coupé and cabriolet.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ferrari 212",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/1952_Ferrari_212_Export_Vignale_Cabriolet_%2819011674504%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 35,
+      "facts": "This luxury V12-powered GT was one of Ferrari’s more understated models, designed for comfort as well as performance in the 1980s.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ferrari 412",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Ferrari_412%2C_TC_24%2C_Essen_%28TCE42741-RR%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 36,
+      "facts": "This subcompact hatchback, based on a Mazda platform, was marketed for its affordability and fuel efficiency in the 1990s.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Aspire",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnpstpiy25GZ0ZL3ny8OJ1s88fQVGOB0EMiggGa0pVm6T8x1HGnpkowzG6vVJNr6pjxpvfMCg_CovdS6QbAdRuObpJeB089nB4GFpzDyDUd2FFaGOvNJR5Kc4x15Zy_MFVEKcew4jojTXX8SwmMYsvW4NjeDwOJLZnzVgWVXj15cvYAEqvWkezSDI5/s1600/Screenshot%20%2827%29.png",
+      "points": 10
+    },
+    {
+      "id": 37,
+      "facts": "This concept SUV showcased a bold design direction for future Ford utility vehicles, aimed at rugged adventure and off-road style.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Equator Concept",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ford_Equator_concept.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 39,
+      "facts": "This nameplate was used for several generations of sedans and wagons, and became iconic in both American and Australian markets.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Falcon",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/1960-Ford-Falcon-4dr-Sed.jpg/330px-1960-Ford-Falcon-4dr-Sed.jpg",
+      "points": 10
+    },
+    {
+      "id": 40,
+      "facts": "This midsize sedan was part of Ford’s global strategy, known for its sharp styling, hybrid option, and popularity in North America.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Fusion",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/2006_Ford_Fusion_--_NHTSA.jpg",
+      "points": 10
+    },
+    {
+      "id": 41,
+      "facts": "This compact pickup returned in recent years as a unibody truck, blending SUV comfort with truck utility.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Maverick",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/1973_Ford_Maverick_01_%28cropped%29.jpg/330px-1973_Ford_Maverick_01_%28cropped%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 42,
+      "facts": "Originally a compact coupe, this name was revived for a sporty crossover in Europe, blending athletic design with practicality.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Puma",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/1999_Ford_Puma_16_1.7.jpg/330px-1999_Ford_Puma_16_1.7.jpg",
+      "points": 10
+    },
+    {
+      "id": 43,
+      "facts": "This versatile midsize pickup is a global workhorse known for its durability, off-road variants, and wide appeal.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Ranger",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ford_Ranger_%28T6%2C_P703%29_Wildtrak_IMG_7320.jpg/330px-Ford_Ranger_%28T6%2C_P703%29_Wildtrak_IMG_7320.jpg",
+      "points": 10
+    },
+    {
+      "id": 44,
+      "facts": "This platform from GM underpinned several compact cars in the 1980s and 1990s and marked a shift toward front-wheel drive designs.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "General Motors P platform",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/General_Motors_EV1_front-left_2016_Shanghai_Auto_Museum.jpg/330px-General_Motors_EV1_front-left_2016_Shanghai_Auto_Museum.jpg",
+      "points": 10
+    },
+    {
+      "id": 45,
+      "facts": "This rebadged version of the Toyota Camry was sold in Australia through a partnership between Holden and Toyota.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Holden Apollo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/1995_Holden_Apollo_%28JM%29_SLX_sedan_%282016-01-04%29_01.jpg/330px-1995_Holden_Apollo_%28JM%29_SLX_sedan_%282016-01-04%29_01.jpg",
+      "points": 10
+    },
+    {
+      "id": 46,
+      "facts": "This mid-size SUV was Holden's entry into the growing crossover market and was based on a global GM platform.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Holden Captiva",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2017_Holden_Captiva_%28CG_MY17%29_Active_2WD_wagon_%282018-08-06%29_01.jpg/330px-2017_Holden_Captiva_%28CG_MY17%29_Active_2WD_wagon_%282018-08-06%29_01.jpg",
+      "points": 10
+    },
+    {
+      "id": 47,
+      "facts": "This full-size sedan from Holden was known for its luxury features and strong V8 performance during the 1960s.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Holden Premier",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Holden_HQ_Premier_Sedan..JPG/330px-Holden_HQ_Premier_Sedan..JPG",
+      "points": 10
+    },
+    {
+      "id": 48,
+      "facts": "This rugged utility vehicle, built on a truck platform, became Holden's answer to the growing popularity of mid-size pickups.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Holden Rodeo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2007-2008_Holden_RA_Rodeo_LX_Crew_Cab_4-door_utility_01.jpg/330px-2007-2008_Holden_RA_Rodeo_LX_Crew_Cab_4-door_utility_01.jpg",
+      "points": 10
+    },
+    {
+      "id": 49,
+      "facts": "This luxury sedan from Holden was positioned as a high-end version of the Commodore, with more premium features and comfort.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Holden Royale",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/1981-1984_Holden_VH_Commodore_Royale_sedan_%28New_Zealand_Police%29_01.jpg/330px-1981-1984_Holden_VH_Commodore_Royale_sedan_%28New_Zealand_Police%29_01.jpg",
+      "points": 10
+    },
+    {
+      "id": 50,
+      "facts": "This compact crossover, primarily marketed in Japan, offered a combination of SUV styling with sedan-like comfort.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Honda Avancier",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2001_Honda_Avancier_01.jpg/330px-2001_Honda_Avancier_01.jpg",
+      "points": 10
+    },
+    {
+      "id": 51,
+      "facts": "This small hatchback was known for its compact size and high fuel efficiency, becoming especially popular in European markets.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Honda Jazz",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/1985_Honda_Jazz_1.2_Luxe_Hondamatic_%2816325497345%29.jpg/330px-1985_Honda_Jazz_1.2_Luxe_Hondamatic_%2816325497345%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 52,
+      "facts": "This family-friendly minivan offered versatility and comfort, featuring sliding doors and a range of trim options.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Honda Odyssey",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/1979_Honda_Odyssey_FL250b.jpg/330px-1979_Honda_Odyssey_FL250b.jpg",
+      "points": 10
+    },
+    {
+      "id": 53,
+      "facts": "This compact van, based on the Civic platform, was aimed at urban markets, offering a combination of practicality and Honda reliability.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Honda Partner",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gyomusha2.jpg/330px-Gyomusha2.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 55,
+      "facts": "This early compact car from Hudson became popular in the U.S. for its practicality and was among the first to be marketed as a ‘family car’.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Hudson Rambler",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/1955_Hudson_Rambler_2-door_AACA_Iowa_2012_b.jpg/330px-1955_Hudson_Rambler_2-door_AACA_Iowa_2012_b.jpg",
+      "points": 10
+    },
+    {
+      "id": 56,
+      "facts": "This versatile van, sold primarily in Asia and Europe, was often used for both passenger and cargo purposes with excellent durability.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Hyundai H-1",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/2012_Hyundai_H-1_%28first_facelift%29.jpg/330px-2012_Hyundai_H-1_%28first_facelift%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 57,
+      "facts": "This compact commercial vehicle, built by Hyundai, was designed for small business owners and featured a robust truck platform.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Hyundai H-100",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hyundai_H100.JPG/330px-Hyundai_H100.JPG",
+      "points": 10
+    },
+    {
+      "id": 58,
+      "facts": "This luxury sedan series from Infiniti offered a blend of performance and comfort, with a focus on a premium driving experience.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Infiniti Q",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/16-08-17-Infiniti_Q30_RalfR-WP_20160817_10_57_49_Pro.jpg",
+      "points": 10
+    },
+    {
+      "id": 59,
+      "facts": "This full-size luxury SUV from Infiniti featured cutting-edge technology and a high-end interior, perfect for both off-road and on-road comfort.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Infiniti QX",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/INFINITI_QX80_%28Z62%29_China.jpg/330px-INFINITI_QX80_%28Z62%29_China.jpg",
+      "points": 10
+    },
+    {
+      "id": 60,
+      "facts": "This supercar was a rare hand-built masterpiece, designed for high performance, and named after the legendary racing car driver.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Isdera Commendatore",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Isdera_Commendatore_112i%2C_front_right_%28Saratoga%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 61,
+      "facts": "This mid-size SUV from Isuzu was well-regarded for its ruggedness and reliability, popular in markets requiring both city and off-road capability.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Isuzu Rodeo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/1991-1992_Holden_Rodeo_%28TF%29_DLX_2-door_cab_chassis_%282010-09-23%29.jpg/330px-1991-1992_Holden_Rodeo_%28TF%29_DLX_2-door_cab_chassis_%282010-09-23%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 62,
+      "facts": "This British luxury sedan was part of Jaguar's post-war model lineup and became known for its advanced engineering and stylish design.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Jaguar 2.4 Litre",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Jaguar_E-Type_Series_1_4.2_Litre_1967.jpg",
+      "points": 10
+    },
+    {
+      "id": 63,
+      "facts": "This luxury car from Jaguar provided a powerful engine and elegant design, helping establish Jaguar's reputation for producing refined vehicles.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Jaguar 3.4 Litre",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Jaguar_MK_II_3.4_Litre-_6301941.jpg",
+      "points": 10
+    },
+    {
+      "id": 64,
+      "facts": "This stylish sedan from Jaguar balanced luxury with performance, known for its distinctive appearance and impressive on-road performance.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Jaguar S-Type",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/1966-Jaguar-S-type.jpg/330px-1966-Jaguar-S-type.jpg",
+      "points": 10
+    },
+    {
+      "id": 65,
+      "facts": "This high-performance luxury sedan from Jaguar was known for its sleek design, advanced technology, and sport-oriented features.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Jaguar XJR",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/1991_Jaguar_XJR-15_6.0.jpg",
+      "points": 10
+    },
+    {
+      "id": 66,
+      "facts": "This full-size SUV from Jeep offered three-row seating and advanced off-road capability, making it a unique offering in the luxury SUV market.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Jeep Commander",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jeep-Commander.jpg/330px-Jeep-Commander.jpg",
+      "points": 10
+    },
+    {
+      "id": 67,
+      "facts": "This retro-inspired pickup from Jeep reintroduced the Gladiator name, merging Jeep's off-road prowess with truck utility.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Jeep Gladiator",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Hoonigan_Jeep_Gladiator%2C_EMS_23%2C_Essen_%28P1170041-RR%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 68,
+      "facts": "This compact hatchback from Kia, designed with a focus on affordability and practicality, became one of the brand's best sellers.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Kia Pride",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kia_Pride_silver_vl.jpg/330px-Kia_Pride_silver_vl.jpg",
+      "points": 10
+    },
+    {
+      "id": 69,
+      "facts": "This compact car from Kia, known for its affordability and practical design, became a popular choice for urban drivers.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Kia Spectra",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/1st-Kia-Spectra-sedan.jpg",
+      "points": 10
+    },
+    {
+      "id": 70,
+      "facts": "This mid-size sedan from Lincoln was known for its luxury features and elegant design, bridging the gap between classic and modern styling.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Lincoln Zephyr",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Lincoln_Zephyr_1939.jpg/330px-Lincoln_Zephyr_1939.jpg",
+      "points": 10
+    },
+    {
+      "id": 71,
+      "facts": "This small car from Mazda was marketed globally and became known for its compact size and fuel efficiency, especially in urban environments.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mazda 121",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/1988_Mazda_121_%28DA%29_Fun_Top_3-door_hatchback_%282012-01-15%29.jpg/330px-1988_Mazda_121_%28DA%29_Fun_Top_3-door_hatchback_%282012-01-15%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 72,
+      "facts": "This luxury sedan from Mazda was designed to provide a high level of comfort, combining performance with premium features.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mazda 929",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mazda_929_arriving_Schaffen-Diest_2018.jpg/330px-Mazda_929_arriving_Schaffen-Diest_2018.jpg",
+      "points": 10
+    },
+    {
+      "id": 73,
+      "facts": "This SUV from Mazda, designed for both on-road and off-road performance, offered practicality with a touch of luxury.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mazda CX",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Mazda_CX-80_PHEV_DSC_6068.jpg",
+      "points": 10
+    },
+    {
+      "id": 74,
+      "facts": "This versatile van from Mazda was part of the Familia series and was designed to offer both passenger and cargo versatility.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mazda Familia Van",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mazda_Familia_Van_%2841571542364%29.jpg/330px-Mazda_Familia_Van_%2841571542364%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 75,
+      "facts": "This sporty two-seater from Mazda is renowned for its sleek design and thrilling driving experience, often regarded as a roadster icon.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mazda MX",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Mazda_MX-5_%28ND%29_1X7A7471.jpg",
+      "points": 10
+    },
+    {
+      "id": 76,
+      "facts": "This performance-oriented coupe from Mazda was known for its rotary engine and sporty handling, popular among driving enthusiasts.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mazda Savanna",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mazda-rx3-1st-generation01.jpg/330px-Mazda-rx3-1st-generation01.jpg",
+      "points": 10
+    },
+    {
+      "id": 77,
+      "facts": "This luxury sedan from Mercedes-Benz offered a refined driving experience, combining sophisticated design with powerful performance.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mercedes-Benz 280",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Mercedes-Benz_280_17RM0445.jpg",
+      "points": 10
+    },
+    {
+      "id": 78,
+      "facts": "This full-size luxury sedan from Mercedes-Benz was known for its advanced engineering, smooth ride, and high-class features.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mercedes-Benz 300",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Mercedes-Benz_W198_300_SL_Gullwing_Genf_2019_1Y7A4987.jpg",
+      "points": 10
+    },
+    {
+      "id": 79,
+      "facts": "This flagship luxury sedan from Mercedes-Benz combined high performance with cutting-edge technology and a sophisticated design.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mercedes-Benz 500",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Mercedes-Benz_R129_500_SL_%281998-2001%29_1X7A0337.jpg",
+      "points": 10
+    },
+    {
+      "id": 80,
+      "facts": "This vehicle is a popular compact SUV known for its modern design and tech features.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "MG ZS",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2018_SAIC-MG_ZS%2C_front_8.11.18.jpg/330px-2018_SAIC-MG_ZS%2C_front_8.11.18.jpg",
+      "points": 10
+    },
+    {
+      "id": 81,
+      "facts": "A small and iconic car that has been around for decades, famous for its compact size and fun driving experience.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mini Cooper",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mini_One_%28R50%29_%E2%80%93_Frontansicht%2C_12._Juni_2011%2C_D%C3%BCsseldorf.jpg/330px-Mini_One_%28R50%29_%E2%80%93_Frontansicht%2C_12._Juni_2011%2C_D%C3%BCsseldorf.jpg",
+      "points": 10
+    },
+    {
+      "id": 82,
+      "facts": "This vehicle is a versatile and reliable van from Mitsubishi, widely used for both personal and business purposes.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mitsubishi Express",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/1984_Mitsubishi_L200_Express_%28MC%29_2.3_Diesel_4WD_utility_%2822551245861%29_%28cropped%29.jpg/330px-1984_Mitsubishi_L200_Express_%28MC%29_2.3_Diesel_4WD_utility_%2822551245861%29_%28cropped%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 83,
+      "facts": "This compact crossover from Mitsubishi is known for its stylish design and efficient performance.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mitsubishi Outlander Sport",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/2012_Mitsubishi_Outlander_Sport_PX_2.0_GA2W_%2820220519%29.jpg/330px-2012_Mitsubishi_Outlander_Sport_PX_2.0_GA2W_%2820220519%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 84,
+      "facts": "A classic 1980s sports coupe from Mitsubishi, featuring a sleek design and performance-oriented features.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mitsubishi Sapporo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Mitsubishi_Sapporo_2000_GSL_1982_%2815149987908%29.jpg/330px-Mitsubishi_Sapporo_2000_GSL_1982_%2815149987908%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 85,
+      "facts": "This midsize sedan from Mitsubishi is known for its comfort and reliability, popular in the 1990s.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mitsubishi Sigma",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/1991-1996_Mitsubishi_Sigma_sedan_01.jpg/330px-1991-1996_Mitsubishi_Sigma_sedan_01.jpg",
+      "points": 10
+    },
+    {
+      "id": 86,
+      "facts": "This vehicle is a powerful SUV from Mitsubishi with a focus on performance and off-road capability.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mitsubishi V3000",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/1995_Mitsubishi_V3000_Super_Saloon_%28KS%3B_New_Zealand%29_This_vehicle_is_more_or_less_identical_to_the_Australian_Verada.jpg/330px-1995_Mitsubishi_V3000_Super_Saloon_%28KS%3B_New_Zealand%29_This_vehicle_is_more_or_less_identical_to_the_Australian_Verada.jpg",
+      "points": 10
+    },
+    {
+      "id": 87,
+      "facts": "A rugged pickup truck from Nissan, designed for both work and off-road adventures.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Nissan Frontier",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/2021_Nissan_Frontier_Pro_4X_%28Colombia%3B_facelift%29_front_view_01.png/330px-2021_Nissan_Frontier_Pro_4X_%28Colombia%3B_facelift%29_front_view_01.png",
+      "points": 10
+    },
+    {
+      "id": 88,
+      "facts": "A small and affordable sedan, widely popular in many international markets for its practicality.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Nissan Latio",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2004-2008_NISSAN_TIIDA_LATIO.jpg/330px-2004-2008_NISSAN_TIIDA_LATIO.jpg",
+      "points": 10
+    },
+    {
+      "id": 89,
+      "facts": "This is a special Nissan vehicle designed for emergency services and rescue operations.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Nissan Paramedic",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Nissan_Paramedic_Front_view%2C_Original_equipment_manufacturer%28OEM%29_by_Isuzu_Elf%2C.JPG",
+      "points": 10
+    },
+    {
+      "id": 90,
+      "facts": "A compact and affordable sedan from Nissan, well known for its fuel efficiency and urban-friendly size.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Nissan Versa",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2011_Nissan_Versa_1.6_Sedan.jpg/330px-2011_Nissan_Versa_1.6_Sedan.jpg",
+      "points": 10
+    },
+    {
+      "id": 91,
+      "facts": "This vehicle is a versatile van produced by Opel, widely used for both commercial and personal purposes.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Opel Vivaro",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Opel_Vivaro_Combi_Facelift_front.JPG/330px-Opel_Vivaro_Combi_Facelift_front.JPG",
+      "points": 10
+    },
+    {
+      "id": 92,
+      "facts": "A sleek sedan from Peugeot, known for its sophisticated design and efficient performance.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Peugeot 408",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Peugeot_408_II_facelift_01_China_2019-04-03.jpg/330px-Peugeot_408_II_facelift_01_China_2019-04-03.jpg",
+      "points": 10
+    },
+   
+    {
+      "id": 95,
+      "facts": "This vehicle is a compact car from Plymouth, popular for its affordability and efficiency.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Plymouth Scamp",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Plymouth_Valiant_Scamp_%28Rigaud%29.JPG",
+      "points": 10
+    },
+    {
+      "id": 96,
+      "facts": "A sturdy and reliable pickup truck from Ram, designed for tough jobs and off-road adventures.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ram 1200",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ram_1200_GLS_2019.jpg/330px-Ram_1200_GLS_2019.jpg",
+      "points": 10
+    },
+    {
+      "id": 97,
+      "facts": "This is an all-electric vehicle from Renault, part of their innovative E-Tech line, offering eco-friendly performance.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Renault E-Tech Electric",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Renault_5_E-Tech_Electric_Auto_Zuerich_2024_DSC_6501.jpg",
+      "points": 10
+    },
+    {
+      "id": 98,
+      "facts": "A compact sedan from Renault, offering a stylish design and practical features.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Renault Scala",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Renault_Scala_Cuba.jpg/330px-Renault_Scala_Cuba.jpg",
+      "points": 10
+    },
+    {
+      "id": 99,
+      "facts": "A classic British luxury car, renowned for its craftsmanship and elegant design.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Riley Kestrel",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1934_Riley_Kestrel_1100_Saloon_at_Capel_Manor%2C_Enfield%2C_London%2C_England_1.jpg/330px-1934_Riley_Kestrel_1100_Saloon_at_Capel_Manor%2C_Enfield%2C_London%2C_England_1.jpg",
+      "points": 10
+    },
+    {
+      "id": 100,
+      "facts": "A prestigious luxury sedan from Rolls-Royce, known for its opulence and craftsmanship.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Rolls-Royce Park Ward",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rolls-Royce_Museum_Dornbirn_064_Rolls-Royce_Phantom_II_1932_von_Park_Ward.jpg",
+      "points": 10
+    },
+    {
+      "id": 101,
+      "facts": "An iconic luxury sedan from Rolls-Royce, widely regarded as one of the best in automotive craftsmanship.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Rolls-Royce Phantom",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/RollsRoycePhantomCirca1936.jpg/330px-RollsRoycePhantomCirca1936.jpg",
+      "points": 10
+    },
+    {
+      "id": 102,
+      "facts": "A compact sedan from Škoda, known for its practicality and value for money.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Škoda Rapid",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Skoda-museum-mlada-boleslav-rr-012.jpg/330px-Skoda-museum-mlada-boleslav-rr-012.jpg",
+      "points": 10
+    },
+    {
+      "id": 103,
+      "facts": "A plug-in hybrid SUV from Suzuki, offering both efficiency and off-road capability.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Suzuki Across",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Suzuki_Across_%28XA50%29_1X7A6320.jpg",
+      "points": 10
+    },
+    {
+      "id": 104,
+      "facts": "A compact car from Suzuki, renowned for its affordable pricing and efficient fuel economy.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Suzuki Baleno",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Suzuki_Baleno_front_20071004.jpg/330px-Suzuki_Baleno_front_20071004.jpg",
+      "points": 10
+    },
+    {
+      "id": 105,
+      "facts": "A small hatchback from Suzuki, offering great maneuverability and practicality for city driving.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Suzuki Hatch",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/1973_Suzuki_Fronte_Hatch_B%2C_front_right_%28Suzuki_Plaza%29.jpg/330px-1973_Suzuki_Fronte_Hatch_B%2C_front_right_%28Suzuki_Plaza%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 106,
+      "facts": "A compact city car from Suzuki, designed for urban environments and known for its easy handling.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Suzuki Karimun",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2019_Suzuki_Karimun_Wagon_R_GS_%28Indonesia%29_front_view.jpg/330px-2019_Suzuki_Karimun_Wagon_R_GS_%28Indonesia%29_front_view.jpg",
+      "points": 10
+    },
+    {
+      "id": 107,
+      "facts": "A mini MPV from Suzuki, popular for its versatility and family-friendly design.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Suzuki Landy",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Suzuki_EVERY_Landy_XC_%28LA-DA32W%29_front.jpg/330px-Suzuki_EVERY_Landy_XC_%28LA-DA32W%29_front.jpg",
+      "points": 10
+    },
+    {
+      "id": 108,
+      "facts": "A minivan from Toyota, known for its spacious interior and comfort, often used for family travel.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Toyota Granvia",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/1997_Toyota_Granvia_01.jpg/330px-1997_Toyota_Granvia_01.jpg",
+      "points": 10
+    },
+    {
+      "id": 109,
+      "facts": "A small city car from Toyota, designed for compact urban environments, with a focus on practicality.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Toyota Pixis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Toyota_Pixis_Epoch_Xf_LA310A_02960.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 111,
+      "facts": "A compact van from Toyota, designed for both passenger and cargo transportation with a sporty touch.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Toyota SportsVan",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/2002_Toyota_Sportsvan_Diesel_rear%2C_Copenhagen.jpg",
+      "points": 10
+    },
+    {
+      "id": 112,
+      "facts": "A utility vehicle from Toyota, designed for heavy-duty work and offering a rugged performance.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Toyota Stallion",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/1997_Toyota_Kijang_1.8_SSX_%28Indonesia%29_front_view.jpg",
+      "points": 10
+    },
+    {
+      "id": 113,
+      "facts": "A minivan from Toyota, known for its spacious interior and comfort, suitable for large families and group travel.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Toyota Tarago",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/1988_Toyota_Tarago_%28YR22RG%29_RV_van_%282015-07-15%29_01.jpg/330px-1988_Toyota_Tarago_%28YR22RG%29_RV_van_%282015-07-15%29_01.jpg",
+      "points": 10
+    },
+    {
+      "id": 114,
+      "facts": "A compact SUV from Toyota, designed for urban adventures, offering a high driving position and efficiency.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Toyota Urban Cruiser",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Toyota_Urban_Cruiser.jpg/330px-Toyota_Urban_Cruiser.jpg",
+      "points": 10
+    },
+    {
+      "id": 115,
+      "facts": "A subcompact car from Toyota, popular for its compact size, fuel efficiency, and low maintenance costs.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Toyota Yaris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2020_Toyota_Yaris_Design_HEV_CVT_1.5_Front.jpg/330px-2020_Toyota_Yaris_Design_HEV_CVT_1.5_Front.jpg",
+      "points": 10
+    },
+    {
+      "id": 116,
+      "facts": "An electric vehicle from Venucia, a subsidiary of Dongfeng Motor, designed to offer sustainable urban mobility.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Venucia e30",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Venucia_e30_03_--_Auto_China_--_2014-04-23.jpg/330px-Venucia_e30_03_--_Auto_China_--_2014-04-23.jpg",
+      "points": 10
+    },
+    {
+      "id": 117,
+      "facts": "A compact sedan from Volkswagen, known for its solid build quality and refined driving experience.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Volkswagen Bora",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/2003_Volkswagen_Bora_S_TDi_1.9_Front.jpg/330px-2003_Volkswagen_Bora_S_TDi_1.9_Front.jpg",
+      "points": 10
+    },
+    {
+      "id": 118,
+      "facts": "A versatile van from Volkswagen, often used for family transport and business purposes, with a high level of comfort.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Volkswagen Caravelle",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Volk_bus_1968a.jpg/330px-Volk_bus_1968a.jpg",
+      "points": 10
+    },
+    {
+      "id": 119,
+      "facts": "A high-performance version of the Volkswagen Golf, with a sporty engine and upgraded handling for driving enthusiasts.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Volkswagen Golf R32",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Volkswagen_Golf_IV_R32_Classic-Days_2022_DSC_0035.jpg",
+      "points": 10
+    },
+    {
+      "id": 120,
+      "facts": "A legendary performance hatchback from Volkswagen, known for its sporty driving experience and iconic status in the hot hatch category.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Volkswagen GTI",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Volkswagen_Golf_VIII_GTI_Clubsport_45_IMG_4884.jpg",
+      "points": 10
+    },
+    {
+      "id": 121,
+      "facts": "A compact sedan from Volkswagen, known for its efficient design and smooth ride, commonly found as a fleet vehicle.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Volkswagen Vento",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Vento_Jetta_3.jpg/330px-Vento_Jetta_3.jpg",
+      "points": 10
+    },
+    {
+      "id": 122,
+      "facts": "A classic American muscle car from AMC, famous for its aggressive styling and powerful V8 engine.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "AMC AMX",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/1968_AMC_AMX_390_Go_Package%2C_front_left_%28Cruisin%27_the_River_Lowellville_Car_Show%2C_June_19th%2C_2023%29.jpg/330px-1968_AMC_AMX_390_Go_Package%2C_front_left_%28Cruisin%27_the_River_Lowellville_Car_Show%2C_June_19th%2C_2023%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 123,
+      "facts": "A concept car from AMC, showcasing futuristic design elements and performance enhancements, only a few prototypes were made.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "AMC AMX III",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/1970_AMC_AMX.3_proto%2C_fL.jpg/330px-1970_AMC_AMX.3_proto%2C_fL.jpg",
+      "points": 10
+    },
+    {
+      "id": 124,
+      "facts": "A compact car from AMC, known for its versatility and sporty performance, especially popular in the 1970s.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "AMC Hornet",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/1976_AMC_Hornet_Sportabout.jpg/330px-1976_AMC_Hornet_Sportabout.jpg",
+      "points": 10
+    },
+    {
+      "id": 125,
+      "facts": "A muscle car from AMC, known for its bold design and powerful V8 engine, made famous in the late 1960s and early 1970s.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "AMC Javelin",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/1971_AMC_Javelin_SST_red_Kenosha_street.JPG/330px-1971_AMC_Javelin_SST_red_Kenosha_street.JPG",
+      "points": 10
+    },
+    {
+      "id": 126,
+      "facts": "A midsize car from AMC, offering both performance and comfort, popular in the 1960s and 1970s.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "AMC Rebel",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/1968_AMC_Rebel_Station_Wagon-GoldWhite.jpg/330px-1968_AMC_Rebel_Station_Wagon-GoldWhite.jpg",
+      "points": 10
+    },
+    {
+      "id": 127,
+      "facts": "A mid-range vehicle from AMC, known for its bold styling and its role as a full-size car in the 1970s.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "AMC Matador",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/1975_AMC_Matador_base_sedan_in_Fawn_Beige_at_2015_Rockville_show_1of6_%28cropped%29.jpg/330px-1975_AMC_Matador_base_sedan_in_Fawn_Beige_at_2015_Rockville_show_1of6_%28cropped%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 128,
+      "facts": "A legendary American muscle car from Ford, famous for its performance in the 1960s and 1970s with a high-performance V8 engine.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Boss 302 Mustang",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/1970_Ford_Mustang_Boss_302_%2815863840731%29.jpg/330px-1970_Ford_Mustang_Boss_302_%2815863840731%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 129,
+      "facts": "An iconic muscle car from Ford, equipped with a 429 cubic inch V8 engine, offering immense power and performance.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Boss 429 Mustang",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BOSS429.JPG/330px-BOSS429.JPG",
+      "points": 10
+    },
+    {
+      "id": 130,
+      "facts": "A high-performance car from Buick, known for its sporty looks and powerful engine, competing in the muscle car era.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Buick Gran Sport",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Buick_gs_emblem.png/330px-Buick_gs_emblem.png",
+      "points": 10
+    },
+    {
+      "id": 131,
+      "facts": "A classic American muscle car from Buick, renowned for its styling and performance in the 1960s and 1970s.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Buick Skylark",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/1972_Buick_Skylark_Front.jpg/330px-1972_Buick_Skylark_Front.jpg",
+      "points": 10
+    },
+    {
+      "id": 132,
+      "facts": "A luxury muscle car from Buick, offering impressive performance and an elegant design.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Buick Wildcat",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/1963_Buick_Wildcat_--_06-18-2011_2.jpg/330px-1963_Buick_Wildcat_--_06-18-2011_2.jpg",
+      "points": 10
+    },
+    {
+      "id": 133,
+      "facts": "A legendary American muscle car from Chevrolet, known for its aggressive design and high-performance engines.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chevrolet Camaro",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2019_Chevrolet_Camaro_2SS_6.2L_front_3.16.19.jpg/330px-2019_Chevrolet_Camaro_2SS_6.2L_front_3.16.19.jpg",
+      "points": 10
+    },
+    {
+      "id": 134,
+      "facts": "The sixth generation of the This car, known for its modern take on the classic muscle car, combining performance and technology.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chevrolet Camaro (sixth generation)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2019_Chevrolet_Camaro_2SS_6.2L_front_3.16.19.jpg/330px-2019_Chevrolet_Camaro_2SS_6.2L_front_3.16.19.jpg",
+      "points": 10
+    },
+    {
+      "id": 135,
+      "facts": "Introduced in 1967, this vehicle became a symbol of American muscle cars with its aggressive styling and performance capabilities. It was a direct competitor to the Ford Mustang.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chevrolet Camaro (first generation)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/1968_Chevrolet_Camaro_Z28_HCC22.jpg/330px-1968_Chevrolet_Camaro_Z28_HCC22.jpg",
+      "points": 10
+    },
+    {
+      "id": 136,
+      "facts": "Produced from 1970 to 1981, this vehicle showcased a more refined and sleeker design than its predecessor. It became a classic in the muscle car category for its powerful engines and handling.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chevrolet Camaro (second generation)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/1970_Chevrolet_Camaro_%2827755093943%29_%28cropped%29.jpg/330px-1970_Chevrolet_Camaro_%2827755093943%29_%28cropped%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 137,
+      "facts": "Launched in 1982, this vehicle featured a more modern, aerodynamic design compared to its earlier models, and it was praised for offering better fuel efficiency and handling.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chevrolet Camaro (third generation)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Camaro_III_%2817%29_%28cropped%29.jpg/330px-Camaro_III_%2817%29_%28cropped%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 138,
+      "facts": "Reviving the muscle car legend in 2010, this model combined retro styling with modern technology. It received a positive response for its performance and aesthetics.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chevrolet Camaro (fifth generation)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Chevrolet_Camaro_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2816%29_%28cropped%29.jpg/330px-Chevrolet_Camaro_-_Flickr_-_Alexandre_Pr%C3%A9vot_%2816%29_%28cropped%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 139,
+      "facts": "A popular American muscle car introduced in 1964, it became known for its high-performance capabilities and muscular styling. The vehicle was a key player in the muscle car era.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chevrolet Chevelle",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/1970_Chevrolet_Chevelle_SS_396_Sport_Coupe%2C_front_left%2C_06-08-2024.jpg/330px-1970_Chevrolet_Chevelle_SS_396_Sport_Coupe%2C_front_left%2C_06-08-2024.jpg",
+      "points": 10
+    },
+    {
+      "id": 140,
+      "facts": "Originally introduced in 1962, this compact vehicle was known for its affordability and practicality. It later became a more recognizable model under a different name.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chevrolet Chevy II / Nova",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flickr_-_DVS1mn_-_63_Chevrolet_Chevy_II_Nova_%284%29_%28cropped%29.jpg/330px-Flickr_-_DVS1mn_-_63_Chevrolet_Chevy_II_Nova_%284%29_%28cropped%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 141,
+      "facts": "This vehicle, introduced in 1959, uniquely combined the functions of a pickup truck and a station wagon. It became iconic for its hybrid design, blending utility and style.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chevrolet El Camino",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/1969_Chevrolet_El_Camino_SS%2C_front_5.19.19.jpg/330px-1969_Chevrolet_El_Camino_SS%2C_front_5.19.19.jpg",
+      "points": 10
+    },
+    {
+      "id": 142,
+      "facts": "A full-size vehicle that debuted in 1958, it became a symbol of American luxury with its smooth ride and elegant design. It remains a beloved classic for many car enthusiasts.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chevrolet Impala",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Chevrolet_Impala_%2814373209694%29.jpg/330px-Chevrolet_Impala_%2814373209694%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 143,
+      "facts": "Introduced in 1970, this personal luxury coupe became known for its smooth ride and refined styling. It was one of the most popular cars of its time, often seen as an American classic.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chevrolet Monte Carlo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/2006_Chevrolet_Monte_Carlo_LS_--_NHTSA.jpg/330px-2006_Chevrolet_Monte_Carlo_LS_--_NHTSA.jpg",
+      "points": 10
+    },
+    {
+      "id": 144,
+      "facts": "Produced in the 1970s, this Australian muscle car was equipped with a powerful V8 engine and became known for its bold and aggressive styling, standing out in the automotive market.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Chrysler Valiant Charger",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/1972_Chrysler_Valiant_VH_Charger_RT_E38_%2821759962393%29.jpg/330px-1972_Chrysler_Valiant_VH_Charger_RT_E38_%2821759962393%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 145,
+      "facts": "Introduced in 1970, this muscle car made a significant impact with its iconic design and powerful engine options. It continues to be a highly regarded name in the world of performance vehicles.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Dodge Challenger",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dodge_Challenger_SRT8_%282015%29_Hirschaid-20220709-RM-120221.jpg/330px-Dodge_Challenger_SRT8_%282015%29_Hirschaid-20220709-RM-120221.jpg",
+      "points": 10
+    },
+    {
+      "id": 146,
+      "facts": "Introduced in 1970, this muscle car was a symbol of American performance, featuring powerful engine options and aggressive styling. It has remained an iconic representation of American muscle car culture.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Dodge Challenger (1970)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/1970_Dodge_Challenger_RT_440_Magnum_%2813440447413%29.jpg/330px-1970_Dodge_Challenger_RT_440_Magnum_%2813440447413%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 147,
+      "facts": "This modern iteration of the classic muscle car was introduced in 2008, combining retro styling with modern performance and technology. It quickly became a favorite for performance car enthusiasts.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Dodge Challenger (2008)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/2017_Dodge_Challenger_R_T_Scat_Pack%2C_front_right%2C_07-21-2024.jpg/330px-2017_Dodge_Challenger_R_T_Scat_Pack%2C_front_right%2C_07-21-2024.jpg",
+      "points": 10
+    },
+    {
+      "id": 148,
+      "facts": "First launched in 1966, this full-size car offered performance with muscle car roots, combining both speed and comfort. It quickly became one of the most powerful vehicles in its class.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Dodge Charger (1966)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1969_Dodge_Charger_R-T%2C_front_right_%282022_Ellwood_City_Fall_Fest_%26_Car_Cruise%29.jpg/330px-1969_Dodge_Charger_R-T%2C_front_right_%282022_Ellwood_City_Fall_Fest_%26_Car_Cruise%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 149,
+      "facts": "Known for its aerodynamic design, this high-performance car, introduced in the late 1960s, became famous for its dominance on the NASCAR track and its distinctive rear wing.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Dodge Charger Daytona",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/1969_Dodge_Charger_Daytona_%2813419983895%29.jpg/330px-1969_Dodge_Charger_Daytona_%2813419983895%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 150,
+      "facts": "This mid-size car from the 1960s gained recognition for its muscular look and powerful engine options, making it a standout in Dodge's lineup of performance vehicles.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Dodge Coronet",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/67_Dodge_Coronet_R_T_%289691059864%29.jpg/330px-67_Dodge_Coronet_R_T_%289691059864%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 151,
+      "facts": "Introduced in the early 1960s, this compact car was known for its affordability and became a popular choice among families and young drivers. Its simple design belied its reliable performance.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Dodge Dart",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/1966_Dodge_Dart_GT_%2835578852214%29_%28cropped%29.jpg/330px-1966_Dodge_Dart_GT_%2835578852214%29_%28cropped%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 152,
+      "facts": "In the 1960s, this performance-oriented version of the Dodge Coronet gained attention for its high-powered engine options and sleek styling. It was a favorite of muscle car enthusiasts.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Dodge GTX",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Dodge_GTX_coup%C3%A9.JPG/330px-Dodge_GTX_coup%C3%A9.JPG",
+      "points": 10
+    },
+    {
+      "id": 153,
+      "facts": "This full-size wagon, first introduced in the 1960s, was known for its powerful engine and bold design. It served as both a family car and a performance vehicle for those who needed space and speed.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Dodge Magnum",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2008_Dodge_Magnum_SE.jpg/330px-2008_Dodge_Magnum_SE.jpg",
+      "points": 10
+    },
+    {
+      "id": 154,
+      "facts": "A full-size car produced in the 1960s, this model offered a combination of luxury and power. Known for its smooth ride, it became a preferred option for those seeking both comfort and muscle car performance.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Dodge Polara",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/1973_Dodge_Polara_Custom_%2829332221750%29.jpg/330px-1973_Dodge_Polara_Custom_%2829332221750%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 155,
+      "facts": "Introduced in the late 1960s, this vehicle was designed for performance and became well-known for its powerful engine options and aggressive styling. It was a fan favorite among drag racing enthusiasts.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Dodge Super Bee",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/1969_Dodge_Coronet_Super_Bee_A12_%2821700148724%29.jpg/330px-1969_Dodge_Coronet_Super_Bee_A12_%2821700148724%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 156,
+      "facts": "This special performance version of a full-size car was introduced in the 1960s and was known for its lightweight body and powerful engine, designed to compete in drag racing.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Fairlane Thunderbolt",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/1964_Ford_Fairlane_Thunderbolt_2_door_Sedan_%2821067628402%29.jpg/330px-1964_Ford_Fairlane_Thunderbolt_2_door_Sedan_%2821067628402%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 157,
+      "facts": "This Australian version of a popular American car was introduced in the 1970s. Known for its muscle car styling and powerful engine options, it was a favorite among fans of high-performance vehicles.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Falcon (XA)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ford_XA_Falcon_500_Sedan_with_GS_Rally_Pack.jpg/330px-Ford_XA_Falcon_500_Sedan_with_GS_Rally_Pack.jpg",
+      "points": 10
+    },
+    {
+      "id": 158,
+      "facts": "A performance version of a famous car, this model was introduced with distinctive styling and engine upgrades, designed to stand out in the muscle car era. It became a rare and desirable collectible.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Falcon Cobra",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ford_Cobra_no.66.jpg/330px-Ford_Cobra_no.66.jpg",
+      "points": 10
+    },
+    {
+      "id": 159,
+      "facts": "This full-size car was one of Ford’s key offerings during the 1960s. Known for its large body and comfort, it also had a reputation for its powerful V8 engine options, making it a contender in the muscle car category.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Galaxie",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/1963_Ford_Galaxie_sedan_2_--_06-05-2010.jpg/330px-1963_Ford_Galaxie_sedan_2_--_06-05-2010.jpg",
+      "points": 10
+    },
+    {
+      "id": 160,
+      "facts": "Produced between the 1970s, this compact car was a favorite for families due to its affordability, but it also appealed to performance enthusiasts with its sporty styling and solid engine choices.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Maverick (1970–1977)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/1972_Ford_Maverick_Sprint_%28616806978%29.jpg/330px-1972_Ford_Maverick_Sprint_%28616806978%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 161,
+      "facts": "This modern iteration of Ford's iconic pony car, launched in the early 2000s, is known for its retro-inspired design combined with contemporary performance and technology, making it a popular choice among enthusiasts.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Mustang (fifth generation)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Shelby_Mustang_GT500_Goodwood_001.jpg/330px-Shelby_Mustang_GT500_Goodwood_001.jpg",
+      "points": 10
+    },
+    {
+      "id": 162,
+      "facts": "Introduced in the 1960s, this car revolutionized the sports car market. Known for its distinctive long hood and short rear deck, it quickly became synonymous with American muscle and remains a legend in automotive history.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Mustang (first generation)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/1965_Ford_Mustang_2D_Hardtop_Front.jpg/330px-1965_Ford_Mustang_2D_Hardtop_Front.jpg",
+      "points": 10
+    },
+    {
+      "id": 163,
+      "facts": "This version of the Mustang, produced in the 1990s, featured more modern styling and improvements in performance. It also introduced the introduction of the GT model, making it a standout in its generation.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Mustang (fourth generation)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2002_Ford_Mustang_GT_Coupe_in_Mineral_Grey_Metallic%2C_Front_Right%2C_05-06-2023.jpg/330px-2002_Ford_Mustang_GT_Coupe_in_Mineral_Grey_Metallic%2C_Front_Right%2C_05-06-2023.jpg",
+      "points": 10
+    },
+    {
+      "id": 164,
+      "facts": "Introduced in the 2010s, this generation of the iconic pony car received significant updates, with improvements in both styling and performance, bringing it into the modern era while still paying homage to its heritage.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Mustang (seventh generation)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/2024_Ford_Mustang_GT_Premium_convertible%2C_front_left%2C_09-28-2024.jpg/330px-2024_Ford_Mustang_GT_Premium_convertible%2C_front_left%2C_09-28-2024.jpg",
+      "points": 10
+    },
+    {
+      "id": 165,
+      "facts": "This iteration of the Mustang, launched in the 2010s, was one of the most iconic in the car's history. It brought significant improvements in handling, engine performance, and was one of the first to feature independent rear suspension.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Mustang (sixth generation)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/2019_Ford_Mustang_GT_5.0_facelift.jpg/330px-2019_Ford_Mustang_GT_5.0_facelift.jpg",
+      "points": 10
+    },
+    {
+      "id": 166,
+      "facts": "This high-performance version of the Ford Mustang is known for its powerful V8 engine and distinct styling. It was designed for those who wanted both speed and track-ready handling.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Mustang Mach 1",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/1969_Ford_Mustang_Mach_I.jpg/330px-1969_Ford_Mustang_Mach_I.jpg",
+      "points": 10
+    },
+    {
+      "id": 167,
+      "facts": "This special edition of the Ford Mustang was introduced for performance enthusiasts. With a focus on high-speed capabilities, it was powered by a supercharged engine and was designed for those seeking both power and handling precision.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Mustang SVT Cobra",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/2004_Cobra.jpg/330px-2004_Cobra.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 169,
+      "facts": "This model from Ford became an iconic symbol of the American luxury coupe in the 1950s. It was known for its distinctive styling and powerful engine options, often referred to as a personal luxury car.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Thunderbird",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/1957_Ford_Thunderbird_%2828911503716%29_%28cropped%29.jpg/330px-1957_Ford_Thunderbird_%2828911503716%29_%28cropped%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 170,
+      "facts": "Produced in the 1960s and 1970s, this mid-sized car was Ford's entry into the performance market. It was known for its sporty styling and powerful engines, including the 429 V8.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Torino",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/1970_ford_torino_cobra_sportsroof_chiolero.jpg/330px-1970_ford_torino_cobra_sportsroof_chiolero.jpg",
+      "points": 10
+    },
+    {
+      "id": 171,
+      "facts": "This high-performance variant of a classic Ford car was designed for NASCAR success in the late 1960s and early 1970s. It featured special aerodynamics and a powerful engine.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford Torino Talladega",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Talladegas_at_Talladega_in_2009.jpg/330px-Talladegas_at_Talladega_in_2009.jpg",
+      "points": 10
+    },
+    {
+      "id": 172,
+      "facts": "This muscle car, produced in Australia, was built to compete in the local market. With its aggressive styling and powerful engine, it became an icon of Australian motoring.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Ford XY Falcon GT",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/GT-HO-Phase3-b.jpg/330px-GT-HO-Phase3-b.jpg",
+      "points": 10
+    },
+    {
+      "id": 173,
+      "facts": "This Australian muscle car, first released in the 1960s, is known for its high-performance variants and striking design. It became a symbol of performance and power in the Australian automotive scene.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Holden Monaro",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wikipedia_Final_v3.png/330px-Wikipedia_Final_v3.png",
+      "points": 10
+    },
+    {
+      "id": 174,
+      "facts": "This compact car, popular in Australia, gained a reputation for its performance and handling, particularly in motorsport, where it achieved great success.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Holden Torana",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/1977_Holden_Torana_%28LX%29_SLR_5000_A9X_sedan_%282006-11-26%29_01.jpg/330px-1977_Holden_Torana_%28LX%29_SLR_5000_A9X_sedan_%282006-11-26%29_01.jpg",
+      "points": 10
+    },
+    {
+      "id": 175,
+      "facts": "This special edition of a popular Australian muscle car was released to commemorate a racing victory. It became one of the most sought-after collectible cars in Australian automotive history.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "John Goss Special",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ford_XB_Falcon_Hardtop_John_Goss_Special.jpg/330px-Ford_XB_Falcon_Hardtop_John_Goss_Special.jpg",
+      "points": 10
+    },
+    {
+      "id": 176,
+      "facts": "This compact car from Mercury was part of Ford’s offering in the 1960s and 1970s. It became famous for its performance variants and was a popular choice for muscle car enthusiasts.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mercury Comet",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/1964_Mercury_Comet_Caliente_Coupe_%289321170381%29.jpg/330px-1964_Mercury_Comet_Caliente_Coupe_%289321170381%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 177,
+      "facts": "This Mercury car, often associated with its luxury styling and powerful engine options, was known for its sleek design and strong performance throughout the 1960s.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mercury Cougar",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/1969_Mercury_Cougar_2d_HT%2C_front_right.jpg/330px-1969_Mercury_Cougar_2d_HT%2C_front_right.jpg",
+      "points": 10
+    },
+    {
+      "id": 178,
+      "facts": "This model from Mercury was produced during the 1960s and early 1970s. It was well-known for its high-performance variants and its success in motorsport.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mercury Cyclone",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/1971_Mercury_Montego_Cyclone.jpg/330px-1971_Mercury_Montego_Cyclone.jpg",
+      "points": 10
+    },
+    {
+      "id": 179,
+      "facts": "This high-performance version of a classic muscle car was known for its aggressive styling and powerful engine options. It was a special edition designed for track use in the late 1960s.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mercury Cyclone Spoiler II",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mercury_Cyclone_Spoiler_II_Dan_Gurney.jpg/330px-Mercury_Cyclone_Spoiler_II_Dan_Gurney.jpg",
+      "points": 10
+    },
+    {
+      "id": 180,
+      "facts": "A full-size car from Mercury, it was a luxury model produced in the 1950s and 1960s. Known for its elegant design and advanced features, it was often seen as a premium alternative to other Ford models.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mercury Montclair",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/1955_Mercury_Montclair_4-door_sedan%2C_front_left_%28Hershey_2019%29.jpg/330px-1955_Mercury_Montclair_4-door_sedan%2C_front_left_%28Hershey_2019%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 181,
+      "facts": "This mid-sized car was popular in the 1960s and 1970s, known for its performance variants and stylish design. It was often chosen for its comfort and solid build.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Mercury Montego",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/05-07_Mercury_Montego.jpg/330px-05-07_Mercury_Montego.jpg",
+      "points": 10
+    },
+   
+    {
+      "id": 183,
+      "facts": "This full-size car was produced by Oldsmobile from the 1940s to the 1980s. It was known for its smooth ride, stylish design, and V8 engine options, and it became a favorite among families and car enthusiasts.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Oldsmobile 88",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/1996_Oldsmobile_Eighty_Eight_LS_in_Light_Gray_Metallic%2C_front_left.jpg/330px-1996_Oldsmobile_Eighty_Eight_LS_in_Light_Gray_Metallic%2C_front_left.jpg",
+      "points": 10
+    },
+    {
+      "id": 184,
+      "facts": "This muscle car, produced by Oldsmobile, became famous for its performance and success in both the street and track arenas. It had a powerful V8 engine and stylish design.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Oldsmobile 442",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/1971_Oldsmobile_442_%282616277147%29.jpg/330px-1971_Oldsmobile_442_%282616277147%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 185,
+      "facts": "A mid-sized car produced by Oldsmobile, the Cutlass was well-known for its strong performance, luxury features, and classic American design, making it one of the most successful cars of its era.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Oldsmobile Cutlass",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/1971_Cutlass_Supreme_convertible.JPG/330px-1971_Cutlass_Supreme_convertible.JPG",
+      "points": 10
+    },
+    {
+      "id": 186,
+      "facts": "This version of the Cutlass featured more luxurious appointments and better performance options than its base model. It became a favorite among drivers who wanted a balance of style and power.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Oldsmobile Cutlass Supreme",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/1970_Oldsmobile_Cutlass_Supreme_Holiday_Coupe%2C_front_right%2C_06-21-2023.jpg/330px-1970_Oldsmobile_Cutlass_Supreme_Holiday_Coupe%2C_front_right%2C_06-21-2023.jpg",
+      "points": 10
+    },
+    {
+      "id": 187,
+      "facts": "This special edition of the Oldsmobile Cutlass was designed for racing enthusiasts, featuring an upgraded engine and performance features that made it a strong competitor in its class.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Oldsmobile Hurst/Olds",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/1979_Hurst_Olds_W-30_front.jpg/330px-1979_Hurst_Olds_W-30_front.jpg",
+      "points": 10
+    },
+    {
+      "id": 188,
+      "facts": "One of the most iconic American muscle cars of the 1960s, this car was designed for speed and style. It quickly became a symbol of performance, known for its sleek body and powerful engine.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Plymouth Barracuda",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/1970_Plymouth_%27Cuda_%2828085938680%29.jpg/330px-1970_Plymouth_%27Cuda_%2828085938680%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 189,
+      "facts": "This compact performance car, produced by Plymouth, was known for its sporty styling and quick acceleration. It became a favorite among muscle car enthusiasts in the 1970s.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Plymouth Duster",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/1970_Plymouth_Valiant_Duster_340_%2827366262585%29_%28cropped%29.jpg/330px-1970_Plymouth_Valiant_Duster_340_%2827366262585%29_%28cropped%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 190,
+      "facts": "A full-size car that became a staple of American automotive culture, this model was known for its powerful V8 engines and bold design, offering both performance and luxury.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Plymouth Fury",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/1959_Plymouth_Sport_Fury_photo-13.JPG/330px-1959_Plymouth_Sport_Fury_photo-13.JPG",
+      "points": 10
+    },
+    {
+      "id": 191,
+      "facts": "A muscle car that combined high performance with distinctive styling, this Plymouth model was designed to compete with the best in its class, offering power and speed in abundance.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Plymouth GTX",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/1970_Plymouth_GTX.jpg/330px-1970_Plymouth_GTX.jpg",
+      "points": 10
+    },
+    {
+      "id": 192,
+      "facts": "A legendary muscle car, this model from Plymouth became famous for its vibrant colors and distinct features, earning its place in pop culture thanks to its powerful engine and aggressive styling.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Plymouth Road Runner",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Plymouth_Road_Runner_1969_5312706.jpg/330px-Plymouth_Road_Runner_1969_5312706.jpg",
+      "points": 10
+    },
+    {
+      "id": 193,
+      "facts": "Known for its aerodynamic design and wild looks, this Plymouth model was made for speed and became a NASCAR legend, with a unique design that set it apart from other muscle cars.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Plymouth Superbird",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Superbird_Yellow.jpg/330px-Superbird_Yellow.jpg",
+      "points": 10
+    },
+    {
+      "id": 194,
+      "facts": "This compact car from Plymouth was known for its durability and reliable engine options, gaining a reputation as a practical vehicle for everyday driving in the 1960s and 1970s.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Plymouth Valiant",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Plymouth_Valiant_Signet_1969_Schaffen-Diest_2016.jpg/330px-Plymouth_Valiant_Signet_1969_Schaffen-Diest_2016.jpg",
+      "points": 10
+    },
+    {
+      "id": 195,
+      "facts": "This concept car from Pontiac was designed as a futuristic model and played an important role in Pontiac’s design philosophy, offering a sleek and aerodynamic silhouette.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Pontiac Banshee",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/1964_Pontiac_Banshee_%28XP-833%29_Concept_Car.jpg",
+      "points": 10
+    },
+    {
+      "id": 196,
+      "facts": "A performance car from Pontiac, it was well-known for its sleek design and impressive engine options, becoming one of the most beloved muscle cars of the 1960s.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Pontiac Firebird",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Trans_Am_Family.jpg/330px-Trans_Am_Family.jpg",
+      "points": 10
+    },
+    {
+      "id": 197,
+      "facts": "This luxury car was known for its smooth ride and refined features. With a history spanning from the 1960s to the 1980s, it combined sporty performance with a premium feel.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Pontiac Grand Prix",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Pontiac-Grand-Prix-GTP.jpg/330px-Pontiac-Grand-Prix-GTP.jpg",
+      "points": 10
+    },
+    {
+      "id": 198,
+      "facts": "Known for its powerful engine and bold styling, this Pontiac muscle car became one of the defining vehicles of the 1960s performance era, featuring impressive acceleration and speed.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Pontiac GTO",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2005_Pontiac_GTO%2C_front_left%2C_10-28-2022.jpg/330px-2005_Pontiac_GTO%2C_front_left%2C_10-28-2022.jpg",
+      "points": 10
+    },
+    {
+      "id": 199,
+      "facts": "This car was known for its performance capabilities and compact design, offering a strong engine and solid handling, becoming one of Pontiac’s first true performance vehicles.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Pontiac Tempest",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/1967_Pontiac_Tempest_%2817481430724%29.jpg/330px-1967_Pontiac_Tempest_%2817481430724%29.jpg",
+      "points": 10
+    },
+    {
+      "id": 200,
+      "facts": "A sporty two-door car from the 1970s, this model was known for its sleek design and high-performance engine, combining the best of speed and style.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Puma GTB",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Gtb9.jpg/330px-Gtb9.jpg",
+      "points": 10
+    },
+    {
+      "id": 201,
+      "facts": "Famous for its role in a post-apocalyptic film series, this car was modified for intense chases and iconic desert scenes, becoming a symbol of power and ruggedness.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Pursuit Special",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ford_XB_Falcon_Coupe_Mad_Max_interceptor_replica_crop.jpg/330px-Ford_XB_Falcon_Coupe_Mad_Max_interceptor_replica_crop.jpg",
+      "points": 10
+    },
+    {
+      "id": 202,
+      "facts": "A compact car from the 1960s, this model was known for its affordability and reliability, often seen as an ideal entry-level vehicle for young drivers and families.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Rambler American",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/1962_Rambler_American_Conv-Red.jpg/330px-1962_Rambler_American_Conv-Red.jpg",
+      "points": 10
+    },
+    {
+      "id": 203,
+      "facts": "This mid-size car was popular in the 1960s, known for its robust performance and classic design, making it a favorite among enthusiasts looking for a blend of style and power.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Rambler Rebel",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/1957_Rambler_Rebel_hardtop_rfd-Cecil%2710.jpg/330px-1957_Rambler_Rebel_hardtop_rfd-Cecil%2710.jpg",
+      "points": 10
+    },
+    {
+      "id": 204,
+      "facts": "A high-performance variant of the Mustang, this car was designed for speed and agility, with modifications for racing and a reputation for raw power.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Shelby Mustang",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/1965_Shelby_Mustang_GT350_%2820984175008%29_%28cropped%29.jpg/330px-1965_Shelby_Mustang_GT350_%2820984175008%29_%28cropped%29.jpg",
+      "points": 10
+    },
+    
+    {
+      "id": 206,
+      "facts": "This Chevrolet brand was responsible for some of the most powerful and modified cars of the 1960s and 1970s, especially known for its high-performance versions of the Camaro.",
+      "question": "Can you name this vehicle?",
+      "correctAnswer": "Yenko Chevrolet",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Yenko_Chevrolet.jpg/330px-Yenko_Chevrolet.jpg",
+      "points": 10
+    }
+  ]

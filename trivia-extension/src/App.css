@@ -1,0 +1,285 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: auto; /* ✅ Enable scrolling */
+  transition: background-color 0.3s, color 0.3s;
+  font-family: Arial, sans-serif;
+}
+
+body.light-mode {
+  background-color: #f5f5f5;
+  color: #111;
+}
+
+body.dark-mode {
+  background-color: #111;
+  color: #f5f5f5;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.board {
+  min-height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  position: relative;
+}
+
+
+/* Fixed Elements (Player Info and Theme Toggle) */
+.fixed-elements {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+}
+
+.theme-toggle {
+  position: fixed;
+  top: 16px;
+  right: 20px;
+  font-size: 16px;
+  background: rgba(255, 255, 255, 0.6);
+  padding: 6px 12px;
+  border-radius: 8px;
+  color: #111;
+  cursor: pointer;
+  z-index: 1000;
+}
+
+body.dark-mode .theme-toggle {
+  background: rgba(0, 0, 0, 0.6);
+  color: #f5f5f5;
+}
+
+/* Game Grid */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(6, 200px);
+  grid-auto-rows: 200px;
+  gap: 12px;
+  justify-content: center;
+  padding: 120px 24px 60px; /* Top padding for fixed UI, bottom for breathing room */
+}
+
+.cell {
+  position: relative;
+  top: 300px;
+  width: 200px;
+  height: 200px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: 2px solid goldenrod;
+  box-sizing: border-box;
+  border-radius: 8px;
+  background-color: #fff;
+}
+
+body.dark-mode .cell {
+  background-color: #222;
+  border-color: #888;
+}
+
+.cell img {
+  display: none;
+}
+
+/* Modal Overlay */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  pointer-events: none; /* ✅ Don't block scroll/toggle */
+}
+
+.modal {
+  background: white;
+  color: #111;
+  border-radius: 8px;
+  padding: 16px;
+  height: 700px;
+  width: 550px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+  pointer-events: auto; /* ✅ Allow interaction */
+}
+
+body.dark-mode .modal {
+  background: #222;
+  color: #eee;
+}
+
+.modal img {
+  height: 300px;
+  object-fit: contain;
+  margin-bottom: 24px;
+}
+
+.modal h3 {
+  font-size: 1.5em;
+  text-align: center;
+  margin-bottom: 16px;
+  max-height: 20vh;
+  overflow: auto;
+}
+
+.modal input {
+  margin: 8px 0;
+  width: 100%;
+  max-width: 400px;
+  padding: 8px;
+  font-size: 1em;
+  border: 1px solid #ccc;
+}
+
+.modal button {
+  margin: 6px;
+  padding: 8px 12px;
+  font-size: 1em;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.modal button:hover {
+  background-color: #0056b3;
+}
+
+.game-over {
+  position: fixed;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  text-align: center;
+  color: #111;
+  z-index: 1000;
+}
+
+body.dark-mode .game-over {
+  background: #222;
+  color: #f5f5f5;
+}
+
+video, canvas {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.avatar-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: black;
+  color: #222;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+body.dark-mode .avatar-modal {
+  background: #111;
+  color: #f5f5f5;
+}
+
+.avatar-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #f7f7f7;
+  color: #333;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+body.dark-mode .avatar-box {
+  background: #222;
+  color: #eee;
+}
+
+.avatar-box button {
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1.1em;
+  margin-top: 10px;
+}
+
+.avatar-box button:hover {
+  background-color: #0056b3;
+}
+
+.avatar-box h3 {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+.avatar-box p {
+  font-size: 1.1em;
+  margin-bottom: 12px;
+  font-weight: bold;
+}
+
+.avatar-capture-container {
+  display: flex;
+  gap: 40px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.avatar-image {
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+}
+
+.player-info {
+  background-color: white;
+  color: gold;
+  padding: 6px 10px;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+body.dark-mode .player-info {
+  background-color: #333;
+  color: gold;
+}
+
+h1 {
+  color: #111;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+body.dark-mode h1 {
+  color: #f5f5f5;
+}

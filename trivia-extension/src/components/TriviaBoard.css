@@ -1,0 +1,77 @@
+/* Board Layout */
+.board {
+    padding: 10px;
+    background-color: #fff;
+    font-family: Arial, sans-serif;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
+    padding: 20px;
+  }
+  
+  .cell {
+    background-color: #eee;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  .cell img {
+    max-width: 80%;
+    max-height: 80%;
+    object-fit: contain;
+  }
+  
+  /* Modal Styling */
+  .modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .modal {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    max-width: 400px;
+    width: 90%;
+  }
+  
+  .modal img {
+    width: 100%;
+    height: auto;
+    max-height: 300px;
+    object-fit: contain;
+  }
+  
+  button {
+    padding: 10px;
+    margin: 10px;
+    background-color: #1e90ff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #007bff;
+  }
+  
+  button:focus {
+    outline: none;
+  }
+  
